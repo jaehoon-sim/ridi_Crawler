@@ -52,20 +52,19 @@ html = driver.page_source
 soup = BeautifulSoup(html, "html.parser")
 
 items = soup.select(".fig-z0an5g")
-thumbs = soup.select_one("fig-1em810c")
 
 book_list = []
 
 for e, item in enumerate(items, 1):
     book_dict = {}
 
-    book_thumb = soup.select_one(
-        "#__next > main > div > section > ul > li > div > div > a > div > div > img")["src"]
-
     book_index = e
     book_dict['index'] = e
     book_dict['title'] = item.text
-    book_url = f"https://ridibook.com{item.get('href')}"
+    book_url_pre = item.get('href')
+    book_id = book_url_pre[7:17].replace("?", "")
+    book_thumb = f"https://img.ridicdn.net/cover/{book_id}/small?dpi=xxhdpi#1"
+    book_url = f"https://ridibook.com{book_url_pre}"
     book_dict['thumbs'] = book_thumb
     book_dict['url'] = book_url
 
