@@ -6,6 +6,7 @@ from selenium.webdriver.chrome.service import Service
 
 from selenium.webdriver.chrome.options import Options
 
+from webdriver_manager.core.utils import ChromeType
 # 크롬 드라이버 자동 업데이트
 
 from webdriver_manager.chrome import ChromeDriverManager
@@ -19,13 +20,23 @@ req_header_dict = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36'
 }
 
+chrome_service = Service(ChromeDriverManager(
+    chrome_type=ChromeType.CHROMIUM).install())
+
 chrome_options = Options()
+options = [
+    "--headless",
+    "--disable-gpu",
+    "--window-size=1920,1200",
+    "--ignore-certificate-errors",
+    "--disable-extensions",
+    "--no-sandbox",
+    "--disable-dev-shm-usage"
+]
+for option in options:
+    chrome_options.add_argument(option)
 
-chrome_options.add_experimental_option("detach", True)
-
-service = Service(executable_path=ChromeDriverManager().install())
-
-driver = webdriver.Chrome(service=service, options=chrome_options)
+driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
 
 driver.get(url)
 
