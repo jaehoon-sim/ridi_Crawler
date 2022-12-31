@@ -71,7 +71,7 @@ for e, item in enumerate(items, 1):
     book_list.append(book_dict)
 
 
-# print(book_list)
+print(book_list)
 with open('ridi_rf_top60.json', 'w', encoding='utf-8') as file:
     json.dump(book_list, file, ensure_ascii=False)
 
