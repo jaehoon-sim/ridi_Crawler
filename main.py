@@ -64,7 +64,7 @@ for e, item in enumerate(items, 1):
     book_url_pre = item.get('href')
     book_id = book_url_pre[7:17].replace("?", "")
     book_thumb = f"https://img.ridicdn.net/cover/{book_id}/small?dpi=xxhdpi#1"
-    book_url = f"https://ridibook.com{book_url_pre}"
+    book_url = f"https://ridibooks.com{book_url_pre}"
     book_dict['thumbs'] = book_thumb
     book_dict['url'] = book_url
 
