@@ -15,7 +15,7 @@ import time
 
 import json
 
-url = 'https://ridibooks.com/category/bestsellers/6050?page=1'
+url = 'https://ridibooks.com/bestsellers/romance_fantasy_serial'
 req_header_dict = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36'
 }
@@ -51,27 +51,57 @@ html = driver.page_source
 
 soup = BeautifulSoup(html, "html.parser")
 
-items = soup.select(".fig-z0an5g")
+rank = 0
+books = soup.select(".fig-z0an5g")
+stars = soup.select(".fig-hm7n2o")
+authors = soup.select(
+    "#__next > main > section > ul.fig-1nfc3co > li > div > div.fig-jc2buj > div > div.fig-1xj8cjq > div > p.fig-bymbz1")
+genres = soup.select(
+    "#__next > main > section > ul.fig-1nfc3co > li > div > div.fig-jc2buj > div > div.fig-1xj8cjq > div > p.fig-xpukdh")
+
 
 book_list = []
-
-for e, item in enumerate(items, 1):
+for book, star, author, genre in zip(books, stars, authors, genres):
     book_dict = {}
-
-    book_index = e
-    book_dict['index'] = e
-    book_dict['title'] = item.text
-    book_url_pre = item.get('href')
+    rank = rank + 1
+    book_url_pre = book.get('href')
     book_id = book_url_pre[7:17].replace("?", "")
     book_thumb = f"https://img.ridicdn.net/cover/{book_id}/small?dpi=xxhdpi#1"
     book_url = f"https://ridibooks.com{book_url_pre}"
+    book_star = star.text[0:3]
+    book_author = author.text
+    book_genre = genre.text
+
+    book_dict['index'] = rank
+    book_dict['title'] = book.text
     book_dict['thumbs'] = book_thumb
     book_dict['url'] = book_url
+    book_dict['star'] = book_star
+    book_dict['author'] = book_author
+    book_dict['genre'] = book_genre
 
     book_list.append(book_dict)
 
+# for e, item in enumerate(items, 1):
+#     book_dict = {}
 
-print(book_list)
+#     book_index = e
+#     book_dict['index'] = e
+#     book_dict['title'] = item.text
+#     book_url_pre = item.get('href')
+#     book_id = book_url_pre[7:17].replace("?", "")
+#     book_thumb = f"https://img.ridicdn.net/cover/{book_id}/small?dpi=xxhdpi#1"
+#     book_url = f"https://ridibooks.com{book_url_pre}"
+#     book_star = item.select('.fig-19ywzqz')
+#     print(book_star)
+#     book_dict['thumbs'] = book_thumb
+#     book_dict['url'] = book_url
+#     book_dict['star'] = book_star
+
+#     book_list.append(book_dict)
+
+
+# print(book_list)
 with open('ridi_rf_top60.json', 'w', encoding='utf-8') as file:
     json.dump(book_list, file, ensure_ascii=False)
 
