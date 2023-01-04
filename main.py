@@ -51,6 +51,7 @@ html = driver.page_source
 
 soup = BeautifulSoup(html, "html.parser")
 
+driver.quit()
 rank = 0
 books = soup.select(".fig-z0an5g")
 stars = soup.select(".fig-hm7n2o")
@@ -58,10 +59,11 @@ authors = soup.select(
     "#__next > main > section > ul.fig-1nfc3co > li > div > div.fig-jc2buj > div > div.fig-1xj8cjq > div > p.fig-bymbz1")
 genres = soup.select(
     "#__next > main > section > ul.fig-1nfc3co > li > div > div.fig-jc2buj > div > div.fig-1xj8cjq > div > p.fig-xpukdh")
-
+runtimes = soup.select(
+    "#__next > main > section > ul.fig-1nfc3co > li > div > div.fig-jc2buj > div > p.fig-1dnjub6")
 
 book_list = []
-for book, star, author, genre in zip(books, stars, authors, genres):
+for book, star, author, genre, runtime in zip(books, stars, authors, genres, runtimes):
     book_dict = {}
     rank = rank + 1
     book_url_pre = book.get('href')
@@ -71,6 +73,7 @@ for book, star, author, genre in zip(books, stars, authors, genres):
     book_star = star.text[0:3]
     book_author = author.text
     book_genre = genre.text
+    book_runtime = runtime.text
 
     book_dict['index'] = rank
     book_dict['title'] = book.text
@@ -79,6 +82,7 @@ for book, star, author, genre in zip(books, stars, authors, genres):
     book_dict['star'] = book_star
     book_dict['author'] = book_author
     book_dict['genre'] = book_genre
+    book_dict['runtime'] = book_runtime
 
     book_list.append(book_dict)
 
@@ -104,5 +108,3 @@ for book, star, author, genre in zip(books, stars, authors, genres):
 # print(book_list)
 with open('ridi_rf_top60.json', 'w', encoding='utf-8') as file:
     json.dump(book_list, file, ensure_ascii=False)
-
-driver.quit()
