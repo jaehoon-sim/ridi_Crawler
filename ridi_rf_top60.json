@@ -675,9 +675,9 @@
 				"title": "개 같은 나의 대공",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2719001795/small#1",
-					"large": "https://img.ridicdn.net/cover/2719001795/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2719001795/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2719001796/small#1",
+					"large": "https://img.ridicdn.net/cover/2719001796/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2719001796/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -685,7 +685,7 @@
 					"rental": 20
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-04T18:00:11+09:00",
+				"lastOpenedEpisodeDate": "2023-01-05T18:00:09+09:00",
 				"originalCoverSize": {
 					"height": 1098,
 					"width": 720
@@ -699,8 +699,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 9500,
-					"salePrice": 9500,
+					"fullPrice": 9600,
+					"salePrice": 9600,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -722,7 +722,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 98,
+				"total": 99,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
@@ -975,7 +975,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2886
+					"count": 2908
 				}
 			],
 			"ridiselect": false,
@@ -1195,7 +1195,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2945
+					"count": 2946
 				}
 			],
 			"ridiselect": false,
@@ -1525,9 +1525,9 @@
 				"title": "나를 사랑하지 않은 죄",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011321/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011321/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011321/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011325/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011325/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011325/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -1535,7 +1535,7 @@
 					"rental": 20
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-04T18:30:09+09:00",
+				"lastOpenedEpisodeDate": "2023-01-05T18:00:11+09:00",
 				"originalCoverSize": {
 					"height": 1098,
 					"width": 720
@@ -1549,8 +1549,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 6000,
-					"salePrice": 6000,
+					"fullPrice": 6100,
+					"salePrice": 6100,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -1572,7 +1572,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 63,
+				"total": 64,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
@@ -1616,7 +1616,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 160
+					"count": 161
 				},
 				{
 					"rating": 5,
@@ -4495,7 +4495,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3293
+					"count": 3292
 				}
 			],
 			"ridiselect": false,
@@ -5235,9 +5235,9 @@
 				"title": "나쁜 패를 잡고 시작합니다!",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2093077037/small#1",
-					"large": "https://img.ridicdn.net/cover/2093077037/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2093077037/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2093077038/small#1",
+					"large": "https://img.ridicdn.net/cover/2093077038/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2093077038/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -5245,7 +5245,7 @@
 					"rental": 0
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-04T18:00:09+09:00",
+				"lastOpenedEpisodeDate": "2023-01-05T18:00:09+09:00",
 				"originalCoverSize": {
 					"height": 1109,
 					"width": 754
@@ -5259,8 +5259,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 11400,
-					"salePrice": 11400,
+					"fullPrice": 11500,
+					"salePrice": 11500,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -5271,7 +5271,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 119,
+				"total": 120,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
@@ -6664,9 +6664,9 @@
 				"title": "애처롭게 울어 봐",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2719001791/small#1",
-					"large": "https://img.ridicdn.net/cover/2719001791/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2719001791/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2719001798/small#1",
+					"large": "https://img.ridicdn.net/cover/2719001798/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2719001798/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -6674,7 +6674,7 @@
 					"rental": 0
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-04T18:00:09+09:00",
+				"lastOpenedEpisodeDate": "2023-01-05T18:00:12+09:00",
 				"originalCoverSize": {
 					"height": 1098,
 					"width": 720
@@ -6688,8 +6688,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 8300,
-					"salePrice": 8300,
+					"fullPrice": 8400,
+					"salePrice": 8400,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -6700,7 +6700,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 86,
+				"total": 87,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
@@ -6952,7 +6952,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3083
+					"count": 3082
 				}
 			],
 			"ridiselect": false,
@@ -8381,7 +8381,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2562
+					"count": 2561
 				}
 			],
 			"ridiselect": false,
@@ -11850,7 +11850,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 580
+					"count": 581
 				},
 				{
 					"rating": 5,
