@@ -1950,9 +1950,9 @@
 				"title": "프리즌 러브(Prison Love)",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049033774/small#1",
-					"large": "https://img.ridicdn.net/cover/3049033774/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049033774/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049033775/small#1",
+					"large": "https://img.ridicdn.net/cover/3049033775/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049033775/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -1960,7 +1960,7 @@
 					"rental": 20
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-04T16:00:08+09:00",
+				"lastOpenedEpisodeDate": "2023-01-05T16:00:09+09:00",
 				"originalCoverSize": {
 					"height": 1415,
 					"width": 1000
@@ -1974,8 +1974,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 15200,
-					"salePrice": 15200,
+					"fullPrice": 15300,
+					"salePrice": 15300,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -1997,7 +1997,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 155,
+				"total": 156,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
@@ -5444,9 +5444,9 @@
 				"title": "테라리움 어드벤처",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000664/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000664/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000664/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000665/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000665/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000665/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -5454,7 +5454,7 @@
 					"rental": 25
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-04T16:00:13+09:00",
+				"lastOpenedEpisodeDate": "2023-01-05T16:00:14+09:00",
 				"originalCoverSize": {
 					"height": 1600,
 					"width": 1120
@@ -5468,8 +5468,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 65800,
-					"salePrice": 65800,
+					"fullPrice": 65900,
+					"salePrice": 65900,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -5491,7 +5491,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 661,
+				"total": 662,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
@@ -11351,9 +11351,9 @@
 				"title": "시한부 흑막 안 구하고 떠납니다",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/945071491/small#1",
-					"large": "https://img.ridicdn.net/cover/945071491/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/945071491/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/945071492/small#1",
+					"large": "https://img.ridicdn.net/cover/945071492/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/945071492/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -11361,7 +11361,7 @@
 					"rental": 0
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-04T16:00:11+09:00",
+				"lastOpenedEpisodeDate": "2023-01-05T16:00:11+09:00",
 				"originalCoverSize": {
 					"height": 1500,
 					"width": 1000
@@ -11375,8 +11375,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 39500,
-					"salePrice": 39500,
+					"fullPrice": 39600,
+					"salePrice": 39600,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -11387,7 +11387,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 398,
+				"total": 399,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
