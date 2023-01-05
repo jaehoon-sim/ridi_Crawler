@@ -5757,17 +5757,6 @@
 		},
 		"badges": [
 			{
-				"badgeType": "Up",
-				"badgeUrls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badgeText": "Up",
-				"badgeBackground": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badgeType": "WaitFree",
 				"badgeUrls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
