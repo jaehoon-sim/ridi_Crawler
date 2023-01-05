@@ -149,11 +149,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 2757
+					"count": 2758
 				},
 				{
 					"rating": 5,
-					"count": 45653
+					"count": 45651
 				}
 			],
 			"ridiselect": false,
@@ -188,7 +188,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 1,
+		"link": "https://ridibooks.com/books/1922000007"
 	},
 	{
 		"book": {
@@ -390,7 +392,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 2,
+		"link": "https://ridibooks.com/books/4863000003"
 	},
 	{
 		"book": {
@@ -592,7 +596,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 3,
+		"link": "https://ridibooks.com/books/3302007367"
 	},
 	{
 		"book": {
@@ -764,7 +770,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2874
+					"count": 2875
 				}
 			],
 			"ridiselect": false,
@@ -811,7 +817,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 4,
+		"link": "https://ridibooks.com/books/2719001428"
 	},
 	{
 		"book": {
@@ -967,7 +975,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2780
+					"count": 2797
 				}
 			],
 			"ridiselect": false,
@@ -1013,7 +1021,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 5,
+		"link": "https://ridibooks.com/books/5098000001"
 	},
 	{
 		"book": {
@@ -1232,7 +1242,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 6,
+		"link": "https://ridibooks.com/books/120060787"
 	},
 	{
 		"book": {
@@ -1434,7 +1446,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 7,
+		"link": "https://ridibooks.com/books/2259011181"
 	},
 	{
 		"book": {
@@ -1653,7 +1667,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 8,
+		"link": "https://ridibooks.com/books/2259011047"
 	},
 	{
 		"book": {
@@ -1855,7 +1871,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 9,
+		"link": "https://ridibooks.com/books/211033146"
 	},
 	{
 		"book": {
@@ -2074,7 +2092,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 10,
+		"link": "https://ridibooks.com/books/3049028077"
 	},
 	{
 		"book": {
@@ -2293,7 +2313,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 11,
+		"link": "https://ridibooks.com/books/2259009849"
 	},
 	{
 		"book": {
@@ -2495,7 +2517,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 12,
+		"link": "https://ridibooks.com/books/4597000001"
 	},
 	{
 		"book": {
@@ -2697,7 +2721,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 13,
+		"link": "https://ridibooks.com/books/2259009252"
 	},
 	{
 		"book": {
@@ -2899,7 +2925,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 14,
+		"link": "https://ridibooks.com/books/5086000001"
 	},
 	{
 		"book": {
@@ -3101,7 +3129,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 15,
+		"link": "https://ridibooks.com/books/4944000001"
 	},
 	{
 		"book": {
@@ -3320,7 +3350,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 16,
+		"link": "https://ridibooks.com/books/793014561"
 	},
 	{
 		"book": {
@@ -3511,7 +3543,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 17,
+		"link": "https://ridibooks.com/books/4956000001"
 	},
 	{
 		"book": {
@@ -3713,7 +3747,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 18,
+		"link": "https://ridibooks.com/books/4967000001"
 	},
 	{
 		"book": {
@@ -3915,7 +3951,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 19,
+		"link": "https://ridibooks.com/books/2213007786"
 	},
 	{
 		"book": {
@@ -4106,7 +4144,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 20,
+		"link": "https://ridibooks.com/books/2378036275"
 	},
 	{
 		"book": {
@@ -4297,7 +4337,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 21,
+		"link": "https://ridibooks.com/books/4474000001"
 	},
 	{
 		"book": {
@@ -4499,7 +4541,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 22,
+		"link": "https://ridibooks.com/books/4403009109"
 	},
 	{
 		"book": {
@@ -4709,7 +4753,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 23,
+		"link": "https://ridibooks.com/books/793016326"
 	},
 	{
 		"book": {
@@ -4911,7 +4957,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 24,
+		"link": "https://ridibooks.com/books/4375015365"
 	},
 	{
 		"book": {
@@ -5113,7 +5161,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 25,
+		"link": "https://ridibooks.com/books/2259010868"
 	},
 	{
 		"book": {
@@ -5315,7 +5365,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 26,
+		"link": "https://ridibooks.com/books/2093076052"
 	},
 	{
 		"book": {
@@ -5534,7 +5586,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 27,
+		"link": "https://ridibooks.com/books/4159000001"
 	},
 	{
 		"book": {
@@ -5736,7 +5790,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 28,
+		"link": "https://ridibooks.com/books/2057217249"
 	},
 	{
 		"book": {
@@ -5944,7 +6000,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 29,
+		"link": "https://ridibooks.com/books/2259002758"
 	},
 	{
 		"book": {
@@ -6135,7 +6193,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 30,
+		"link": "https://ridibooks.com/books/2259007283"
 	},
 	{
 		"book": {
@@ -6337,7 +6397,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 31,
+		"link": "https://ridibooks.com/books/5071000001"
 	},
 	{
 		"book": {
@@ -6539,7 +6601,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 32,
+		"link": "https://ridibooks.com/books/5060000001"
 	},
 	{
 		"book": {
@@ -6741,7 +6805,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 33,
+		"link": "https://ridibooks.com/books/2719001548"
 	},
 	{
 		"book": {
@@ -6943,7 +7009,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 34,
+		"link": "https://ridibooks.com/books/5079000001"
 	},
 	{
 		"book": {
@@ -7151,7 +7219,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 35,
+		"link": "https://ridibooks.com/books/2369005517"
 	},
 	{
 		"book": {
@@ -7353,7 +7423,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 36,
+		"link": "https://ridibooks.com/books/3846012448"
 	},
 	{
 		"book": {
@@ -7555,7 +7627,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 37,
+		"link": "https://ridibooks.com/books/3092019952"
 	},
 	{
 		"book": {
@@ -7763,7 +7837,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 38,
+		"link": "https://ridibooks.com/books/2719000528"
 	},
 	{
 		"book": {
@@ -7954,7 +8030,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 39,
+		"link": "https://ridibooks.com/books/3302005157"
 	},
 	{
 		"book": {
@@ -8156,7 +8234,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 40,
+		"link": "https://ridibooks.com/books/3822004982"
 	},
 	{
 		"book": {
@@ -8358,7 +8438,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 41,
+		"link": "https://ridibooks.com/books/1962106946"
 	},
 	{
 		"book": {
@@ -8566,7 +8648,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 42,
+		"link": "https://ridibooks.com/books/809040369"
 	},
 	{
 		"book": {
@@ -8757,7 +8841,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 43,
+		"link": "https://ridibooks.com/books/4865000001"
 	},
 	{
 		"book": {
@@ -8967,7 +9053,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 44,
+		"link": "https://ridibooks.com/books/2213011788"
 	},
 	{
 		"book": {
@@ -9158,7 +9246,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 45,
+		"link": "https://ridibooks.com/books/3049013195"
 	},
 	{
 		"book": {
@@ -9360,7 +9450,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 46,
+		"link": "https://ridibooks.com/books/5098000002"
 	},
 	{
 		"book": {
@@ -9551,7 +9643,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 47,
+		"link": "https://ridibooks.com/books/2236000472"
 	},
 	{
 		"book": {
@@ -9759,7 +9853,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 48,
+		"link": "https://ridibooks.com/books/809035272"
 	},
 	{
 		"book": {
@@ -9950,7 +10046,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 49,
+		"link": "https://ridibooks.com/books/2093075055"
 	},
 	{
 		"book": {
@@ -10141,7 +10239,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 50,
+		"link": "https://ridibooks.com/books/3938000001"
 	},
 	{
 		"book": {
@@ -10349,7 +10449,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 51,
+		"link": "https://ridibooks.com/books/3170011341"
 	},
 	{
 		"book": {
@@ -10557,7 +10659,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 52,
+		"link": "https://ridibooks.com/books/809029040"
 	},
 	{
 		"book": {
@@ -10748,7 +10852,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 53,
+		"link": "https://ridibooks.com/books/5034000001"
 	},
 	{
 		"book": {
@@ -10967,7 +11073,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 54,
+		"link": "https://ridibooks.com/books/425331659"
 	},
 	{
 		"book": {
@@ -11169,7 +11277,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 55,
+		"link": "https://ridibooks.com/books/3302007214"
 	},
 	{
 		"book": {
@@ -11371,7 +11481,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 56,
+		"link": "https://ridibooks.com/books/945060519"
 	},
 	{
 		"book": {
@@ -11579,7 +11691,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 57,
+		"link": "https://ridibooks.com/books/2730000114"
 	},
 	{
 		"book": {
@@ -11787,7 +11901,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 58,
+		"link": "https://ridibooks.com/books/3592000001"
 	},
 	{
 		"book": {
@@ -11995,7 +12111,9 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 59,
+		"link": "https://ridibooks.com/books/3049024278"
 	},
 	{
 		"book": {
@@ -12197,6 +12315,8 @@
 					"dark": "#323C46"
 				}
 			}
-		]
+		],
+		"rank": 60,
+		"link": "https://ridibooks.com/books/4403009252"
 	}
 ]

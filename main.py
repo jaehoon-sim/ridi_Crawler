@@ -17,7 +17,7 @@ books = soup.select_one("#__NEXT_DATA__")
 books = books.text
 
 a = json.loads(books)
-
+rank = 1
 book_list = []
 
 book_list.append(a)
@@ -32,6 +32,10 @@ with open('ridi_rf_top60.json', 'rt', encoding='UTF8') as f:
 # Extract the list from the dictionary
 my_list = data[0]["props"]["pageProps"]["dehydratedState"]["queries"][2]["state"]["data"]
 # print(len(my_list))
+for list_item in my_list:
+    list_item['rank'] = rank
+    rank = rank + 1
+    list_item['link'] = "https://ridibooks.com/books/" + list_item['book']['bookId']
 
 with open('ridi_rf_top60.json', 'w', encoding='utf-8') as file:
     json.dump(my_list, file, ensure_ascii=False, indent="\t")
