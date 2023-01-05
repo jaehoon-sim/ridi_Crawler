@@ -8,7 +8,7 @@ req_header_dict = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36'
 }
 res = requests.get(url, headers=req_header_dict)
-
+rost = []
 html = res.text
 
 soup = BeautifulSoup(html, 'html.parser')
