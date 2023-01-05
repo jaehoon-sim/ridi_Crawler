@@ -160,7 +160,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 1,
+			"link": "https://ridibooks.com/books/1922000007"
 		},
 		"badges": [
 			{
@@ -188,9 +190,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 1,
-		"link": "https://ridibooks.com/books/1922000007"
+		]
 	},
 	{
 		"book": {
@@ -353,7 +353,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 2,
+			"link": "https://ridibooks.com/books/4863000003"
 		},
 		"badges": [
 			{
@@ -392,9 +394,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 2,
-		"link": "https://ridibooks.com/books/4863000003"
+		]
 	},
 	{
 		"book": {
@@ -557,7 +557,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 3,
+			"link": "https://ridibooks.com/books/3302007367"
 		},
 		"badges": [
 			{
@@ -596,9 +598,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 3,
-		"link": "https://ridibooks.com/books/3302007367"
+		]
 	},
 	{
 		"book": {
@@ -777,7 +777,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 4,
+			"link": "https://ridibooks.com/books/2719001428"
 		},
 		"badges": [
 			{
@@ -817,9 +819,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 4,
-		"link": "https://ridibooks.com/books/2719001428"
+		]
 	},
 	{
 		"book": {
@@ -982,7 +982,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 5,
+			"link": "https://ridibooks.com/books/5098000001"
 		},
 		"badges": [
 			{
@@ -1021,9 +1023,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 5,
-		"link": "https://ridibooks.com/books/5098000001"
+		]
 	},
 	{
 		"book": {
@@ -1202,7 +1202,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 6,
+			"link": "https://ridibooks.com/books/120060787"
 		},
 		"badges": [
 			{
@@ -1242,9 +1244,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 6,
-		"link": "https://ridibooks.com/books/120060787"
+		]
 	},
 	{
 		"book": {
@@ -1407,7 +1407,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 7,
+			"link": "https://ridibooks.com/books/2259011181"
 		},
 		"badges": [
 			{
@@ -1446,9 +1448,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 7,
-		"link": "https://ridibooks.com/books/2259011181"
+		]
 	},
 	{
 		"book": {
@@ -1627,7 +1627,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 8,
+			"link": "https://ridibooks.com/books/2259011047"
 		},
 		"badges": [
 			{
@@ -1667,9 +1669,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 8,
-		"link": "https://ridibooks.com/books/2259011047"
+		]
 	},
 	{
 		"book": {
@@ -1832,7 +1832,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 9,
+			"link": "https://ridibooks.com/books/211033146"
 		},
 		"badges": [
 			{
@@ -1871,9 +1873,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 9,
-		"link": "https://ridibooks.com/books/211033146"
+		]
 	},
 	{
 		"book": {
@@ -2052,7 +2052,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 10,
+			"link": "https://ridibooks.com/books/3049028077"
 		},
 		"badges": [
 			{
@@ -2092,9 +2094,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 10,
-		"link": "https://ridibooks.com/books/3049028077"
+		]
 	},
 	{
 		"book": {
@@ -2273,7 +2273,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 11,
+			"link": "https://ridibooks.com/books/2259009849"
 		},
 		"badges": [
 			{
@@ -2313,9 +2315,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 11,
-		"link": "https://ridibooks.com/books/2259009849"
+		]
 	},
 	{
 		"book": {
@@ -2478,7 +2478,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 12,
+			"link": "https://ridibooks.com/books/4597000001"
 		},
 		"badges": [
 			{
@@ -2517,9 +2519,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 12,
-		"link": "https://ridibooks.com/books/4597000001"
+		]
 	},
 	{
 		"book": {
@@ -2682,7 +2682,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 13,
+			"link": "https://ridibooks.com/books/2259009252"
 		},
 		"badges": [
 			{
@@ -2721,9 +2723,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 13,
-		"link": "https://ridibooks.com/books/2259009252"
+		]
 	},
 	{
 		"book": {
@@ -2886,7 +2886,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 14,
+			"link": "https://ridibooks.com/books/5086000001"
 		},
 		"badges": [
 			{
@@ -2925,9 +2927,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 14,
-		"link": "https://ridibooks.com/books/5086000001"
+		]
 	},
 	{
 		"book": {
@@ -3090,7 +3090,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 15,
+			"link": "https://ridibooks.com/books/4944000001"
 		},
 		"badges": [
 			{
@@ -3129,9 +3131,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 15,
-		"link": "https://ridibooks.com/books/4944000001"
+		]
 	},
 	{
 		"book": {
@@ -3310,7 +3310,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 16,
+			"link": "https://ridibooks.com/books/793014561"
 		},
 		"badges": [
 			{
@@ -3350,9 +3352,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 16,
-		"link": "https://ridibooks.com/books/793014561"
+		]
 	},
 	{
 		"book": {
@@ -3515,7 +3515,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 17,
+			"link": "https://ridibooks.com/books/4956000001"
 		},
 		"badges": [
 			{
@@ -3543,9 +3545,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 17,
-		"link": "https://ridibooks.com/books/4956000001"
+		]
 	},
 	{
 		"book": {
@@ -3708,7 +3708,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 18,
+			"link": "https://ridibooks.com/books/4967000001"
 		},
 		"badges": [
 			{
@@ -3747,9 +3749,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 18,
-		"link": "https://ridibooks.com/books/4967000001"
+		]
 	},
 	{
 		"book": {
@@ -3912,7 +3912,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 19,
+			"link": "https://ridibooks.com/books/2213007786"
 		},
 		"badges": [
 			{
@@ -3951,9 +3953,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 19,
-		"link": "https://ridibooks.com/books/2213007786"
+		]
 	},
 	{
 		"book": {
@@ -4116,7 +4116,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 20,
+			"link": "https://ridibooks.com/books/2378036275"
 		},
 		"badges": [
 			{
@@ -4144,9 +4146,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 20,
-		"link": "https://ridibooks.com/books/2378036275"
+		]
 	},
 	{
 		"book": {
@@ -4309,7 +4309,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 21,
+			"link": "https://ridibooks.com/books/4474000001"
 		},
 		"badges": [
 			{
@@ -4337,9 +4339,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 21,
-		"link": "https://ridibooks.com/books/4474000001"
+		]
 	},
 	{
 		"book": {
@@ -4502,7 +4502,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 22,
+			"link": "https://ridibooks.com/books/4403009109"
 		},
 		"badges": [
 			{
@@ -4541,9 +4543,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 22,
-		"link": "https://ridibooks.com/books/4403009109"
+		]
 	},
 	{
 		"book": {
@@ -4714,7 +4714,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 23,
+			"link": "https://ridibooks.com/books/793016326"
 		},
 		"badges": [
 			{
@@ -4753,9 +4755,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 23,
-		"link": "https://ridibooks.com/books/793016326"
+		]
 	},
 	{
 		"book": {
@@ -4918,7 +4918,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 24,
+			"link": "https://ridibooks.com/books/4375015365"
 		},
 		"badges": [
 			{
@@ -4957,9 +4959,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 24,
-		"link": "https://ridibooks.com/books/4375015365"
+		]
 	},
 	{
 		"book": {
@@ -5122,7 +5122,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 25,
+			"link": "https://ridibooks.com/books/2259010868"
 		},
 		"badges": [
 			{
@@ -5161,9 +5163,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 25,
-		"link": "https://ridibooks.com/books/2259010868"
+		]
 	},
 	{
 		"book": {
@@ -5326,7 +5326,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 26,
+			"link": "https://ridibooks.com/books/2093076052"
 		},
 		"badges": [
 			{
@@ -5365,9 +5367,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 26,
-		"link": "https://ridibooks.com/books/2093076052"
+		]
 	},
 	{
 		"book": {
@@ -5546,7 +5546,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 27,
+			"link": "https://ridibooks.com/books/4159000001"
 		},
 		"badges": [
 			{
@@ -5586,9 +5588,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 27,
-		"link": "https://ridibooks.com/books/4159000001"
+		]
 	},
 	{
 		"book": {
@@ -5751,7 +5751,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 28,
+			"link": "https://ridibooks.com/books/2057217249"
 		},
 		"badges": [
 			{
@@ -5790,9 +5792,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 28,
-		"link": "https://ridibooks.com/books/2057217249"
+		]
 	},
 	{
 		"book": {
@@ -5971,7 +5971,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 29,
+			"link": "https://ridibooks.com/books/2259002758"
 		},
 		"badges": [
 			{
@@ -6000,9 +6002,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 29,
-		"link": "https://ridibooks.com/books/2259002758"
+		]
 	},
 	{
 		"book": {
@@ -6165,7 +6165,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 30,
+			"link": "https://ridibooks.com/books/2259007283"
 		},
 		"badges": [
 			{
@@ -6193,9 +6195,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 30,
-		"link": "https://ridibooks.com/books/2259007283"
+		]
 	},
 	{
 		"book": {
@@ -6358,7 +6358,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 31,
+			"link": "https://ridibooks.com/books/5071000001"
 		},
 		"badges": [
 			{
@@ -6397,9 +6399,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 31,
-		"link": "https://ridibooks.com/books/5071000001"
+		]
 	},
 	{
 		"book": {
@@ -6562,7 +6562,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 32,
+			"link": "https://ridibooks.com/books/5060000001"
 		},
 		"badges": [
 			{
@@ -6601,9 +6603,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 32,
-		"link": "https://ridibooks.com/books/5060000001"
+		]
 	},
 	{
 		"book": {
@@ -6766,7 +6766,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 33,
+			"link": "https://ridibooks.com/books/2719001548"
 		},
 		"badges": [
 			{
@@ -6805,9 +6807,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 33,
-		"link": "https://ridibooks.com/books/2719001548"
+		]
 	},
 	{
 		"book": {
@@ -6970,7 +6970,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 34,
+			"link": "https://ridibooks.com/books/5079000001"
 		},
 		"badges": [
 			{
@@ -7009,9 +7011,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 34,
-		"link": "https://ridibooks.com/books/5079000001"
+		]
 	},
 	{
 		"book": {
@@ -7190,7 +7190,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 35,
+			"link": "https://ridibooks.com/books/2369005517"
 		},
 		"badges": [
 			{
@@ -7219,9 +7221,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 35,
-		"link": "https://ridibooks.com/books/2369005517"
+		]
 	},
 	{
 		"book": {
@@ -7384,7 +7384,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 36,
+			"link": "https://ridibooks.com/books/3846012448"
 		},
 		"badges": [
 			{
@@ -7423,9 +7425,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 36,
-		"link": "https://ridibooks.com/books/3846012448"
+		]
 	},
 	{
 		"book": {
@@ -7588,7 +7588,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 37,
+			"link": "https://ridibooks.com/books/3092019952"
 		},
 		"badges": [
 			{
@@ -7627,9 +7629,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 37,
-		"link": "https://ridibooks.com/books/3092019952"
+		]
 	},
 	{
 		"book": {
@@ -7808,7 +7808,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 38,
+			"link": "https://ridibooks.com/books/2719000528"
 		},
 		"badges": [
 			{
@@ -7837,9 +7839,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 38,
-		"link": "https://ridibooks.com/books/2719000528"
+		]
 	},
 	{
 		"book": {
@@ -8002,7 +8002,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 39,
+			"link": "https://ridibooks.com/books/3302005157"
 		},
 		"badges": [
 			{
@@ -8030,9 +8032,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 39,
-		"link": "https://ridibooks.com/books/3302005157"
+		]
 	},
 	{
 		"book": {
@@ -8195,7 +8195,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 40,
+			"link": "https://ridibooks.com/books/3822004982"
 		},
 		"badges": [
 			{
@@ -8234,9 +8236,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 40,
-		"link": "https://ridibooks.com/books/3822004982"
+		]
 	},
 	{
 		"book": {
@@ -8399,7 +8399,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 41,
+			"link": "https://ridibooks.com/books/1962106946"
 		},
 		"badges": [
 			{
@@ -8438,9 +8440,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 41,
-		"link": "https://ridibooks.com/books/1962106946"
+		]
 	},
 	{
 		"book": {
@@ -8619,7 +8619,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 42,
+			"link": "https://ridibooks.com/books/809040369"
 		},
 		"badges": [
 			{
@@ -8648,9 +8650,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 42,
-		"link": "https://ridibooks.com/books/809040369"
+		]
 	},
 	{
 		"book": {
@@ -8813,7 +8813,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 43,
+			"link": "https://ridibooks.com/books/4865000001"
 		},
 		"badges": [
 			{
@@ -8841,9 +8843,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 43,
-		"link": "https://ridibooks.com/books/4865000001"
+		]
 	},
 	{
 		"book": {
@@ -9014,7 +9014,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 44,
+			"link": "https://ridibooks.com/books/2213011788"
 		},
 		"badges": [
 			{
@@ -9053,9 +9055,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 44,
-		"link": "https://ridibooks.com/books/2213011788"
+		]
 	},
 	{
 		"book": {
@@ -9218,7 +9218,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 45,
+			"link": "https://ridibooks.com/books/3049013195"
 		},
 		"badges": [
 			{
@@ -9246,9 +9248,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 45,
-		"link": "https://ridibooks.com/books/3049013195"
+		]
 	},
 	{
 		"book": {
@@ -9411,7 +9411,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 46,
+			"link": "https://ridibooks.com/books/5098000002"
 		},
 		"badges": [
 			{
@@ -9450,9 +9452,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 46,
-		"link": "https://ridibooks.com/books/5098000002"
+		]
 	},
 	{
 		"book": {
@@ -9615,7 +9615,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 47,
+			"link": "https://ridibooks.com/books/2236000472"
 		},
 		"badges": [
 			{
@@ -9643,9 +9645,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 47,
-		"link": "https://ridibooks.com/books/2236000472"
+		]
 	},
 	{
 		"book": {
@@ -9824,7 +9824,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 48,
+			"link": "https://ridibooks.com/books/809035272"
 		},
 		"badges": [
 			{
@@ -9853,9 +9855,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 48,
-		"link": "https://ridibooks.com/books/809035272"
+		]
 	},
 	{
 		"book": {
@@ -10018,7 +10018,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 49,
+			"link": "https://ridibooks.com/books/2093075055"
 		},
 		"badges": [
 			{
@@ -10046,9 +10048,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 49,
-		"link": "https://ridibooks.com/books/2093075055"
+		]
 	},
 	{
 		"book": {
@@ -10211,7 +10211,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 50,
+			"link": "https://ridibooks.com/books/3938000001"
 		},
 		"badges": [
 			{
@@ -10239,9 +10241,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 50,
-		"link": "https://ridibooks.com/books/3938000001"
+		]
 	},
 	{
 		"book": {
@@ -10420,7 +10420,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 51,
+			"link": "https://ridibooks.com/books/3170011341"
 		},
 		"badges": [
 			{
@@ -10449,9 +10451,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 51,
-		"link": "https://ridibooks.com/books/3170011341"
+		]
 	},
 	{
 		"book": {
@@ -10630,7 +10630,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 52,
+			"link": "https://ridibooks.com/books/809029040"
 		},
 		"badges": [
 			{
@@ -10659,9 +10661,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 52,
-		"link": "https://ridibooks.com/books/809029040"
+		]
 	},
 	{
 		"book": {
@@ -10824,7 +10824,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 53,
+			"link": "https://ridibooks.com/books/5034000001"
 		},
 		"badges": [
 			{
@@ -10852,9 +10854,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 53,
-		"link": "https://ridibooks.com/books/5034000001"
+		]
 	},
 	{
 		"book": {
@@ -11033,7 +11033,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 54,
+			"link": "https://ridibooks.com/books/425331659"
 		},
 		"badges": [
 			{
@@ -11073,9 +11075,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 54,
-		"link": "https://ridibooks.com/books/425331659"
+		]
 	},
 	{
 		"book": {
@@ -11238,7 +11238,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 55,
+			"link": "https://ridibooks.com/books/3302007214"
 		},
 		"badges": [
 			{
@@ -11277,9 +11279,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 55,
-		"link": "https://ridibooks.com/books/3302007214"
+		]
 	},
 	{
 		"book": {
@@ -11442,7 +11442,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 56,
+			"link": "https://ridibooks.com/books/945060519"
 		},
 		"badges": [
 			{
@@ -11481,9 +11483,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 56,
-		"link": "https://ridibooks.com/books/945060519"
+		]
 	},
 	{
 		"book": {
@@ -11662,7 +11662,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 57,
+			"link": "https://ridibooks.com/books/2730000114"
 		},
 		"badges": [
 			{
@@ -11691,9 +11693,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 57,
-		"link": "https://ridibooks.com/books/2730000114"
+		]
 	},
 	{
 		"book": {
@@ -11872,7 +11872,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 58,
+			"link": "https://ridibooks.com/books/3592000001"
 		},
 		"badges": [
 			{
@@ -11901,9 +11903,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 58,
-		"link": "https://ridibooks.com/books/3592000001"
+		]
 	},
 	{
 		"book": {
@@ -12082,7 +12082,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 59,
+			"link": "https://ridibooks.com/books/3049024278"
 		},
 		"badges": [
 			{
@@ -12111,9 +12113,7 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 59,
-		"link": "https://ridibooks.com/books/3049024278"
+		]
 	},
 	{
 		"book": {
@@ -12276,7 +12276,9 @@
 			"thumbnail": null,
 			"scheduledFree": null,
 			"isOriginal": false,
-			"isOnly": false
+			"isOnly": false,
+			"rank": 60,
+			"link": "https://ridibooks.com/books/4403009252"
 		},
 		"badges": [
 			{
@@ -12315,8 +12317,6 @@
 					"dark": "#323C46"
 				}
 			}
-		],
-		"rank": 60,
-		"link": "https://ridibooks.com/books/4403009252"
+		]
 	}
 ]

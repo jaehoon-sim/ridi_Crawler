@@ -33,9 +33,9 @@ with open('ridi_rf_top60.json', 'rt', encoding='UTF8') as f:
 my_list = data[0]["props"]["pageProps"]["dehydratedState"]["queries"][2]["state"]["data"]
 # print(len(my_list))
 for list_item in my_list:
-    list_item['rank'] = rank
+    list_item['book']['rank'] = rank
     rank = rank + 1
-    list_item['link'] = "https://ridibooks.com/books/" + list_item['book']['bookId']
+    list_item['book']['link'] = "https://ridibooks.com/books/" + list_item['book']['bookId']
 
 with open('ridi_rf_top60.json', 'w', encoding='utf-8') as file:
     json.dump(my_list, file, ensure_ascii=False, indent="\t")
