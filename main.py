@@ -22,10 +22,10 @@ book_list = []
 
 book_list.append(a)
 
-with open('ridi_rf_top60.json.json', 'w', encoding='utf-8') as file:
+with open('ridi_rf_top60.json', 'w', encoding='utf-8') as file:
     json.dump(book_list, file, ensure_ascii=False, indent="\t")
 
-with open('ridi_rf_top60.json.json', 'rt', encoding='UTF8') as f:
+with open('ridi_rf_top60.json', 'rt', encoding='UTF8') as f:
     # Load the JSON data into a Python dictionary
     data = json.load(f)
 
@@ -33,5 +33,5 @@ with open('ridi_rf_top60.json.json', 'rt', encoding='UTF8') as f:
 my_list = data[0]["props"]["pageProps"]["dehydratedState"]["queries"][2]["state"]["data"]
 # print(len(my_list))
 
-with open('ridi_rf_top60.json.json', 'w', encoding='utf-8') as file:
+with open('ridi_rf_top60.json', 'w', encoding='utf-8') as file:
     json.dump(my_list, file, ensure_ascii=False, indent="\t")
