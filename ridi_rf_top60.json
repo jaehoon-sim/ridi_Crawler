@@ -153,7 +153,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 45660
+					"count": 45663
 				}
 			],
 			"ridiselect": false,
@@ -342,11 +342,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 542
+					"count": 541
 				},
 				{
 					"rating": 5,
-					"count": 5360
+					"count": 5361
 				}
 			],
 			"ridiselect": false,
@@ -550,7 +550,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3337
+					"count": 3334
 				}
 			],
 			"ridiselect": false,
@@ -1620,7 +1620,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2550
+					"count": 2549
 				}
 			],
 			"ridiselect": false,
@@ -3918,17 +3918,6 @@
 		},
 		"badges": [
 			{
-				"badgeType": "Up",
-				"badgeUrls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badgeText": "Up",
-				"badgeBackground": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badgeType": "WaitFree",
 				"badgeUrls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -4911,7 +4900,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2714
+					"count": 2712
 				}
 			],
 			"ridiselect": false,
@@ -5744,7 +5733,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2745
+					"count": 2743
 				}
 			],
 			"ridiselect": false,
