@@ -1388,7 +1388,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 1
+					"count": 2
 				},
 				{
 					"rating": 3,
@@ -1400,7 +1400,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1654
+					"count": 1668
 				}
 			],
 			"ridiselect": false,
@@ -1950,9 +1950,9 @@
 				"title": "프리즌 러브(Prison Love)",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049033775/small#1",
-					"large": "https://img.ridicdn.net/cover/3049033775/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049033775/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049033776/small#1",
+					"large": "https://img.ridicdn.net/cover/3049033776/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049033776/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -1960,7 +1960,7 @@
 					"rental": 20
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-05T16:00:09+09:00",
+				"lastOpenedEpisodeDate": "2023-01-06T16:00:10+09:00",
 				"originalCoverSize": {
 					"height": 1415,
 					"width": 1000
@@ -1974,8 +1974,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 15300,
-					"salePrice": 15300,
+					"fullPrice": 15400,
+					"salePrice": 15400,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -1997,7 +1997,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 156,
+				"total": 157,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
@@ -4302,7 +4302,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3291
+					"count": 3290
 				}
 			],
 			"ridiselect": false,
@@ -4813,9 +4813,9 @@
 				"title": "테라리움 어드벤처",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000665/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000665/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000665/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000666/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000666/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000666/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -4823,7 +4823,7 @@
 					"rental": 25
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-05T16:00:14+09:00",
+				"lastOpenedEpisodeDate": "2023-01-06T16:00:12+09:00",
 				"originalCoverSize": {
 					"height": 1600,
 					"width": 1120
@@ -4837,8 +4837,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 65900,
-					"salePrice": 65900,
+					"fullPrice": 66000,
+					"salePrice": 66000,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -4860,7 +4860,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 662,
+				"total": 663,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
@@ -6139,7 +6139,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2520
+					"count": 2521
 				}
 			],
 			"ridiselect": false,
@@ -11678,7 +11678,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1925
+					"count": 1926
 				}
 			],
 			"ridiselect": false,
@@ -11788,9 +11788,9 @@
 				"title": "시한부 흑막 안 구하고 떠납니다",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/945071492/small#1",
-					"large": "https://img.ridicdn.net/cover/945071492/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/945071492/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/945071493/small#1",
+					"large": "https://img.ridicdn.net/cover/945071493/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/945071493/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -11798,7 +11798,7 @@
 					"rental": 0
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-05T16:00:11+09:00",
+				"lastOpenedEpisodeDate": "2023-01-06T16:00:12+09:00",
 				"originalCoverSize": {
 					"height": 1500,
 					"width": 1000
@@ -11812,8 +11812,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 39600,
-					"salePrice": 39600,
+					"fullPrice": 39700,
+					"salePrice": 39700,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -11824,7 +11824,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 399,
+				"total": 400,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
