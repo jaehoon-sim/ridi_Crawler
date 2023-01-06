@@ -550,7 +550,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3494
+					"count": 3495
 				}
 			],
 			"ridiselect": false,
@@ -770,7 +770,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2878
+					"count": 2879
 				}
 			],
 			"ridiselect": false,
@@ -1396,11 +1396,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 244
+					"count": 246
 				},
 				{
 					"rating": 5,
-					"count": 1631
+					"count": 1645
 				}
 			],
 			"ridiselect": false,
@@ -2375,9 +2375,9 @@
 				"title": "킬 디스 메리지(Kill this Marriage)",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011323/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011323/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011323/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011334/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011334/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011334/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -2385,7 +2385,7 @@
 					"rental": 20
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-05T11:00:09+09:00",
+				"lastOpenedEpisodeDate": "2023-01-06T14:05:08+09:00",
 				"originalCoverSize": {
 					"height": 2196,
 					"width": 1440
@@ -2399,8 +2399,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 14200,
-					"salePrice": 14200,
+					"fullPrice": 14300,
+					"salePrice": 14300,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -2422,7 +2422,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 145,
+				"total": 146,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
@@ -2482,6 +2482,17 @@
 			"link": "https://ridibooks.com/books/2259009849"
 		},
 		"badges": [
+			{
+				"badgeType": "Up",
+				"badgeUrls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badgeText": "Up",
+				"badgeBackground": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badgeType": "WaitFree",
 				"badgeUrls": [
@@ -3289,7 +3300,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 480
+					"count": 479
 				},
 				{
 					"rating": 5,
@@ -4287,7 +4298,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 330
+					"count": 331
 				},
 				{
 					"rating": 5,
@@ -4495,7 +4506,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2559
+					"count": 2560
 				}
 			],
 			"ridiselect": false,
@@ -6725,7 +6736,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 380
+					"count": 379
 				},
 				{
 					"rating": 5,
@@ -8593,7 +8604,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3450
+					"count": 3451
 				}
 			],
 			"ridiselect": false,
