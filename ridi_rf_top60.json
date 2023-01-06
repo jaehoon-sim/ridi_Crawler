@@ -550,7 +550,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3496
+					"count": 3497
 				}
 			],
 			"ridiselect": false,
@@ -1392,15 +1392,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 21
+					"count": 22
 				},
 				{
 					"rating": 4,
-					"count": 252
+					"count": 262
 				},
 				{
 					"rating": 5,
-					"count": 1694
+					"count": 1747
 				}
 			],
 			"ridiselect": false,
@@ -8934,9 +8934,9 @@
 				"title": "그녀는 복수하지 않기로 결정했다",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213012055/small#1",
-					"large": "https://img.ridicdn.net/cover/2213012055/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213012055/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213012058/small#1",
+					"large": "https://img.ridicdn.net/cover/2213012058/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213012058/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -8944,7 +8944,7 @@
 					"rental": 0
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-04T18:30:49+09:00",
+				"lastOpenedEpisodeDate": "2023-01-06T18:20:41+09:00",
 				"originalCoverSize": {
 					"height": 1350,
 					"width": 900
@@ -8958,8 +8958,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 23200,
-					"salePrice": 23200,
+					"fullPrice": 23300,
+					"salePrice": 23300,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -8970,7 +8970,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 235,
+				"total": 236,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
@@ -9030,6 +9030,17 @@
 			"link": "https://ridibooks.com/books/2213007786"
 		},
 		"badges": [
+			{
+				"badgeType": "Up",
+				"badgeUrls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badgeText": "Up",
+				"badgeBackground": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badgeType": "WaitFree",
 				"badgeUrls": [
@@ -10646,7 +10657,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2286
+					"count": 2287
 				}
 			],
 			"ridiselect": false,
