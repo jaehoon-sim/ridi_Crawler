@@ -550,7 +550,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3492
+					"count": 3494
 				}
 			],
 			"ridiselect": false,
@@ -1392,7 +1392,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 19
+					"count": 20
 				},
 				{
 					"rating": 4,
@@ -1400,7 +1400,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1587
+					"count": 1603
 				}
 			],
 			"ridiselect": false,
@@ -1520,9 +1520,9 @@
 				"title": "물 만난 드래곤의 집착이 곤란하다",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011299/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011299/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011299/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011300/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011300/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011300/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -1530,7 +1530,7 @@
 					"rental": 0
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-05T11:00:07+09:00",
+				"lastOpenedEpisodeDate": "2023-01-06T11:00:08+09:00",
 				"originalCoverSize": {
 					"height": 2196,
 					"width": 1440
@@ -1544,8 +1544,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 6100,
-					"salePrice": 6100,
+					"fullPrice": 6200,
+					"salePrice": 6200,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -1556,7 +1556,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 64,
+				"total": 65,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
@@ -2483,17 +2483,6 @@
 		},
 		"badges": [
 			{
-				"badgeType": "Up",
-				"badgeUrls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badgeText": "Up",
-				"badgeBackground": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badgeType": "WaitFree",
 				"badgeUrls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -2795,9 +2784,9 @@
 				"title": "집착당하면 파멸합니다",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011311/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011311/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011311/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011312/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011312/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011312/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -2805,7 +2794,7 @@
 					"rental": 0
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-05T11:00:09+09:00",
+				"lastOpenedEpisodeDate": "2023-01-06T11:00:11+09:00",
 				"originalCoverSize": {
 					"height": 2196,
 					"width": 1440
@@ -2819,8 +2808,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 17800,
-					"salePrice": 17800,
+					"fullPrice": 17900,
+					"salePrice": 17900,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -2831,7 +2820,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 181,
+				"total": 182,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
@@ -3304,7 +3293,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3329
+					"count": 3330
 				}
 			],
 			"ridiselect": false,
@@ -3905,7 +3894,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3606
+					"count": 3607
 				}
 			],
 			"ridiselect": false,
@@ -5029,9 +5018,9 @@
 				"title": "당신의 세상이 뒤집힐 때",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011266/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011266/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011266/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011267/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011267/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011267/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -5039,7 +5028,7 @@
 					"rental": 0
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-05T11:00:07+09:00",
+				"lastOpenedEpisodeDate": "2023-01-06T11:00:08+09:00",
 				"originalCoverSize": {
 					"height": 2196,
 					"width": 1440
@@ -5053,8 +5042,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 8000,
-					"salePrice": 8000,
+					"fullPrice": 8100,
+					"salePrice": 8100,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -5065,7 +5054,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 83,
+				"total": 84,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
