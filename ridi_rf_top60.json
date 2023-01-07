@@ -2138,9 +2138,9 @@
 				"title": "프리즌 러브(Prison Love)",
 				"completion": false,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049033776/small#1",
-					"large": "https://img.ridicdn.net/cover/3049033776/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049033776/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049033823/small#1",
+					"large": "https://img.ridicdn.net/cover/3049033823/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049033823/xxlarge#1"
 				},
 				"episode": 1,
 				"free": {
@@ -2148,7 +2148,7 @@
 					"rental": 20
 				},
 				"headerImage": null,
-				"lastOpenedEpisodeDate": "2023-01-06T16:00:10+09:00",
+				"lastOpenedEpisodeDate": "2023-01-07T16:00:10+09:00",
 				"originalCoverSize": {
 					"height": 1415,
 					"width": 1000
@@ -2162,8 +2162,8 @@
 					"minPriceNonZero": 100
 				},
 				"purchaseAll": {
-					"fullPrice": 15400,
-					"salePrice": 15400,
+					"fullPrice": 15500,
+					"salePrice": 15500,
 					"discountRate": null,
 					"maxDiscountRate": 0,
 					"minDiscountRate": 0
@@ -2185,7 +2185,7 @@
 					"active": false,
 					"remainEpisodesCount": 0
 				},
-				"total": 157,
+				"total": 158,
 				"unit": "화",
 				"waitForFree": {
 					"intervalHours": 24,
@@ -3041,11 +3041,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 546
+					"count": 547
 				},
 				{
 					"rating": 5,
-					"count": 3608
+					"count": 3609
 				}
 			],
 			"ridiselect": false,
@@ -4254,17 +4254,6 @@
 		},
 		"badges": [
 			{
-				"badgeType": "Up",
-				"badgeUrls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badgeText": "Up",
-				"badgeBackground": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badgeType": "WaitFree",
 				"badgeUrls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -4639,7 +4628,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3719
+					"count": 3718
 				}
 			],
 			"ridiselect": false,
@@ -10652,7 +10641,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4928
+					"count": 4929
 				}
 			],
 			"ridiselect": false,
@@ -11261,17 +11250,6 @@
 			"link": "https://ridibooks.com/books/3049032357"
 		},
 		"badges": [
-			{
-				"badgeType": "Up",
-				"badgeUrls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badgeText": "Up",
-				"badgeBackground": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badgeType": "WaitFree",
 				"badgeUrls": [
