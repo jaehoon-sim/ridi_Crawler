@@ -53,7 +53,8 @@ soup = BeautifulSoup(html, "html.parser")
 
 driver.quit()
 rank = 0
-books = soup.select(".fig-z0an5g")
+books = soup.select(
+    "#__next > main > section > ul.fig-1nfc3co > li > div > div.fig-jc2buj > div > h3 > a")
 stars = soup.select(".fig-hm7n2o")
 authors = soup.select(
     "#__next > main > section > ul.fig-1nfc3co > li > div > div.fig-jc2buj > div > div.fig-1xj8cjq > div > p.fig-bymbz1")
