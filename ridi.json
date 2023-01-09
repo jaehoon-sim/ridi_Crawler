@@ -736,7 +736,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2957
+					"count": 2959
 				}
 			],
 			"ridiselect": false,
@@ -851,12 +851,12 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-01-06T23:55:00+09:00",
-					"closing_date": "2023-01-09T23:59:59+09:00"
+					"opening_date": "2023-01-06T00:00:00+09:00",
+					"closing_date": "2033-01-07T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -904,7 +904,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 1
+					"count": 2
 				},
 				{
 					"rating": 2,
@@ -912,15 +912,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 13
+					"count": 15
 				},
 				{
 					"rating": 4,
-					"count": 217
+					"count": 226
 				},
 				{
 					"rating": 5,
-					"count": 2495
+					"count": 2795
 				}
 			],
 			"ridiselect": false,
@@ -1324,7 +1324,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2889
+					"count": 2890
 				}
 			],
 			"ridiselect": false,
@@ -1929,7 +1929,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2560
+					"count": 2561
 				}
 			],
 			"ridiselect": false,
@@ -2880,7 +2880,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 331
+					"count": 330
 				},
 				{
 					"rating": 5,
@@ -3379,16 +3379,16 @@
 				"title": "대공의 두 번째 아내로 사는 법",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1962107078/small#1",
-					"large": "https://img.ridicdn.net/cover/1962107078/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1962107078/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1962107079/small#1",
+					"large": "https://img.ridicdn.net/cover/1962107079/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1962107079/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1018,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 103,
+				"total": 104,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3416,15 +3416,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10000,
-					"sale_price": 10000,
+					"full_price": 10100,
+					"sale_price": 10100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-09T00:00:51+09:00"
+				"last_opened_episode_date": "2023-01-10T00:01:12+09:00"
 			},
 			"categories": [
 				{
@@ -4388,7 +4388,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 12
+					"count": 11
 				},
 				{
 					"rating": 3,
@@ -4396,11 +4396,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 362
+					"count": 363
 				},
 				{
 					"rating": 5,
-					"count": 3442
+					"count": 3438
 				}
 			],
 			"ridiselect": false,
@@ -6072,12 +6072,12 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 24,
+					"interval_hours": 1,
 					"rental_days": 3,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2020-04-19T00:00:00+09:00",
-					"closing_date": "2038-12-31T23:59:59+09:00"
+					"opening_date": "2023-01-09T23:50:00+09:00",
+					"closing_date": "2023-01-10T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -7473,7 +7473,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3308
+					"count": 3309
 				}
 			],
 			"ridiselect": false,
@@ -11147,7 +11147,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3034
+					"count": 3035
 				}
 			],
 			"ridiselect": false,
@@ -13400,7 +13400,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2691
+					"count": 2690
 				}
 			],
 			"ridiselect": false,
@@ -18924,7 +18924,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 26
+					"count": 27
 				},
 				{
 					"rating": 3,
@@ -18936,7 +18936,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2673
+					"count": 2672
 				}
 			],
 			"ridiselect": false,
