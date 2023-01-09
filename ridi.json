@@ -526,7 +526,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5389
+					"count": 5390
 				}
 			],
 			"ridiselect": false,
@@ -920,7 +920,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1957
+					"count": 1992
 				}
 			],
 			"ridiselect": false,
@@ -1313,7 +1313,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2887
+					"count": 2888
 				}
 			],
 			"ridiselect": false,
@@ -7429,7 +7429,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3308
+					"count": 3309
 				}
 			],
 			"ridiselect": false,
@@ -7539,16 +7539,16 @@
 				"title": "나의 철벽 때문에 계약 남편이 미치려 한다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2057218158/small#1",
-					"large": "https://img.ridicdn.net/cover/2057218158/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2057218158/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2057218725/small#1",
+					"large": "https://img.ridicdn.net/cover/2057218725/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2057218725/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 65,
+				"total": 66,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7576,15 +7576,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6200,
-					"sale_price": 6200,
+					"full_price": 6300,
+					"sale_price": 6300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-06T17:00:09+09:00"
+				"last_opened_episode_date": "2023-01-09T17:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -7635,6 +7635,17 @@
 			"link": "https://ridibooks.com/books/2057217249"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -8612,7 +8623,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2109
+					"count": 2110
 				}
 			],
 			"ridiselect": false,
@@ -10892,7 +10903,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4929
+					"count": 4930
 				}
 			],
 			"ridiselect": false,
