@@ -337,7 +337,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 78
+					"count": 80
 				}
 			],
 			"ridiselect": false,
@@ -2106,7 +2106,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2859
+					"count": 2858
 				}
 			],
 			"ridiselect": false,
@@ -2421,16 +2421,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120062498/small#1",
-					"large": "https://img.ridicdn.net/cover/120062498/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120062498/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120062536/small#1",
+					"large": "https://img.ridicdn.net/cover/120062536/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120062536/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 107,
+				"total": 108,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2458,8 +2458,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10400,
-					"sale_price": 10400,
+					"full_price": 10500,
+					"sale_price": 10500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -2477,7 +2477,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-01-07T19:00:09+09:00"
+				"last_opened_episode_date": "2023-01-10T19:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -2528,6 +2528,17 @@
 			"link": "https://ridibooks.com/books/120060787"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -7141,7 +7152,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2574
+					"count": 2575
 				}
 			],
 			"ridiselect": false,
@@ -15505,16 +15516,16 @@
 				"title": "너드남의 흑화를 막아 보겠습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3822005560/small#1",
-					"large": "https://img.ridicdn.net/cover/3822005560/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3822005560/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3822005574/small#1",
+					"large": "https://img.ridicdn.net/cover/3822005574/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3822005574/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 106,
+				"total": 107,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -15542,15 +15553,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10300,
-					"sale_price": 10300,
+					"full_price": 10400,
+					"sale_price": 10400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-06T19:00:09+09:00"
+				"last_opened_episode_date": "2023-01-10T19:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -15601,6 +15612,17 @@
 			"link": "https://ridibooks.com/books/3822004982"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
