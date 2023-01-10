@@ -337,7 +337,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 69
+					"count": 72
 				}
 			],
 			"ridiselect": false,
@@ -741,7 +741,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2561
+					"count": 2560
 				}
 			],
 			"ridiselect": false,
@@ -1147,7 +1147,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 45817
+					"count": 45820
 				}
 			],
 			"ridiselect": false,
@@ -5594,7 +5594,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3308
+					"count": 3307
 				}
 			],
 			"ridiselect": false,
@@ -5709,16 +5709,16 @@
 				"title": "테라리움 어드벤처",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000666/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000666/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000666/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000667/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000667/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000667/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 663,
+				"total": 664,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5746,8 +5746,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 66000,
-					"sale_price": 66000,
+					"full_price": 66100,
+					"sale_price": 66100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -5765,7 +5765,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-01-06T16:00:12+09:00"
+				"last_opened_episode_date": "2023-01-10T16:00:13+09:00"
 			},
 			"categories": [
 				{
@@ -5816,6 +5816,17 @@
 			"link": "https://ridibooks.com/books/4159000001"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -6475,16 +6486,16 @@
 				"title": "이러다가 토끼 백숙이 될지도 몰라",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049033854/small#1",
-					"large": "https://img.ridicdn.net/cover/3049033854/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049033854/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049033882/small#1",
+					"large": "https://img.ridicdn.net/cover/3049033882/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049033882/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1215,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 86,
+				"total": 87,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6512,15 +6523,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8300,
-					"sale_price": 8300,
+					"full_price": 8400,
+					"sale_price": 8400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-09T16:00:07+09:00"
+				"last_opened_episode_date": "2023-01-10T16:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -7606,16 +7617,16 @@
 				"title": "시한부 흑막 안 구하고 떠납니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/945071767/small#1",
-					"large": "https://img.ridicdn.net/cover/945071767/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/945071767/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/945071768/small#1",
+					"large": "https://img.ridicdn.net/cover/945071768/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/945071768/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 401,
+				"total": 402,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7643,15 +7654,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 39800,
-					"sale_price": 39800,
+					"full_price": 39900,
+					"sale_price": 39900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-09T16:00:10+09:00"
+				"last_opened_episode_date": "2023-01-10T16:00:12+09:00"
 			},
 			"categories": [
 				{
@@ -11655,16 +11666,16 @@
 				"title": "삼류 무협지에서 살아남기",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011297/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011297/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011297/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011369/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011369/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011369/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 258,
+				"total": 259,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11692,15 +11703,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 25500,
-					"sale_price": 25500,
+					"full_price": 25600,
+					"sale_price": 25600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-02T16:37:16+09:00"
+				"last_opened_episode_date": "2023-01-10T16:00:11+09:00"
 			},
 			"categories": [
 				{
@@ -11751,6 +11762,17 @@
 			"link": "https://ridibooks.com/books/2259007283"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -12138,7 +12160,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4930
+					"count": 4931
 				}
 			],
 			"ridiselect": false,
