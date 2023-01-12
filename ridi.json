@@ -159,7 +159,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5411
+					"count": 5412
 				}
 			],
 			"ridiselect": false,
@@ -541,7 +541,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 2
+					"count": 3
 				},
 				{
 					"rating": 3,
@@ -553,7 +553,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2578
+					"count": 2579
 				}
 			],
 			"ridiselect": false,
@@ -1257,16 +1257,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120062553/small#1",
-					"large": "https://img.ridicdn.net/cover/120062553/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120062553/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120062578/small#1",
+					"large": "https://img.ridicdn.net/cover/120062578/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120062578/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 109,
+				"total": 110,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1294,8 +1294,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10600,
-					"sale_price": 10600,
+					"full_price": 10700,
+					"sale_price": 10700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -1313,7 +1313,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-01-11T19:00:09+09:00"
+				"last_opened_episode_date": "2023-01-12T19:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -2785,7 +2785,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 128
+					"count": 130
 				}
 			],
 			"ridiselect": false,
@@ -3367,7 +3367,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2864
+					"count": 2865
 				}
 			],
 			"ridiselect": false,
@@ -4945,7 +4945,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2703
+					"count": 2702
 				}
 			],
 			"ridiselect": false,
@@ -5561,7 +5561,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2726
+					"count": 2723
 				}
 			],
 			"ridiselect": false,
@@ -11222,7 +11222,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 96
+					"count": 97
 				},
 				{
 					"rating": 2,
