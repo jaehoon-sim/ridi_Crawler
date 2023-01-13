@@ -346,7 +346,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 16
+					"count": 17
 				},
 				{
 					"rating": 4,
@@ -1833,16 +1833,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211040406/small#1",
-					"large": "https://img.ridicdn.net/cover/211040406/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211040406/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211040407/small#1",
+					"large": "https://img.ridicdn.net/cover/211040407/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211040407/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 468,
+				"total": 469,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1870,8 +1870,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 46200,
-					"sale_price": 46200,
+					"full_price": 46300,
+					"sale_price": 46300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -1889,7 +1889,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-01-13T00:02:19+09:00"
+				"last_opened_episode_date": "2023-01-14T00:01:59+09:00"
 			},
 			"categories": [
 				{
@@ -2899,7 +2899,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 166
+					"count": 178
 				}
 			],
 			"ridiselect": false,
@@ -7683,7 +7683,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2580
+					"count": 2581
 				}
 			],
 			"ridiselect": false,
@@ -8681,7 +8681,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 44
+					"count": 45
 				}
 			],
 			"ridiselect": false,
@@ -10009,7 +10009,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 298
+					"count": 299
 				},
 				{
 					"rating": 5,
@@ -12774,16 +12774,16 @@
 				"title": "대공의 두 번째 아내로 사는 법",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1962107082/small#1",
-					"large": "https://img.ridicdn.net/cover/1962107082/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1962107082/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1962107083/small#1",
+					"large": "https://img.ridicdn.net/cover/1962107083/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1962107083/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1018,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 107,
+				"total": 108,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -12811,15 +12811,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10400,
-					"sale_price": 10400,
+					"full_price": 10500,
+					"sale_price": 10500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-13T00:02:15+09:00"
+				"last_opened_episode_date": "2023-01-14T00:01:58+09:00"
 			},
 			"categories": [
 				{
@@ -13142,7 +13142,7 @@
 				"size": 1454,
 				"format": "epub",
 				"page_count": null,
-				"character_count": 3118,
+				"character_count": 3217,
 				"comic": false,
 				"webtoon": false,
 				"variants": [
