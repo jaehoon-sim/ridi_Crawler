@@ -331,19 +331,19 @@
 				},
 				{
 					"rating": 2,
-					"count": 0
+					"count": 1
 				},
 				{
 					"rating": 3,
-					"count": 20
+					"count": 21
 				},
 				{
 					"rating": 4,
-					"count": 135
+					"count": 142
 				},
 				{
 					"rating": 5,
-					"count": 2573
+					"count": 2623
 				}
 			],
 			"ridiselect": false,
@@ -636,16 +636,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120062585/small#1",
-					"large": "https://img.ridicdn.net/cover/120062585/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120062585/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120062586/small#1",
+					"large": "https://img.ridicdn.net/cover/120062586/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120062586/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 111,
+				"total": 112,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -673,15 +673,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10800,
-					"sale_price": 10800,
+					"full_price": 10900,
+					"sale_price": 10900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-13T19:00:07+09:00"
+				"last_opened_episode_date": "2023-01-14T19:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -2639,7 +2639,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 184
+					"count": 185
 				}
 			],
 			"ridiselect": false,
