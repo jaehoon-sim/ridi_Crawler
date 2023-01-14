@@ -155,11 +155,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 541
+					"count": 542
 				},
 				{
 					"rating": 5,
-					"count": 5425
+					"count": 5427
 				}
 			],
 			"ridiselect": false,
@@ -335,15 +335,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 24
+					"count": 25
 				},
 				{
 					"rating": 4,
-					"count": 171
+					"count": 176
 				},
 				{
 					"rating": 5,
-					"count": 2883
+					"count": 2967
 				}
 			],
 			"ridiselect": false,
@@ -537,7 +537,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2584
+					"count": 2583
 				}
 			],
 			"ridiselect": false,
@@ -2069,17 +2069,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -3388,7 +3377,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2867
+					"count": 2866
 				}
 			],
 			"ridiselect": false,
@@ -4310,7 +4299,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2697
+					"count": 2696
 				}
 			],
 			"ridiselect": false,
@@ -5270,7 +5259,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2712
+					"count": 2711
 				}
 			],
 			"ridiselect": false,
@@ -5669,7 +5658,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2699
+					"count": 2698
 				}
 			],
 			"ridiselect": false,
@@ -6436,7 +6425,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3297
+					"count": 3296
 				}
 			],
 			"ridiselect": false,
@@ -6635,7 +6624,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3169
+					"count": 3168
 				}
 			],
 			"ridiselect": false,
@@ -8694,7 +8683,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2705
+					"count": 2704
 				}
 			],
 			"ridiselect": false,
@@ -17114,7 +17103,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3255
+					"count": 3257
 				}
 			],
 			"ridiselect": false,
