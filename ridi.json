@@ -339,11 +339,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 128
+					"count": 129
 				},
 				{
 					"rating": 5,
-					"count": 2434
+					"count": 2483
 				}
 			],
 			"ridiselect": false,
@@ -2189,16 +2189,16 @@
 				"title": "프리즌 러브(Prison Love)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049033948/small#1",
-					"large": "https://img.ridicdn.net/cover/3049033948/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049033948/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049033949/small#1",
+					"large": "https://img.ridicdn.net/cover/3049033949/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049033949/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1415,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 161,
+				"total": 162,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2226,15 +2226,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 15800,
-					"sale_price": 15800,
+					"full_price": 15900,
+					"sale_price": 15900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-13T16:00:09+09:00"
+				"last_opened_episode_date": "2023-01-14T16:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -3238,17 +3238,6 @@
 			"link": "https://ridibooks.com/books/4159000001"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -4343,7 +4332,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2699
+					"count": 2698
 				}
 			],
 			"ridiselect": false,
@@ -5130,7 +5119,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2521
+					"count": 2522
 				}
 			],
 			"ridiselect": false,
@@ -5321,11 +5310,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 229
+					"count": 230
 				},
 				{
 					"rating": 5,
-					"count": 2714
+					"count": 2712
 				}
 			],
 			"ridiselect": false,
@@ -6714,17 +6703,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -7091,17 +7069,6 @@
 			"link": "https://ridibooks.com/books/945060519"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -9958,7 +9925,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1200
+					"count": 1201
 				}
 			],
 			"ridiselect": false,
@@ -12367,16 +12334,16 @@
 				"title": "야만이 그대를 속일지라도",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049033909/small#1",
-					"large": "https://img.ridicdn.net/cover/3049033909/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049033909/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049033910/small#1",
+					"large": "https://img.ridicdn.net/cover/3049033910/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049033910/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1754,
 					"width": 1239
 				},
 				"episode": 1,
-				"total": 99,
+				"total": 100,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -12404,15 +12371,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9600,
-					"sale_price": 9600,
+					"full_price": 9700,
+					"sale_price": 9700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-13T16:00:09+09:00"
+				"last_opened_episode_date": "2023-01-14T16:00:06+09:00"
 			},
 			"categories": [
 				{
