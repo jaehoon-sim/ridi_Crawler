@@ -59,16 +59,16 @@
 				"title": "아포칼립스의 S급 좀비",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4854001207/small#1",
-					"large": "https://img.ridicdn.net/cover/4854001207/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4854001207/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4854001208/small#1",
+					"large": "https://img.ridicdn.net/cover/4854001208/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4854001208/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2800,
 					"width": 2000
 				},
 				"episode": 1,
-				"total": 61,
+				"total": 62,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -96,15 +96,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 5800,
-					"sale_price": 5800,
+					"full_price": 5900,
+					"sale_price": 5900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-14T07:00:08+09:00"
+				"last_opened_episode_date": "2023-01-15T07:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -143,7 +143,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3052
+					"count": 3056
 				}
 			],
 			"ridiselect": false,
@@ -1881,17 +1881,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -3493,16 +3482,16 @@
 				"title": "부서진 세계의 구원자",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2378045890/small#1",
-					"large": "https://img.ridicdn.net/cover/2378045890/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2378045890/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2378045891/small#1",
+					"large": "https://img.ridicdn.net/cover/2378045891/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2378045891/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2450,
 					"width": 1600
 				},
 				"episode": 1,
-				"total": 539,
+				"total": 540,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3530,15 +3519,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 53400,
-					"sale_price": 53400,
+					"full_price": 53500,
+					"sale_price": 53500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-14T07:00:10+09:00"
+				"last_opened_episode_date": "2023-01-15T07:00:05+09:00"
 			},
 			"categories": [
 				{
@@ -5538,16 +5527,16 @@
 				"title": "소꿉친구의 흑화를 막지 못했다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/777114242/small#1",
-					"large": "https://img.ridicdn.net/cover/777114242/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/777114242/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/777114243/small#1",
+					"large": "https://img.ridicdn.net/cover/777114243/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/777114243/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1650,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 127,
+				"total": 128,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5575,8 +5564,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12300,
-					"sale_price": 12300,
+					"full_price": 12400,
+					"sale_price": 12400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -5594,7 +5583,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-01-14T07:00:13+09:00"
+				"last_opened_episode_date": "2023-01-15T07:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -5828,7 +5817,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2696
+					"count": 2697
 				}
 			],
 			"ridiselect": false,
@@ -7746,17 +7735,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -8151,17 +8129,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -8254,16 +8221,16 @@
 				"title": "그 엑스트라는 생각보다 대단했다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4375017280/small#1",
-					"large": "https://img.ridicdn.net/cover/4375017280/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4375017280/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4375017281/small#1",
+					"large": "https://img.ridicdn.net/cover/4375017281/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4375017281/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 195,
+				"total": 196,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8291,8 +8258,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 19200,
-					"sale_price": 19200,
+					"full_price": 19300,
+					"sale_price": 19300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -8310,7 +8277,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-01-14T07:00:09+09:00"
+				"last_opened_episode_date": "2023-01-15T07:00:05+09:00"
 			},
 			"categories": [
 				{
@@ -9122,17 +9089,6 @@
 			"link": "https://ridibooks.com/books/297050730"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -12240,17 +12196,6 @@
 			"link": "https://ridibooks.com/books/2213011788"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
