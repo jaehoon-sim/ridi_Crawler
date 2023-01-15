@@ -139,11 +139,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 181
+					"count": 182
 				},
 				{
 					"rating": 5,
-					"count": 3077
+					"count": 3086
 				}
 			],
 			"ridiselect": false,
@@ -731,7 +731,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 45973
+					"count": 45974
 				}
 			],
 			"ridiselect": false,
@@ -830,16 +830,16 @@
 				"title": "킬 디스 메리지(Kill this Marriage)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011436/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011436/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011436/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011444/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011444/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011444/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 152,
+				"total": 153,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -867,15 +867,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 14900,
-					"sale_price": 14900,
+					"full_price": 15000,
+					"sale_price": 15000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-14T11:00:07+09:00"
+				"last_opened_episode_date": "2023-01-15T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -1491,7 +1491,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2583
+					"count": 2584
 				}
 			],
 			"ridiselect": false,
@@ -4857,7 +4857,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2608
+					"count": 2609
 				}
 			],
 			"ridiselect": false,
@@ -6591,7 +6591,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 71
+					"count": 72
 				},
 				{
 					"rating": 2,
@@ -9454,7 +9454,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2541
+					"count": 2542
 				}
 			],
 			"ridiselect": false,
@@ -14430,7 +14430,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 54
+					"count": 55
 				}
 			],
 			"ridiselect": false,
@@ -18183,7 +18183,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 260
+					"count": 259
 				},
 				{
 					"rating": 5,
