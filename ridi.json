@@ -1401,16 +1401,16 @@
 				"title": "나를 사랑하지 않은 죄",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011442/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011442/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011442/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011478/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011478/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011478/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 70,
+				"total": 71,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1438,15 +1438,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6700,
-					"sale_price": 6700,
+					"full_price": 6800,
+					"sale_price": 6800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-13T18:05:07+09:00"
+				"last_opened_episode_date": "2023-01-16T18:40:06+09:00"
 			},
 			"categories": [
 				{
@@ -1497,6 +1497,17 @@
 			"link": "https://ridibooks.com/books/2259011047"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -10444,16 +10455,16 @@
 				"title": "나를 사랑하지 않은 죄(15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011443/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011443/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011443/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011479/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011479/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011479/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 70,
+				"total": 71,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10481,15 +10492,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6700,
-					"sale_price": 6700,
+					"full_price": 6800,
+					"sale_price": 6800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-13T18:05:07+09:00"
+				"last_opened_episode_date": "2023-01-16T18:40:07+09:00"
 			},
 			"categories": [
 				{
@@ -10540,6 +10551,17 @@
 			"link": "https://ridibooks.com/books/2259011049"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
