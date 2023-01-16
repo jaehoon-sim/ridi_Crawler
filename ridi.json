@@ -318,15 +318,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 4
+					"count": 5
 				},
 				{
 					"rating": 4,
-					"count": 76
+					"count": 77
 				},
 				{
 					"rating": 5,
-					"count": 1869
+					"count": 1925
 				}
 			],
 			"ridiselect": false,
@@ -719,7 +719,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5438
+					"count": 5439
 				}
 			],
 			"ridiselect": false,
@@ -4005,7 +4005,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 231
+					"count": 232
 				},
 				{
 					"rating": 5,
@@ -5372,7 +5372,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 556
+					"count": 557
 				},
 				{
 					"rating": 5,
@@ -7884,7 +7884,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 1246
+					"count": 1247
 				},
 				{
 					"rating": 5,
@@ -13643,16 +13643,16 @@
 				"title": "대공의 두 번째 아내로 사는 법",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1962107085/small#1",
-					"large": "https://img.ridicdn.net/cover/1962107085/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1962107085/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1962107086/small#1",
+					"large": "https://img.ridicdn.net/cover/1962107086/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1962107086/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1018,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 110,
+				"total": 111,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -13680,15 +13680,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10700,
-					"sale_price": 10700,
+					"full_price": 10800,
+					"sale_price": 10800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-16T00:01:15+09:00"
+				"last_opened_episode_date": "2023-01-17T00:00:35+09:00"
 			},
 			"categories": [
 				{
