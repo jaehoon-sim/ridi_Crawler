@@ -270,16 +270,16 @@
 				"title": "나를 사랑하지 않은 죄",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011478/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011478/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011478/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011488/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011488/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011488/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 71,
+				"total": 72,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -307,15 +307,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6800,
-					"sale_price": 6800,
+					"full_price": 6900,
+					"sale_price": 6900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-16T18:40:06+09:00"
+				"last_opened_episode_date": "2023-01-17T18:20:07+09:00"
 			},
 			"categories": [
 				{
@@ -742,7 +742,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2929
+					"count": 2931
 				}
 			],
 			"ridiselect": false,
@@ -7434,7 +7434,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4095
+					"count": 4093
 				}
 			],
 			"ridiselect": false,
@@ -9606,16 +9606,16 @@
 				"title": "나를 사랑하지 않은 죄(15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011479/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011479/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011479/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011489/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011489/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011489/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 71,
+				"total": 72,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9643,15 +9643,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6800,
-					"sale_price": 6800,
+					"full_price": 6900,
+					"sale_price": 6900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-16T18:40:07+09:00"
+				"last_opened_episode_date": "2023-01-17T18:20:07+09:00"
 			},
 			"categories": [
 				{
@@ -18801,7 +18801,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 238
+					"count": 239
 				},
 				{
 					"rating": 5,
