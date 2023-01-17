@@ -1246,16 +1246,16 @@
 				"title": "집착당하면 파멸합니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011318/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011318/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011318/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011319/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011319/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011319/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 188,
+				"total": 189,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1283,15 +1283,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 18500,
-					"sale_price": 18500,
+					"full_price": 18600,
+					"sale_price": 18600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-16T11:00:07+09:00"
+				"last_opened_episode_date": "2023-01-17T11:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -1524,7 +1524,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2025
+					"count": 2037
 				}
 			],
 			"ridiselect": false,
@@ -1718,7 +1718,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 190
+					"count": 192
 				}
 			],
 			"ridiselect": false,
@@ -4976,16 +4976,16 @@
 				"title": "물 만난 드래곤의 집착이 곤란하다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011440/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011440/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011440/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011441/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011441/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011441/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 71,
+				"total": 72,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5013,15 +5013,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6800,
-					"sale_price": 6800,
+					"full_price": 6900,
+					"sale_price": 6900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-16T11:00:07+09:00"
+				"last_opened_episode_date": "2023-01-17T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -5453,7 +5453,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2659
+					"count": 2660
 				}
 			],
 			"ridiselect": false,
@@ -7229,7 +7229,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3291
+					"count": 3292
 				}
 			],
 			"ridiselect": false,
@@ -7423,7 +7423,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4102
+					"count": 4098
 				}
 			],
 			"ridiselect": false,
@@ -7811,7 +7811,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 6340
+					"count": 6341
 				}
 			],
 			"ridiselect": false,
@@ -8941,7 +8941,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1205
+					"count": 1206
 				}
 			],
 			"ridiselect": false,
@@ -10371,9 +10371,9 @@
 				"title": "자스민을 봐 주세요",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4880000001/small#1",
-					"large": "https://img.ridicdn.net/cover/4880000001/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4880000001/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4880000364/small#1",
+					"large": "https://img.ridicdn.net/cover/4880000364/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4880000364/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
@@ -10381,7 +10381,7 @@
 				},
 				"episode": 1,
 				"total": 188,
-				"completion": true,
+				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
 				},
@@ -12563,7 +12563,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 8439
+					"count": 8440
 				}
 			],
 			"ridiselect": false,
@@ -14208,7 +14208,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2331
+					"count": 2332
 				}
 			],
 			"ridiselect": false,
@@ -14796,7 +14796,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2749
+					"count": 2750
 				}
 			],
 			"ridiselect": false,
