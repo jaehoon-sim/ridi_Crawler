@@ -540,15 +540,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 8
+					"count": 10
 				},
 				{
 					"rating": 4,
-					"count": 76
+					"count": 82
 				},
 				{
 					"rating": 5,
-					"count": 1860
+					"count": 1924
 				}
 			],
 			"ridiselect": false,
@@ -1912,7 +1912,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2918
+					"count": 2919
 				}
 			],
 			"ridiselect": false,
@@ -2415,16 +2415,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211040408/small#1",
-					"large": "https://img.ridicdn.net/cover/211040408/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211040408/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211040409/small#1",
+					"large": "https://img.ridicdn.net/cover/211040409/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211040409/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 470,
+				"total": 471,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2452,8 +2452,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 46400,
-					"sale_price": 46400,
+					"full_price": 46500,
+					"sale_price": 46500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -2471,7 +2471,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-01-18T00:00:41+09:00"
+				"last_opened_episode_date": "2023-01-19T00:01:15+09:00"
 			},
 			"categories": [
 				{
@@ -5132,7 +5132,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2699
+					"count": 2696
 				}
 			],
 			"ridiselect": false,
@@ -6115,7 +6115,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 319
+					"count": 318
 				},
 				{
 					"rating": 5,
@@ -10444,16 +10444,16 @@
 				"title": "대공의 두 번째 아내로 사는 법",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1962107087/small#1",
-					"large": "https://img.ridicdn.net/cover/1962107087/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1962107087/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1962107088/small#1",
+					"large": "https://img.ridicdn.net/cover/1962107088/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1962107088/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1018,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 112,
+				"total": 113,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10481,15 +10481,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10900,
-					"sale_price": 10900,
+					"full_price": 11000,
+					"sale_price": 11000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-18T00:00:40+09:00"
+				"last_opened_episode_date": "2023-01-19T00:01:13+09:00"
 			},
 			"categories": [
 				{
@@ -18803,7 +18803,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 34
+					"count": 35
 				},
 				{
 					"rating": 2,
