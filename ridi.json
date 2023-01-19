@@ -7998,7 +7998,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 3
+					"count": 4
 				},
 				{
 					"rating": 2,
@@ -8006,11 +8006,11 @@
 				},
 				{
 					"rating": 3,
-					"count": 37
+					"count": 38
 				},
 				{
 					"rating": 4,
-					"count": 318
+					"count": 316
 				},
 				{
 					"rating": 5,
@@ -17528,7 +17528,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5126
+					"count": 5127
 				}
 			],
 			"ridiselect": false,
