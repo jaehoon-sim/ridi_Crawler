@@ -544,11 +544,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 177
+					"count": 178
 				},
 				{
 					"rating": 5,
-					"count": 2586
+					"count": 2585
 				}
 			],
 			"ridiselect": false,
@@ -658,16 +658,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120062625/small#1",
-					"large": "https://img.ridicdn.net/cover/120062625/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120062625/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120062631/small#1",
+					"large": "https://img.ridicdn.net/cover/120062631/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120062631/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 114,
+				"total": 115,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -695,15 +695,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11100,
-					"sale_price": 11100,
+					"full_price": 11200,
+					"sale_price": 11200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-18T19:00:09+09:00"
+				"last_opened_episode_date": "2023-01-19T19:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -3089,11 +3089,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 97
+					"count": 98
 				},
 				{
 					"rating": 5,
-					"count": 2298
+					"count": 2341
 				}
 			],
 			"ridiselect": false,
@@ -3287,7 +3287,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2876
+					"count": 2877
 				}
 			],
 			"ridiselect": false,
@@ -5275,7 +5275,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2696
+					"count": 2695
 				}
 			],
 			"ridiselect": false,
@@ -5458,7 +5458,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3286
+					"count": 3285
 				}
 			],
 			"ridiselect": false,
@@ -7365,16 +7365,16 @@
 				"title": "너드남의 흑화를 막아 보겠습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3822005619/small#1",
-					"large": "https://img.ridicdn.net/cover/3822005619/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3822005619/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3822005621/small#1",
+					"large": "https://img.ridicdn.net/cover/3822005621/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3822005621/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 115,
+				"total": 116,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7402,8 +7402,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11200,
-					"sale_price": 11200,
+					"full_price": 11300,
+					"sale_price": 11300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -7421,7 +7421,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-01-18T19:15:31+09:00"
+				"last_opened_episode_date": "2023-01-19T19:08:22+09:00"
 			},
 			"categories": [
 				{
