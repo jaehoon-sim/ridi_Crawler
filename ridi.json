@@ -139,11 +139,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 181
+					"count": 184
 				},
 				{
 					"rating": 5,
-					"count": 2045
+					"count": 2062
 				}
 			],
 			"ridiselect": false,
@@ -522,11 +522,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 233
+					"count": 234
 				},
 				{
 					"rating": 5,
-					"count": 2987
+					"count": 2986
 				}
 			],
 			"ridiselect": false,
@@ -636,16 +636,16 @@
 				"title": "킬 디스 메리지(Kill this Marriage)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011527/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011527/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011527/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011528/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011528/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011528/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 157,
+				"total": 158,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -673,15 +673,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 15400,
-					"sale_price": 15400,
+					"full_price": 15500,
+					"sale_price": 15500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-21T11:00:08+09:00"
+				"last_opened_episode_date": "2023-01-22T11:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -4395,7 +4395,7 @@
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 121,
+				"total": 123,
 				"completion": true,
 				"publishing_schedule": {
 					"periodical": true
@@ -4423,15 +4423,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11800,
-					"sale_price": 11800,
+					"full_price": 12000,
+					"sale_price": 12000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-21T11:00:12+09:00"
+				"last_opened_episode_date": "2023-01-22T11:00:12+09:00"
 			},
 			"categories": [
 				{
@@ -11648,7 +11648,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 8
+					"count": 9
 				},
 				{
 					"rating": 3,
@@ -11660,7 +11660,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2857
+					"count": 2856
 				}
 			],
 			"ridiselect": false,
