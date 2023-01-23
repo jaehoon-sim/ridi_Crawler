@@ -159,7 +159,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5463
+					"count": 5465
 				}
 			],
 			"ridiselect": false,
@@ -548,7 +548,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3370
+					"count": 3371
 				}
 			],
 			"ridiselect": false,
@@ -932,11 +932,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 57
+					"count": 84
 				},
 				{
 					"rating": 5,
-					"count": 1213
+					"count": 1221
 				}
 			],
 			"ridiselect": false,
@@ -18001,17 +18001,17 @@
 				"title": "그는 나의 절망을 바란다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211040597/small#1",
-					"large": "https://img.ridicdn.net/cover/211040597/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211040597/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211039915/small#1",
+					"large": "https://img.ridicdn.net/cover/211039915/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211039915/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1708,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 82,
-				"completion": false,
+				"total": 83,
+				"completion": true,
 				"publishing_schedule": {
 					"periodical": true
 				},
@@ -18038,15 +18038,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7900,
-					"sale_price": 7900,
+					"full_price": 8000,
+					"sale_price": 8000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-23T08:00:09+09:00"
+				"last_opened_episode_date": "2023-01-24T08:00:09+09:00"
 			},
 			"categories": [
 				{
