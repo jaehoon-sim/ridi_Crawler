@@ -928,15 +928,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 3
+					"count": 4
 				},
 				{
 					"rating": 4,
-					"count": 141
+					"count": 143
 				},
 				{
 					"rating": 5,
-					"count": 1495
+					"count": 1533
 				}
 			],
 			"ridiselect": false,
@@ -2688,7 +2688,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2736
+					"count": 2737
 				}
 			],
 			"ridiselect": false,
@@ -4817,7 +4817,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 75
+					"count": 76
 				},
 				{
 					"rating": 4,
