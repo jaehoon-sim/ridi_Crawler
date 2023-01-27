@@ -824,16 +824,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120062659/small#1",
-					"large": "https://img.ridicdn.net/cover/120062659/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120062659/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120062672/small#1",
+					"large": "https://img.ridicdn.net/cover/120062672/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120062672/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 120,
+				"total": 121,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -861,15 +861,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11700,
-					"sale_price": 11700,
+					"full_price": 11800,
+					"sale_price": 11800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-26T19:00:08+09:00"
+				"last_opened_episode_date": "2023-01-27T19:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -1878,7 +1878,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46325
+					"count": 46327
 				}
 			],
 			"ridiselect": false,
@@ -3809,11 +3809,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 89
+					"count": 94
 				},
 				{
 					"rating": 5,
-					"count": 2103
+					"count": 2134
 				}
 			],
 			"ridiselect": false,
@@ -6127,7 +6127,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2902
+					"count": 2900
 				}
 			],
 			"ridiselect": false,
@@ -7013,16 +7013,16 @@
 				"title": "너드남의 흑화를 막아 보겠습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3822005633/small#1",
-					"large": "https://img.ridicdn.net/cover/3822005633/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3822005633/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3822005634/small#1",
+					"large": "https://img.ridicdn.net/cover/3822005634/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3822005634/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 120,
+				"total": 121,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7050,15 +7050,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11700,
-					"sale_price": 11700,
+					"full_price": 11800,
+					"sale_price": 11800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-26T19:00:09+09:00"
+				"last_opened_episode_date": "2023-01-27T19:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -8067,7 +8067,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2713
+					"count": 2711
 				}
 			],
 			"ridiselect": false,
