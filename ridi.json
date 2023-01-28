@@ -322,11 +322,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 132
+					"count": 149
 				},
 				{
 					"rating": 5,
-					"count": 1509
+					"count": 1532
 				}
 			],
 			"ridiselect": false,
@@ -2371,7 +2371,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 398
+					"count": 399
 				},
 				{
 					"rating": 3,
@@ -2383,7 +2383,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46339
+					"count": 46341
 				}
 			],
 			"ridiselect": false,
@@ -3704,17 +3704,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -5001,17 +4990,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -5723,7 +5701,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 83
+					"count": 84
 				},
 				{
 					"rating": 2,
@@ -8821,16 +8799,16 @@
 				"title": "괴물 황자를 길들여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/297054125/small#1",
-					"large": "https://img.ridicdn.net/cover/297054125/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/297054125/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/297054126/small#1",
+					"large": "https://img.ridicdn.net/cover/297054126/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/297054126/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1527,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 128,
+				"total": 129,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8858,15 +8836,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12500,
-					"sale_price": 12500,
+					"full_price": 12600,
+					"sale_price": 12600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-27T16:00:10+09:00"
+				"last_opened_episode_date": "2023-01-28T16:01:29+09:00"
 			},
 			"categories": [
 				{
@@ -10220,17 +10198,6 @@
 			"link": "https://ridibooks.com/books/945060519"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -14615,16 +14582,16 @@
 				"title": "야만이 그대를 속일지라도",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049034636/small#1",
-					"large": "https://img.ridicdn.net/cover/3049034636/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049034636/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049034646/small#1",
+					"large": "https://img.ridicdn.net/cover/3049034646/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049034646/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1754,
 					"width": 1239
 				},
 				"episode": 1,
-				"total": 107,
+				"total": 108,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -14652,15 +14619,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10400,
-					"sale_price": 10400,
+					"full_price": 10500,
+					"sale_price": 10500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-27T16:00:08+09:00"
+				"last_opened_episode_date": "2023-01-28T16:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -17857,7 +17824,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 15
+					"count": 16
 				},
 				{
 					"rating": 2,
