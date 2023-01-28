@@ -322,11 +322,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 149
+					"count": 173
 				},
 				{
 					"rating": 5,
-					"count": 1532
+					"count": 1556
 				}
 			],
 			"ridiselect": false,
@@ -886,7 +886,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3005
+					"count": 3006
 				}
 			],
 			"ridiselect": false,
@@ -2383,7 +2383,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46341
+					"count": 46342
 				}
 			],
 			"ridiselect": false,
@@ -5526,7 +5526,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2899
+					"count": 2898
 				}
 			],
 			"ridiselect": false,
@@ -8140,7 +8140,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2709
+					"count": 2708
 				}
 			],
 			"ridiselect": false,
@@ -8700,7 +8700,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 6366
+					"count": 6367
 				}
 			],
 			"ridiselect": false,
@@ -9822,17 +9822,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -10856,16 +10845,16 @@
 				"title": "EX급이 이렇게 약해도 되나요?",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/961067268/small#1",
-					"large": "https://img.ridicdn.net/cover/961067268/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/961067268/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/961067277/small#1",
+					"large": "https://img.ridicdn.net/cover/961067277/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/961067277/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 97,
+				"total": 98,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10893,15 +10882,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9400,
-					"sale_price": 9400,
+					"full_price": 9500,
+					"sale_price": 9500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-27T17:00:06+09:00"
+				"last_opened_episode_date": "2023-01-28T17:00:09+09:00"
 			},
 			"categories": [
 				{
