@@ -321,7 +321,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 1276
+					"count": 1275
 				},
 				{
 					"rating": 2,
@@ -337,7 +337,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46396
+					"count": 46398
 				}
 			],
 			"ridiselect": false,
@@ -691,7 +691,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 17
+					"count": 18
 				},
 				{
 					"rating": 3,
@@ -699,7 +699,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 553
+					"count": 551
 				},
 				{
 					"rating": 5,
@@ -1080,7 +1080,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3469
+					"count": 3470
 				}
 			],
 			"ridiselect": false,
@@ -1384,16 +1384,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239015486/small#1",
-					"large": "https://img.ridicdn.net/cover/1239015486/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239015486/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239015488/small#1",
+					"large": "https://img.ridicdn.net/cover/1239015488/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239015488/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 66,
+				"total": 67,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1421,15 +1421,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6300,
-					"sale_price": 6300,
+					"full_price": 6400,
+					"sale_price": 6400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-30T00:00:58+09:00"
+				"last_opened_episode_date": "2023-01-31T00:01:29+09:00"
 			},
 			"categories": [
 				{
@@ -2412,7 +2412,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 180
+					"count": 181
 				},
 				{
 					"rating": 5,
@@ -2987,7 +2987,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2669
+					"count": 2666
 				}
 			],
 			"ridiselect": false,
@@ -5654,7 +5654,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2831
+					"count": 2827
 				}
 			],
 			"ridiselect": false,
