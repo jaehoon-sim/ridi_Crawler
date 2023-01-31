@@ -1307,7 +1307,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2296
+					"count": 2297
 				}
 			],
 			"ridiselect": false,
@@ -1490,7 +1490,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3292
+					"count": 3291
 				}
 			],
 			"ridiselect": false,
@@ -1676,15 +1676,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 1047
+					"count": 1048
 				},
 				{
 					"rating": 4,
-					"count": 2762
+					"count": 2761
 				},
 				{
 					"rating": 5,
-					"count": 46406
+					"count": 46408
 				}
 			],
 			"ridiselect": false,
@@ -1783,16 +1783,16 @@
 				"title": "집착당하면 파멸합니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011500/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011500/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011500/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011501/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011501/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011501/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 198,
+				"total": 199,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1820,15 +1820,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 19500,
-					"sale_price": 19500,
+					"full_price": 19600,
+					"sale_price": 19600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-30T11:00:10+09:00"
+				"last_opened_episode_date": "2023-01-31T11:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -4353,7 +4353,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2372
+					"count": 2371
 				}
 			],
 			"ridiselect": false,
@@ -4463,16 +4463,16 @@
 				"title": "쇼윈도 스캔들",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011573/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011573/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011573/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011583/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011583/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011583/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1094,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 69,
+				"total": 70,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4500,15 +4500,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6600,
-					"sale_price": 6600,
+					"full_price": 6700,
+					"sale_price": 6700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-30T11:00:09+09:00"
+				"last_opened_episode_date": "2023-01-31T11:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -4547,7 +4547,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2894
+					"count": 2893
 				}
 			],
 			"ridiselect": false,
@@ -4657,16 +4657,16 @@
 				"title": "라스트 아틀란티스",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213012315/small#1",
-					"large": "https://img.ridicdn.net/cover/2213012315/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213012315/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213012321/small#1",
+					"large": "https://img.ridicdn.net/cover/2213012321/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213012321/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1528,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 65,
+				"total": 66,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4694,15 +4694,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6200,
-					"sale_price": 6200,
+					"full_price": 6300,
+					"sale_price": 6300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-30T11:00:09+09:00"
+				"last_opened_episode_date": "2023-01-31T11:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -5228,16 +5228,16 @@
 				"title": "물 만난 드래곤의 집착이 곤란하다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011572/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011572/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011572/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011580/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011580/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011580/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 81,
+				"total": 82,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5265,15 +5265,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7800,
-					"sale_price": 7800,
+					"full_price": 7900,
+					"sale_price": 7900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-01-30T11:00:09+09:00"
+				"last_opened_episode_date": "2023-01-31T11:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -5506,7 +5506,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 934
+					"count": 935
 				}
 			],
 			"ridiselect": false,
@@ -7624,7 +7624,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3168
+					"count": 3167
 				}
 			],
 			"ridiselect": false,
@@ -7818,7 +7818,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 6373
+					"count": 6374
 				}
 			],
 			"ridiselect": false,
@@ -8001,7 +8001,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2703
+					"count": 2702
 				}
 			],
 			"ridiselect": false,
@@ -17693,7 +17693,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 4
+					"count": 5
 				},
 				{
 					"rating": 5,
