@@ -6522,11 +6522,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 212
+					"count": 213
 				},
 				{
 					"rating": 5,
-					"count": 2638
+					"count": 2637
 				}
 			],
 			"ridiselect": false,
@@ -7584,16 +7584,16 @@
 				"title": "이러다가 토끼 백숙이 될지도 몰라",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049034703/small#1",
-					"large": "https://img.ridicdn.net/cover/3049034703/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049034703/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049034720/small#1",
+					"large": "https://img.ridicdn.net/cover/3049034720/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049034720/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1215,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 100,
+				"total": 101,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7621,15 +7621,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9700,
-					"sale_price": 9700,
+					"full_price": 9800,
+					"sale_price": 9800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-01T16:00:07+09:00"
+				"last_opened_episode_date": "2023-02-02T16:20:07+09:00"
 			},
 			"categories": [
 				{
@@ -7680,6 +7680,17 @@
 			"link": "https://ridibooks.com/books/3049032357"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
