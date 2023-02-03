@@ -135,15 +135,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 136
+					"count": 138
 				},
 				{
 					"rating": 4,
-					"count": 675
+					"count": 682
 				},
 				{
 					"rating": 5,
-					"count": 5899
+					"count": 5923
 				}
 			],
 			"ridiselect": false,
@@ -337,7 +337,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3479
+					"count": 3478
 				}
 			],
 			"ridiselect": false,
@@ -1044,12 +1044,12 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-01-31T23:55:00+09:00",
-					"closing_date": "2023-02-03T23:59:59+09:00"
+					"opening_date": "2023-01-31T00:00:00+09:00",
+					"closing_date": "2033-02-01T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -1109,11 +1109,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 142
+					"count": 149
 				},
 				{
 					"rating": 5,
-					"count": 2741
+					"count": 2946
 				}
 			],
 			"ridiselect": false,
@@ -1319,17 +1319,6 @@
 			"link": "https://ridibooks.com/books/1239015403"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -1611,16 +1600,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211040512/small#1",
-					"large": "https://img.ridicdn.net/cover/211040512/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211040512/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211040513/small#1",
+					"large": "https://img.ridicdn.net/cover/211040513/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211040513/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 480,
+				"total": 481,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1648,15 +1637,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 47400,
-					"sale_price": 47400,
+					"full_price": 47500,
+					"sale_price": 47500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-03T00:00:48+09:00"
+				"last_opened_episode_date": "2023-02-04T00:01:11+09:00"
 			},
 			"categories": [
 				{
@@ -2277,7 +2266,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46514
+					"count": 46515
 				}
 			],
 			"ridiselect": false,
@@ -5947,7 +5936,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 19
+					"count": 20
 				},
 				{
 					"rating": 4,
@@ -5955,7 +5944,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2578
+					"count": 2577
 				}
 			],
 			"ridiselect": false,
@@ -16884,7 +16873,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2681
+					"count": 2680
 				}
 			],
 			"ridiselect": false,
