@@ -501,15 +501,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 19
+					"count": 20
 				},
 				{
 					"rating": 4,
-					"count": 194
+					"count": 206
 				},
 				{
 					"rating": 5,
-					"count": 2529
+					"count": 2579
 				}
 			],
 			"ridiselect": false,
@@ -4922,7 +4922,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2635
+					"count": 2634
 				}
 			],
 			"ridiselect": false,
@@ -10645,7 +10645,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2797
+					"count": 2796
 				}
 			],
 			"ridiselect": false,
