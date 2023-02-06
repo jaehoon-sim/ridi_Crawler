@@ -325,7 +325,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 3
+					"count": 4
 				},
 				{
 					"rating": 3,
@@ -333,11 +333,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 77
+					"count": 79
 				},
 				{
 					"rating": 5,
-					"count": 1229
+					"count": 1239
 				}
 			],
 			"ridiselect": false,
@@ -1080,7 +1080,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46579
+					"count": 46580
 				}
 			],
 			"ridiselect": false,
@@ -1823,7 +1823,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2974
+					"count": 2975
 				}
 			],
 			"ridiselect": false,
@@ -14350,7 +14350,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3280
+					"count": 3281
 				}
 			],
 			"ridiselect": false,
@@ -14798,7 +14798,7 @@
 				"size": 2089,
 				"format": "epub",
 				"page_count": null,
-				"character_count": 2466,
+				"character_count": 2459,
 				"comic": false,
 				"webtoon": false,
 				"variants": [
