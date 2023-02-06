@@ -329,15 +329,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 13
+					"count": 16
 				},
 				{
 					"rating": 4,
-					"count": 189
+					"count": 191
 				},
 				{
 					"rating": 5,
-					"count": 1589
+					"count": 1639
 				}
 			],
 			"ridiselect": false,
@@ -531,7 +531,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3167
+					"count": 3168
 				}
 			],
 			"ridiselect": false,
@@ -1091,7 +1091,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46584
+					"count": 46589
 				}
 			],
 			"ridiselect": false,
@@ -1856,7 +1856,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2911
+					"count": 2908
 				}
 			],
 			"ridiselect": false,
@@ -1966,16 +1966,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239015508/small#1",
-					"large": "https://img.ridicdn.net/cover/1239015508/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239015508/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239015525/small#1",
+					"large": "https://img.ridicdn.net/cover/1239015525/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239015525/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 71,
+				"total": 72,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2003,15 +2003,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6800,
-					"sale_price": 6800,
+					"full_price": 6900,
+					"sale_price": 6900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-06T00:02:46+09:00"
+				"last_opened_episode_date": "2023-02-07T00:10:09+09:00"
 			},
 			"categories": [
 				{
@@ -11239,7 +11239,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4024
+					"count": 4022
 				}
 			],
 			"ridiselect": false,
@@ -11433,7 +11433,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2790
+					"count": 2791
 				}
 			],
 			"ridiselect": false,
@@ -16484,7 +16484,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2365
+					"count": 2366
 				}
 			],
 			"ridiselect": false,
