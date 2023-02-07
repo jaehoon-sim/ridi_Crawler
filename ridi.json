@@ -919,7 +919,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2897
+					"count": 2898
 				}
 			],
 			"ridiselect": false,
@@ -1113,7 +1113,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3284
+					"count": 3285
 				}
 			],
 			"ridiselect": false,
@@ -1889,7 +1889,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46602
+					"count": 46601
 				}
 			],
 			"ridiselect": false,
@@ -1988,16 +1988,16 @@
 				"title": "나의 상냥한 빌런에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369005890/small#1",
-					"large": "https://img.ridicdn.net/cover/2369005890/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369005890/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369005903/small#1",
+					"large": "https://img.ridicdn.net/cover/2369005903/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369005903/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 114,
+				"total": 116,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2025,15 +2025,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11000,
-					"sale_price": 11000,
+					"full_price": 11200,
+					"sale_price": 11200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-06T18:00:18+09:00"
+				"last_opened_episode_date": "2023-02-07T19:00:11+09:00"
 			},
 			"categories": [
 				{
@@ -2084,6 +2084,17 @@
 			"link": "https://ridibooks.com/books/2369005517"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -2255,7 +2266,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2022
+					"count": 2073
 				}
 			],
 			"ridiselect": false,
@@ -2936,16 +2947,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120063068/small#1",
-					"large": "https://img.ridicdn.net/cover/120063068/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120063068/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120063076/small#1",
+					"large": "https://img.ridicdn.net/cover/120063076/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120063076/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 127,
+				"total": 128,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2973,15 +2984,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12400,
-					"sale_price": 12400,
+					"full_price": 12500,
+					"sale_price": 12500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-04T19:00:05+09:00"
+				"last_opened_episode_date": "2023-02-07T19:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -3020,7 +3031,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3031
+					"count": 3032
 				}
 			],
 			"ridiselect": false,
@@ -3032,6 +3043,17 @@
 			"link": "https://ridibooks.com/books/120060787"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -11012,7 +11034,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2448
+					"count": 2449
 				}
 			],
 			"ridiselect": false,
@@ -11653,16 +11675,16 @@
 				"title": "나의 상냥한 빌런에게 (15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369005892/small#1",
-					"large": "https://img.ridicdn.net/cover/2369005892/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369005892/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369005902/small#1",
+					"large": "https://img.ridicdn.net/cover/2369005902/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369005902/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 114,
+				"total": 116,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11690,15 +11712,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11000,
-					"sale_price": 11000,
+					"full_price": 11200,
+					"sale_price": 11200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-06T18:00:18+09:00"
+				"last_opened_episode_date": "2023-02-07T19:00:11+09:00"
 			},
 			"categories": [
 				{
@@ -11749,6 +11771,17 @@
 			"link": "https://ridibooks.com/books/2369005516"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -13150,16 +13183,16 @@
 				"title": "너드남의 흑화를 막아 보겠습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3822005658/small#1",
-					"large": "https://img.ridicdn.net/cover/3822005658/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3822005658/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3822005661/small#1",
+					"large": "https://img.ridicdn.net/cover/3822005661/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3822005661/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 125,
+				"total": 126,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -13187,15 +13220,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12200,
-					"sale_price": 12200,
+					"full_price": 12300,
+					"sale_price": 12300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-03T19:00:09+09:00"
+				"last_opened_episode_date": "2023-02-07T19:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -13246,6 +13279,17 @@
 			"link": "https://ridibooks.com/books/3822004982"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -15452,7 +15496,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2523
+					"count": 2524
 				}
 			],
 			"ridiselect": false,
@@ -17853,7 +17897,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3283
+					"count": 3284
 				}
 			],
 			"ridiselect": false,
