@@ -895,15 +895,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 146
+					"count": 147
 				},
 				{
 					"rating": 4,
-					"count": 765
+					"count": 764
 				},
 				{
 					"rating": 5,
-					"count": 6383
+					"count": 6385
 				}
 			],
 			"ridiselect": false,
@@ -2303,11 +2303,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 158
+					"count": 159
 				},
 				{
 					"rating": 5,
-					"count": 2907
+					"count": 2908
 				}
 			],
 			"ridiselect": false,
@@ -3089,7 +3089,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2836
+					"count": 2828
 				}
 			],
 			"ridiselect": false,
@@ -5266,7 +5266,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2600
+					"count": 2599
 				}
 			],
 			"ridiselect": false,
