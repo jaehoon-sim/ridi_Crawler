@@ -322,11 +322,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 44
+					"count": 46
 				},
 				{
 					"rating": 5,
-					"count": 1429
+					"count": 1447
 				}
 			],
 			"ridiselect": false,
@@ -720,7 +720,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46747
+					"count": 46749
 				}
 			],
 			"ridiselect": false,
@@ -1225,7 +1225,7 @@
 				"total": 74,
 				"completion": false,
 				"publishing_schedule": {
-					"periodical": false
+					"periodical": true
 				},
 				"wait_for_free": {
 					"interval_hours": 24,
@@ -8581,7 +8581,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 885
+					"count": 886
 				}
 			],
 			"ridiselect": false,
