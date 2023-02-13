@@ -322,11 +322,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 43
+					"count": 44
 				},
 				{
 					"rating": 5,
-					"count": 1342
+					"count": 1392
 				}
 			],
 			"ridiselect": false,
@@ -720,7 +720,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46743
+					"count": 46745
 				}
 			],
 			"ridiselect": false,
@@ -1506,7 +1506,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 5
+					"count": 6
 				},
 				{
 					"rating": 3,
@@ -1718,7 +1718,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2640
+					"count": 2641
 				}
 			],
 			"ridiselect": false,
@@ -2296,7 +2296,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2907
+					"count": 2910
 				}
 			],
 			"ridiselect": false,
@@ -9130,7 +9130,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 74
+					"count": 73
 				},
 				{
 					"rating": 4,
@@ -9138,7 +9138,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2369
+					"count": 2370
 				}
 			],
 			"ridiselect": false,
@@ -18801,16 +18801,16 @@
 				"title": "피폐물 남주가 내 남친인 줄 안다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4403009877/small#1",
-					"large": "https://img.ridicdn.net/cover/4403009877/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4403009877/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4403009878/small#1",
+					"large": "https://img.ridicdn.net/cover/4403009878/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4403009878/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1100
 				},
 				"episode": 1,
-				"total": 106,
+				"total": 107,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -18838,15 +18838,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10300,
-					"sale_price": 10300,
+					"full_price": 10400,
+					"sale_price": 10400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-10T19:00:08+09:00"
+				"last_opened_episode_date": "2023-02-13T09:00:26+09:00"
 			},
 			"categories": [
 				{
@@ -18905,6 +18905,17 @@
 			"link": "https://ridibooks.com/books/4403008682"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
