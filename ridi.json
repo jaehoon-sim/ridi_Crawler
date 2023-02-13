@@ -322,11 +322,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 49
+					"count": 50
 				},
 				{
 					"rating": 5,
-					"count": 1562
+					"count": 1586
 				}
 			],
 			"ridiselect": false,
@@ -704,7 +704,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 1273
+					"count": 1272
 				},
 				{
 					"rating": 2,
@@ -720,7 +720,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46753
+					"count": 46754
 				}
 			],
 			"ridiselect": false,
@@ -1507,7 +1507,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2999
+					"count": 3000
 				}
 			],
 			"ridiselect": false,
@@ -2616,16 +2616,16 @@
 				"title": "나의 상냥한 빌런에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369005918/small#1",
-					"large": "https://img.ridicdn.net/cover/2369005918/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369005918/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369005920/small#1",
+					"large": "https://img.ridicdn.net/cover/2369005920/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369005920/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 122,
+				"total": 123,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2653,8 +2653,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11800,
-					"sale_price": 11800,
+					"full_price": 11900,
+					"sale_price": 11900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -2672,7 +2672,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-02-10T19:00:14+09:00"
+				"last_opened_episode_date": "2023-02-13T19:00:28+09:00"
 			},
 			"categories": [
 				{
@@ -2723,6 +2723,17 @@
 			"link": "https://ridibooks.com/books/2369005517"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -3078,7 +3089,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2866
+					"count": 2857
 				}
 			],
 			"ridiselect": false,
@@ -3674,7 +3685,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2886
+					"count": 2873
 				}
 			],
 			"ridiselect": false,
@@ -5617,7 +5628,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 48
+					"count": 49
 				},
 				{
 					"rating": 4,
@@ -6357,7 +6368,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2670
+					"count": 2669
 				}
 			],
 			"ridiselect": false,
