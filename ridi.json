@@ -1363,19 +1363,19 @@
 				},
 				{
 					"rating": 2,
-					"count": 6
+					"count": 8
 				},
 				{
 					"rating": 3,
-					"count": 40
+					"count": 41
 				},
 				{
 					"rating": 4,
-					"count": 345
+					"count": 344
 				},
 				{
 					"rating": 5,
-					"count": 3276
+					"count": 3274
 				}
 			],
 			"ridiselect": false,
@@ -2169,7 +2169,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 1271
+					"count": 1272
 				},
 				{
 					"rating": 2,
@@ -4520,7 +4520,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3001
+					"count": 3000
 				}
 			],
 			"ridiselect": false,
@@ -10693,7 +10693,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 21
+					"count": 22
 				},
 				{
 					"rating": 4,
@@ -10701,7 +10701,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2572
+					"count": 2571
 				}
 			],
 			"ridiselect": false,
