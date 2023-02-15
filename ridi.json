@@ -986,7 +986,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3006
+					"count": 3007
 				}
 			],
 			"ridiselect": false,
@@ -1291,16 +1291,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239015534/small#1",
-					"large": "https://img.ridicdn.net/cover/1239015534/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239015534/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239015535/small#1",
+					"large": "https://img.ridicdn.net/cover/1239015535/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239015535/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 78,
+				"total": 79,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1328,15 +1328,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7500,
-					"sale_price": 7500,
+					"full_price": 7600,
+					"sale_price": 7600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-15T00:02:36+09:00"
+				"last_opened_episode_date": "2023-02-16T00:02:36+09:00"
 			},
 			"categories": [
 				{
@@ -1990,7 +1990,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2916
+					"count": 2915
 				}
 			],
 			"ridiselect": false,
@@ -2185,7 +2185,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46820
+					"count": 46823
 				}
 			],
 			"ridiselect": false,
@@ -2772,7 +2772,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 279
+					"count": 280
 				}
 			],
 			"ridiselect": false,
@@ -4520,7 +4520,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3006
+					"count": 3002
 				}
 			],
 			"ridiselect": false,
@@ -7769,12 +7769,12 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 1,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-02-12T23:55:00+09:00",
-					"closing_date": "2023-02-15T23:59:59+09:00"
+					"opening_date": "2022-10-07T00:00:00+09:00",
+					"closing_date": "2032-10-11T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -9936,7 +9936,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2813
+					"count": 2811
 				}
 			],
 			"ridiselect": false,
@@ -15203,7 +15203,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2361
+					"count": 2362
 				}
 			],
 			"ridiselect": false,
