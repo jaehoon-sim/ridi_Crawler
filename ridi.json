@@ -4048,16 +4048,16 @@
 				"title": "삼류 무협지에서 살아남기",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011794/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011794/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011794/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011811/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011811/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011811/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 275,
+				"total": 276,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4085,15 +4085,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 27200,
-					"sale_price": 27200,
+					"full_price": 27300,
+					"sale_price": 27300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-16T17:05:09+09:00"
+				"last_opened_episode_date": "2023-02-17T16:30:25+09:00"
 			},
 			"categories": [
 				{
@@ -14604,7 +14604,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3101
+					"count": 3100
 				}
 			],
 			"ridiselect": false,
