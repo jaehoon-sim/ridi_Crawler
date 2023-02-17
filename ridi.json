@@ -775,7 +775,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3071
+					"count": 3072
 				}
 			],
 			"ridiselect": false,
@@ -6480,7 +6480,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2788
+					"count": 2786
 				}
 			],
 			"ridiselect": false,
@@ -11153,9 +11153,9 @@
 				"title": "구원자가 도망친 밤",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2378036275/small#1",
-					"large": "https://img.ridicdn.net/cover/2378036275/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2378036275/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2378044776/small#1",
+					"large": "https://img.ridicdn.net/cover/2378044776/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2378044776/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1021,
@@ -11163,7 +11163,7 @@
 				},
 				"episode": 1,
 				"total": 206,
-				"completion": true,
+				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
 				},
