@@ -326,7 +326,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2374
+					"count": 2418
 				}
 			],
 			"ridiselect": false,
@@ -1030,16 +1030,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120063242/small#1",
-					"large": "https://img.ridicdn.net/cover/120063242/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120063242/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120063243/small#1",
+					"large": "https://img.ridicdn.net/cover/120063243/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120063243/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 136,
+				"total": 137,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1067,8 +1067,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13300,
-					"sale_price": 13300,
+					"full_price": 13400,
+					"sale_price": 13400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -1086,7 +1086,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-02-17T19:00:09+09:00"
+				"last_opened_episode_date": "2023-02-18T19:01:29+09:00"
 			},
 			"categories": [
 				{
@@ -1503,7 +1503,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2143
+					"count": 2145
 				}
 			],
 			"ridiselect": false,
@@ -2675,17 +2675,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -2857,7 +2846,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46875
+					"count": 46876
 				}
 			],
 			"ridiselect": false,
@@ -3226,7 +3215,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 83
+					"count": 84
 				},
 				{
 					"rating": 4,
@@ -3772,11 +3761,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 185
+					"count": 186
 				},
 				{
 					"rating": 5,
-					"count": 2198
+					"count": 2235
 				}
 			],
 			"ridiselect": false,
@@ -5113,7 +5102,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3322
+					"count": 3323
 				}
 			],
 			"ridiselect": false,
