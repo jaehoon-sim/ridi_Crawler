@@ -139,11 +139,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 51
+					"count": 52
 				},
 				{
 					"rating": 5,
-					"count": 1897
+					"count": 1913
 				}
 			],
 			"ridiselect": false,
@@ -914,7 +914,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46925
+					"count": 46928
 				}
 			],
 			"ridiselect": false,
@@ -1305,7 +1305,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 30
+					"count": 31
 				},
 				{
 					"rating": 4,
@@ -1524,7 +1524,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2676
+					"count": 2677
 				}
 			],
 			"ridiselect": false,
@@ -2711,7 +2711,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3197
+					"count": 3198
 				}
 			],
 			"ridiselect": false,
@@ -3089,7 +3089,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2204
+					"count": 2205
 				}
 			],
 			"ridiselect": false,
@@ -6837,16 +6837,16 @@
 				"title": "대공의 두 번째 아내로 사는 법",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1962109136/small#1",
-					"large": "https://img.ridicdn.net/cover/1962109136/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1962109136/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1962109137/small#1",
+					"large": "https://img.ridicdn.net/cover/1962109137/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1962109137/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1018,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 128,
+				"total": 129,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6874,15 +6874,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12500,
-					"sale_price": 12500,
+					"full_price": 12600,
+					"sale_price": 12600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-20T07:00:16+09:00"
+				"last_opened_episode_date": "2023-02-21T01:00:45+09:00"
 			},
 			"categories": [
 				{
@@ -11477,7 +11477,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2862
+					"count": 2861
 				}
 			],
 			"ridiselect": false,
@@ -12026,7 +12026,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2641
+					"count": 2642
 				}
 			],
 			"ridiselect": false,
@@ -12952,7 +12952,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3094
+					"count": 3093
 				}
 			],
 			"ridiselect": false,
@@ -14283,7 +14283,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5698
+					"count": 5699
 				}
 			],
 			"ridiselect": false,
@@ -14649,7 +14649,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3070
+					"count": 3072
 				}
 			],
 			"ridiselect": false,
@@ -18662,7 +18662,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 296
+					"count": 297
 				},
 				{
 					"rating": 5,
