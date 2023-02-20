@@ -139,11 +139,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 49
+					"count": 51
 				},
 				{
 					"rating": 5,
-					"count": 1849
+					"count": 1897
 				}
 			],
 			"ridiselect": false,
@@ -1309,11 +1309,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 136
+					"count": 137
 				},
 				{
 					"rating": 5,
-					"count": 3019
+					"count": 3018
 				}
 			],
 			"ridiselect": false,
@@ -2417,16 +2417,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239015541/small#1",
-					"large": "https://img.ridicdn.net/cover/1239015541/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239015541/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239015542/small#1",
+					"large": "https://img.ridicdn.net/cover/1239015542/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239015542/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 81,
+				"total": 82,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2454,15 +2454,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7800,
-					"sale_price": 7800,
+					"full_price": 7900,
+					"sale_price": 7900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-20T00:02:28+09:00"
+				"last_opened_episode_date": "2023-02-21T00:14:02+09:00"
 			},
 			"categories": [
 				{
@@ -3085,11 +3085,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 275
+					"count": 277
 				},
 				{
 					"rating": 5,
-					"count": 2189
+					"count": 2204
 				}
 			],
 			"ridiselect": false,
@@ -6013,7 +6013,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5674
+					"count": 5675
 				}
 			],
 			"ridiselect": false,
@@ -8857,7 +8857,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2154
+					"count": 2156
 				}
 			],
 			"ridiselect": false,
@@ -12026,7 +12026,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2639
+					"count": 2641
 				}
 			],
 			"ridiselect": false,
@@ -13077,12 +13077,12 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 24,
+					"interval_hours": 3,
 					"rental_days": 3,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2022-12-20T00:00:00+09:00",
-					"closing_date": "2032-12-21T23:59:59+09:00"
+					"opening_date": "2023-02-20T23:55:00+09:00",
+					"closing_date": "2023-02-23T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -18662,7 +18662,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 295
+					"count": 296
 				},
 				{
 					"rating": 5,
