@@ -1164,7 +1164,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2218
+					"count": 2219
 				}
 			],
 			"ridiselect": false,
@@ -1347,7 +1347,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 46938
+					"count": 46939
 				}
 			],
 			"ridiselect": false,
@@ -2713,11 +2713,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 60
+					"count": 88
 				},
 				{
 					"rating": 5,
-					"count": 2103
+					"count": 2126
 				}
 			],
 			"ridiselect": false,
@@ -2892,7 +2892,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 14
+					"count": 15
 				},
 				{
 					"rating": 4,
@@ -2900,7 +2900,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2861
+					"count": 2860
 				}
 			],
 			"ridiselect": false,
@@ -3294,7 +3294,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2710
+					"count": 2709
 				}
 			],
 			"ridiselect": false,
@@ -3981,16 +3981,16 @@
 				"title": "삼류 무협지에서 살아남기",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011820/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011820/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011820/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011824/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011824/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011824/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 277,
+				"total": 278,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4018,15 +4018,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 27400,
-					"sale_price": 27400,
+					"full_price": 27500,
+					"sale_price": 27500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-20T17:05:09+09:00"
+				"last_opened_episode_date": "2023-02-21T17:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -13823,7 +13823,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2765
+					"count": 2764
 				}
 			],
 			"ridiselect": false,
@@ -14017,7 +14017,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2801
+					"count": 2802
 				}
 			],
 			"ridiselect": false,
