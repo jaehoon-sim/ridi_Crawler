@@ -1554,11 +1554,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 56
+					"count": 57
 				},
 				{
 					"rating": 5,
-					"count": 1796
+					"count": 1813
 				}
 			],
 			"ridiselect": false,
@@ -2729,7 +2729,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 1271
+					"count": 1272
 				},
 				{
 					"rating": 2,
@@ -2741,7 +2741,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 2768
+					"count": 2767
 				},
 				{
 					"rating": 5,
@@ -3254,16 +3254,16 @@
 				"title": "테라리움 어드벤처",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000689/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000689/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000689/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000690/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000690/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000690/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 686,
+				"total": 687,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3291,8 +3291,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 68300,
-					"sale_price": 68300,
+					"full_price": 68400,
+					"sale_price": 68400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -3310,7 +3310,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-02-21T16:00:10+09:00"
+				"last_opened_episode_date": "2023-02-22T16:00:12+09:00"
 			},
 			"categories": [
 				{
@@ -8022,16 +8022,16 @@
 				"title": "이러다가 토끼 백숙이 될지도 몰라",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049035139/small#1",
-					"large": "https://img.ridicdn.net/cover/3049035139/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049035139/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049035186/small#1",
+					"large": "https://img.ridicdn.net/cover/3049035186/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049035186/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1215,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 112,
+				"total": 113,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8059,15 +8059,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10900,
-					"sale_price": 10900,
+					"full_price": 11000,
+					"sale_price": 11000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-21T16:00:07+09:00"
+				"last_opened_episode_date": "2023-02-22T16:00:10+09:00"
 			},
 			"categories": [
 				{
@@ -9375,16 +9375,16 @@
 				"title": "시한부 흑막 안 구하고 떠납니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/945072702/small#1",
-					"large": "https://img.ridicdn.net/cover/945072702/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/945072702/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/945072703/small#1",
+					"large": "https://img.ridicdn.net/cover/945072703/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/945072703/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 432,
+				"total": 433,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9412,15 +9412,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 42900,
-					"sale_price": 42900,
+					"full_price": 43000,
+					"sale_price": 43000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-21T16:00:08+09:00"
+				"last_opened_episode_date": "2023-02-22T16:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -12797,11 +12797,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 584
+					"count": 583
 				},
 				{
 					"rating": 5,
-					"count": 2159
+					"count": 2160
 				}
 			],
 			"ridiselect": false,
@@ -15026,7 +15026,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4974
+					"count": 4975
 				}
 			],
 			"ridiselect": false,
