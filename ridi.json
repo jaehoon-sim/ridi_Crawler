@@ -526,7 +526,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1828
+					"count": 1853
 				}
 			],
 			"ridiselect": false,
@@ -2679,7 +2679,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47019
+					"count": 47020
 				}
 			],
 			"ridiselect": false,
@@ -3263,11 +3263,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 146
+					"count": 147
 				},
 				{
 					"rating": 5,
-					"count": 2249
+					"count": 2268
 				}
 			],
 			"ridiselect": false,
@@ -3673,17 +3673,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -3855,7 +3844,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2877
+					"count": 2876
 				}
 			],
 			"ridiselect": false,
@@ -7065,17 +7054,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -7612,7 +7590,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2851
+					"count": 2850
 				}
 			],
 			"ridiselect": false,
@@ -8378,17 +8356,6 @@
 			"link": "https://ridibooks.com/books/945060519"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -11123,16 +11090,16 @@
 				"title": "괴물 황자를 길들여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/297055967/small#1",
-					"large": "https://img.ridicdn.net/cover/297055967/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/297055967/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/297055968/small#1",
+					"large": "https://img.ridicdn.net/cover/297055968/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/297055968/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1527,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 146,
+				"total": 147,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11160,15 +11127,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 14300,
-					"sale_price": 14300,
+					"full_price": 14400,
+					"sale_price": 14400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-24T16:00:09+09:00"
+				"last_opened_episode_date": "2023-02-25T16:04:08+09:00"
 			},
 			"categories": [
 				{
@@ -13911,16 +13878,16 @@
 				"title": "야만이 그대를 속일지라도",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049035262/small#1",
-					"large": "https://img.ridicdn.net/cover/3049035262/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049035262/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049035263/small#1",
+					"large": "https://img.ridicdn.net/cover/3049035263/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049035263/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1754,
 					"width": 1239
 				},
 				"episode": 1,
-				"total": 121,
+				"total": 122,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -13948,15 +13915,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11800,
-					"sale_price": 11800,
+					"full_price": 11900,
+					"sale_price": 11900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-24T16:00:07+09:00"
+				"last_opened_episode_date": "2023-02-25T16:01:29+09:00"
 			},
 			"categories": [
 				{
@@ -14974,7 +14941,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2220
+					"count": 2219
 				}
 			],
 			"ridiselect": false,
