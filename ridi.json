@@ -522,11 +522,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 90
+					"count": 119
 				},
 				{
 					"rating": 5,
-					"count": 1890
+					"count": 1920
 				}
 			],
 			"ridiselect": false,
@@ -1536,17 +1536,6 @@
 			"link": "https://ridibooks.com/books/2719001428"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -3263,11 +3252,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 148
+					"count": 150
 				},
 				{
 					"rating": 5,
-					"count": 2297
+					"count": 2327
 				}
 			],
 			"ridiselect": false,
@@ -4039,17 +4028,6 @@
 			"link": "https://ridibooks.com/books/2093076052"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -6126,7 +6104,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3034
+					"count": 3029
 				}
 			],
 			"ridiselect": false,
@@ -7786,17 +7764,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -8162,17 +8129,6 @@
 			"link": "https://ridibooks.com/books/2719001800"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -10409,7 +10365,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 6429
+					"count": 6430
 				}
 			],
 			"ridiselect": false,
@@ -10604,17 +10560,6 @@
 			"link": "https://ridibooks.com/books/2719001964"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -10981,17 +10926,6 @@
 			"link": "https://ridibooks.com/books/3049031725"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -11929,17 +11863,6 @@
 			"link": "https://ridibooks.com/books/2213010819"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -15212,16 +15135,16 @@
 				"title": "랭커들의 원픽이 되었다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049035289/small#1",
-					"large": "https://img.ridicdn.net/cover/3049035289/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049035289/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049035290/small#1",
+					"large": "https://img.ridicdn.net/cover/3049035290/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049035290/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1404,
 					"width": 992
 				},
 				"episode": 1,
-				"total": 199,
+				"total": 200,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -15249,15 +15172,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 19600,
-					"sale_price": 19600,
+					"full_price": 19700,
+					"sale_price": 19700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-24T18:00:14+09:00"
+				"last_opened_episode_date": "2023-02-25T18:01:27+09:00"
 			},
 			"categories": [
 				{
@@ -17183,17 +17106,6 @@
 			"link": "https://ridibooks.com/books/2213009940"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
