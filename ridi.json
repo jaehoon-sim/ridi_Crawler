@@ -274,12 +274,12 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-02-23T23:55:55+09:00",
-					"closing_date": "2023-02-26T23:59:59+09:00"
+					"opening_date": "2023-02-23T00:00:00+09:00",
+					"closing_date": "2033-02-24T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -335,15 +335,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 20
+					"count": 21
 				},
 				{
 					"rating": 4,
-					"count": 221
+					"count": 241
 				},
 				{
 					"rating": 5,
-					"count": 3576
+					"count": 3970
 				}
 			],
 			"ridiselect": false,
@@ -1523,7 +1523,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 1064
+					"count": 1063
 				},
 				{
 					"rating": 4,
@@ -1531,7 +1531,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47059
+					"count": 47063
 				}
 			],
 			"ridiselect": false,
@@ -1897,7 +1897,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3024
+					"count": 3025
 				}
 			],
 			"ridiselect": false,
@@ -2373,16 +2373,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239015553/small#1",
-					"large": "https://img.ridicdn.net/cover/1239015553/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239015553/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239015554/small#1",
+					"large": "https://img.ridicdn.net/cover/1239015554/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239015554/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 85,
+				"total": 86,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2410,15 +2410,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8200,
-					"sale_price": 8200,
+					"full_price": 8300,
+					"sale_price": 8300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-24T00:01:59+09:00"
+				"last_opened_episode_date": "2023-02-27T00:01:11+09:00"
 			},
 			"categories": [
 				{
@@ -2469,6 +2469,17 @@
 			"link": "https://ridibooks.com/books/1239015403"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -3782,7 +3793,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2860
+					"count": 2859
 				}
 			],
 			"ridiselect": false,
@@ -4542,7 +4553,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2208
+					"count": 2209
 				}
 			],
 			"ridiselect": false,
@@ -7703,7 +7714,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2854
+					"count": 2853
 				}
 			],
 			"ridiselect": false,
@@ -10720,7 +10731,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2754
+					"count": 2753
 				}
 			],
 			"ridiselect": false,
@@ -12220,7 +12231,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2064
+					"count": 2065
 				}
 			],
 			"ridiselect": false,
