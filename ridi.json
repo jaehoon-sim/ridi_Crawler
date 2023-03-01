@@ -641,16 +641,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120063327/small#1",
-					"large": "https://img.ridicdn.net/cover/120063327/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120063327/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120063328/small#1",
+					"large": "https://img.ridicdn.net/cover/120063328/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120063328/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 143,
+				"total": 144,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -678,15 +678,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 14000,
-					"sale_price": 14000,
+					"full_price": 14100,
+					"sale_price": 14100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-28T19:00:08+09:00"
+				"last_opened_episode_date": "2023-03-01T19:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -1490,7 +1490,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3048
+					"count": 3049
 				}
 			],
 			"ridiselect": false,
@@ -2376,16 +2376,16 @@
 				"title": "나의 상냥한 빌런에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369005952/small#1",
-					"large": "https://img.ridicdn.net/cover/2369005952/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369005952/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369005955/small#1",
+					"large": "https://img.ridicdn.net/cover/2369005955/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369005955/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 134,
+				"total": 135,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2413,15 +2413,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13000,
-					"sale_price": 13000,
+					"full_price": 13100,
+					"sale_price": 13100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-28T19:00:28+09:00"
+				"last_opened_episode_date": "2023-03-01T19:00:05+09:00"
 			},
 			"categories": [
 				{
@@ -2844,11 +2844,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 208
+					"count": 210
 				},
 				{
 					"rating": 5,
-					"count": 2265
+					"count": 2302
 				}
 			],
 			"ridiselect": false,
@@ -6515,7 +6515,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2931
+					"count": 2932
 				}
 			],
 			"ridiselect": false,
@@ -6709,7 +6709,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3001
+					"count": 2999
 				}
 			],
 			"ridiselect": false,
@@ -6903,7 +6903,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2936
+					"count": 2935
 				}
 			],
 			"ridiselect": false,
@@ -8532,16 +8532,16 @@
 				"title": "너드남의 흑화를 막아 보겠습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3822005732/small#1",
-					"large": "https://img.ridicdn.net/cover/3822005732/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3822005732/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3822005734/small#1",
+					"large": "https://img.ridicdn.net/cover/3822005734/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3822005734/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 137,
+				"total": 138,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8569,15 +8569,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13400,
-					"sale_price": 13400,
+					"full_price": 13500,
+					"sale_price": 13500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-28T19:01:26+09:00"
+				"last_opened_episode_date": "2023-03-01T19:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -9938,7 +9938,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2509
+					"count": 2508
 				}
 			],
 			"ridiselect": false,
@@ -13086,7 +13086,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3445
+					"count": 3444
 				}
 			],
 			"ridiselect": false,
@@ -15165,7 +15165,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3089
+					"count": 3088
 				}
 			],
 			"ridiselect": false,
@@ -18755,16 +18755,16 @@
 				"title": "나의 상냥한 빌런에게 (15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369005951/small#1",
-					"large": "https://img.ridicdn.net/cover/2369005951/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369005951/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369005956/small#1",
+					"large": "https://img.ridicdn.net/cover/2369005956/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369005956/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 134,
+				"total": 135,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -18792,15 +18792,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13000,
-					"sale_price": 13000,
+					"full_price": 13100,
+					"sale_price": 13100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-02-28T19:00:32+09:00"
+				"last_opened_episode_date": "2023-03-01T19:00:05+09:00"
 			},
 			"categories": [
 				{
