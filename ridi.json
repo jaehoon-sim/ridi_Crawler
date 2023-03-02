@@ -143,7 +143,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 6751
+					"count": 6752
 				}
 			],
 			"ridiselect": false,
@@ -531,7 +531,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2719
+					"count": 2721
 				}
 			],
 			"ridiselect": false,
@@ -721,11 +721,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 384
+					"count": 388
 				},
 				{
 					"rating": 5,
-					"count": 3078
+					"count": 3115
 				}
 			],
 			"ridiselect": false,
@@ -1105,7 +1105,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 35
+					"count": 34
 				},
 				{
 					"rating": 4,
@@ -1113,7 +1113,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3107
+					"count": 3106
 				}
 			],
 			"ridiselect": false,
@@ -1611,16 +1611,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239015557/small#1",
-					"large": "https://img.ridicdn.net/cover/1239015557/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239015557/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239015561/small#1",
+					"large": "https://img.ridicdn.net/cover/1239015561/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239015561/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 89,
+				"total": 90,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1648,15 +1648,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8600,
-					"sale_price": 8600,
+					"full_price": 8700,
+					"sale_price": 8700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-02T00:02:23+09:00"
+				"last_opened_episode_date": "2023-03-03T00:01:03+09:00"
 			},
 			"categories": [
 				{
@@ -2764,16 +2764,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211041531/small#1",
-					"large": "https://img.ridicdn.net/cover/211041531/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211041531/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211041532/small#1",
+					"large": "https://img.ridicdn.net/cover/211041532/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211041532/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 486,
+				"total": 487,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2801,15 +2801,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 48000,
-					"sale_price": 48000,
+					"full_price": 48100,
+					"sale_price": 48100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-02T00:02:13+09:00"
+				"last_opened_episode_date": "2023-03-03T00:00:57+09:00"
 			},
 			"categories": [
 				{
@@ -6903,7 +6903,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2934
+					"count": 2933
 				}
 			],
 			"ridiselect": false,
@@ -8781,7 +8781,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3909
+					"count": 3908
 				}
 			],
 			"ridiselect": false,
@@ -9349,7 +9349,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2771
+					"count": 2770
 				}
 			],
 			"ridiselect": false,
@@ -9656,14 +9656,7 @@
 				"publishing_schedule": {
 					"periodical": false
 				},
-				"wait_for_free": {
-					"interval_hours": 12,
-					"rental_days": 3,
-					"last_restricted_episodes": 10,
-					"next_available_date": null,
-					"opening_date": "2023-02-23T23:55:55+09:00",
-					"closing_date": "2023-03-02T23:59:59+09:00"
-				},
+				"wait_for_free": null,
 				"scheduled_free": {
 					"active": false,
 					"remain_episodes_count": 0
@@ -9738,17 +9731,6 @@
 			"link": "https://ridibooks.com/books/2334000042"
 		},
 		"badges": [
-			{
-				"badge_type": "WaitFree",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
-				],
-				"badge_text": "리다무",
-				"badge_background": {
-					"light": "#1E9EFF",
-					"dark": "#1496E6"
-				}
-			},
 			{
 				"badge_type": "PartialFree",
 				"badge_urls": [
@@ -16275,7 +16257,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3294
+					"count": 3295
 				}
 			],
 			"ridiselect": false,
