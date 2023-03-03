@@ -531,7 +531,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2723
+					"count": 2724
 				}
 			],
 			"ridiselect": false,
@@ -1303,11 +1303,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 395
+					"count": 396
 				},
 				{
 					"rating": 5,
-					"count": 3246
+					"count": 3264
 				}
 			],
 			"ridiselect": false,
@@ -1501,7 +1501,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3053
+					"count": 3054
 				}
 			],
 			"ridiselect": false,
@@ -3728,16 +3728,16 @@
 				"title": "테라리움 어드벤처",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000695/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000695/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000695/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000697/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000697/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000697/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 692,
+				"total": 693,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3765,8 +3765,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 68900,
-					"sale_price": 68900,
+					"full_price": 69000,
+					"sale_price": 69000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -3784,7 +3784,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-03-02T16:00:11+09:00"
+				"last_opened_episode_date": "2023-03-03T16:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -7972,16 +7972,16 @@
 				"title": "시한부 흑막 안 구하고 떠납니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/945072759/small#1",
-					"large": "https://img.ridicdn.net/cover/945072759/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/945072759/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/945072760/small#1",
+					"large": "https://img.ridicdn.net/cover/945072760/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/945072760/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 439,
+				"total": 440,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8009,15 +8009,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 43600,
-					"sale_price": 43600,
+					"full_price": 43700,
+					"sale_price": 43700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-02T16:00:09+09:00"
+				"last_opened_episode_date": "2023-03-03T16:00:10+09:00"
 			},
 			"categories": [
 				{
@@ -10652,16 +10652,16 @@
 				"title": "괴물 황자를 길들여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/297056110/small#1",
-					"large": "https://img.ridicdn.net/cover/297056110/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/297056110/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/297056137/small#1",
+					"large": "https://img.ridicdn.net/cover/297056137/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/297056137/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1527,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 149,
+				"total": 150,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10689,15 +10689,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 14600,
-					"sale_price": 14600,
+					"full_price": 14700,
+					"sale_price": 14700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-02T16:00:07+09:00"
+				"last_opened_episode_date": "2023-03-03T16:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -12450,7 +12450,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2120
+					"count": 2121
 				}
 			],
 			"ridiselect": false,
@@ -18263,16 +18263,16 @@
 				"title": "야만이 그대를 속일지라도",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049035334/small#1",
-					"large": "https://img.ridicdn.net/cover/3049035334/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049035334/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049035335/small#1",
+					"large": "https://img.ridicdn.net/cover/3049035335/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049035335/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1754,
 					"width": 1239
 				},
 				"episode": 1,
-				"total": 124,
+				"total": 125,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -18300,15 +18300,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12100,
-					"sale_price": 12100,
+					"full_price": 12200,
+					"sale_price": 12200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-02T16:00:07+09:00"
+				"last_opened_episode_date": "2023-03-03T16:00:08+09:00"
 			},
 			"categories": [
 				{
