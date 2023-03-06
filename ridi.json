@@ -253,16 +253,16 @@
 				"title": "쓰레기를 치웠더니 흑막이 꼬여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1962109699/small#1",
-					"large": "https://img.ridicdn.net/cover/1962109699/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1962109699/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1962109700/small#1",
+					"large": "https://img.ridicdn.net/cover/1962109700/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1962109700/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1044,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 86,
+				"total": 87,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -290,15 +290,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8300,
-					"sale_price": 8300,
+					"full_price": 8400,
+					"sale_price": 8400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-06T07:00:14+09:00"
+				"last_opened_episode_date": "2023-03-07T02:12:49+09:00"
 			},
 			"categories": [
 				{
@@ -337,7 +337,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2019
+					"count": 2029
 				}
 			],
 			"ridiselect": false,
@@ -2023,7 +2023,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 4
+					"count": 5
 				},
 				{
 					"rating": 2,
@@ -2035,11 +2035,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 414
+					"count": 413
 				},
 				{
 					"rating": 5,
-					"count": 3787
+					"count": 3788
 				}
 			],
 			"ridiselect": false,
