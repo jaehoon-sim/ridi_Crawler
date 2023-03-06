@@ -706,7 +706,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 155
+					"count": 156
 				},
 				{
 					"rating": 4,
@@ -714,7 +714,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 6772
+					"count": 6773
 				}
 			],
 			"ridiselect": false,
@@ -1353,16 +1353,16 @@
 			"registration_date": "2022-12-23T06:58:00+09:00",
 			"publication_date": "2022-12-23T00:00:00+09:00",
 			"file": {
-				"size": 469,
+				"size": 708,
 				"format": "epub",
 				"page_count": null,
-				"character_count": 3234,
+				"character_count": 3241,
 				"comic": false,
 				"webtoon": false,
 				"variants": [
 					{
 						"quality": "recommended",
-						"size": 469
+						"size": 708
 					}
 				]
 			},
@@ -2405,7 +2405,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2963
+					"count": 2964
 				}
 			],
 			"ridiselect": false,
@@ -5232,11 +5232,11 @@
 				},
 				{
 					"rating": 2,
-					"count": 44
+					"count": 43
 				},
 				{
 					"rating": 3,
-					"count": 161
+					"count": 162
 				},
 				{
 					"rating": 4,
