@@ -2083,7 +2083,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3210
+					"count": 3211
 				}
 			],
 			"ridiselect": false,
@@ -3507,16 +3507,16 @@
 				"title": "삼류 무협지에서 살아남기",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011896/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011896/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011896/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011907/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011907/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011907/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 283,
+				"total": 284,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3544,15 +3544,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 28000,
-					"sale_price": 28000,
+					"full_price": 28100,
+					"sale_price": 28100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-06T17:00:09+09:00"
+				"last_opened_episode_date": "2023-03-07T16:40:09+09:00"
 			},
 			"categories": [
 				{
@@ -6837,7 +6837,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2747
+					"count": 2746
 				}
 			],
 			"ridiselect": false,
@@ -7807,7 +7807,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3901
+					"count": 3900
 				}
 			],
 			"ridiselect": false,
@@ -18756,7 +18756,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2122
+					"count": 2121
 				}
 			],
 			"ridiselect": false,
