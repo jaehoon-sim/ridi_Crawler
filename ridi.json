@@ -139,11 +139,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 822
+					"count": 821
 				},
 				{
 					"rating": 5,
-					"count": 6781
+					"count": 6783
 				}
 			],
 			"ridiselect": false,
@@ -1303,7 +1303,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 300
+					"count": 301
 				},
 				{
 					"rating": 5,
@@ -1676,15 +1676,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 7
+					"count": 8
 				},
 				{
 					"rating": 4,
-					"count": 115
+					"count": 116
 				},
 				{
 					"rating": 5,
-					"count": 1692
+					"count": 1715
 				}
 			],
 			"ridiselect": false,
@@ -1867,7 +1867,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2957
+					"count": 2958
 				}
 			],
 			"ridiselect": false,
@@ -2365,16 +2365,16 @@
 				"title": "집착당하면 파멸합니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011871/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011871/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011871/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011872/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011872/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011872/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 224,
+				"total": 225,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2402,15 +2402,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 22100,
-					"sale_price": 22100,
+					"full_price": 22200,
+					"sale_price": 22200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-07T11:00:08+09:00"
+				"last_opened_episode_date": "2023-03-08T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -3225,7 +3225,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47255
+					"count": 47257
 				}
 			],
 			"ridiselect": false,
@@ -3619,7 +3619,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2977
+					"count": 2978
 				}
 			],
 			"ridiselect": false,
@@ -4890,16 +4890,16 @@
 				"title": "라스트 아틀란티스",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213012577/small#1",
-					"large": "https://img.ridicdn.net/cover/2213012577/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213012577/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213012585/small#1",
+					"large": "https://img.ridicdn.net/cover/2213012585/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213012585/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1528,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 88,
+				"total": 89,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4927,15 +4927,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8500,
-					"sale_price": 8500,
+					"full_price": 8600,
+					"sale_price": 8600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-07T11:00:08+09:00"
+				"last_opened_episode_date": "2023-03-08T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -5084,16 +5084,16 @@
 				"title": "킬 디스 메리지(Kill this Marriage)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011839/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011839/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011839/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011840/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011840/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011840/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 182,
+				"total": 183,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5121,15 +5121,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 17900,
-					"sale_price": 17900,
+					"full_price": 18000,
+					"sale_price": 18000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-05T11:00:07+09:00"
+				"last_opened_episode_date": "2023-03-08T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -5164,7 +5164,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 367
+					"count": 366
 				},
 				{
 					"rating": 5,
@@ -5180,6 +5180,17 @@
 			"link": "https://ridibooks.com/books/2259009849"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -5461,16 +5472,16 @@
 				"title": "물 만난 드래곤의 집착이 곤란하다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011897/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011897/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011897/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011920/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011920/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011920/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 106,
+				"total": 107,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5498,15 +5509,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10300,
-					"sale_price": 10300,
+					"full_price": 10400,
+					"sale_price": 10400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-07T11:00:07+09:00"
+				"last_opened_episode_date": "2023-03-08T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -15946,16 +15957,16 @@
 				"title": "검은 요정이 당신을 부를 때",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011892/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011892/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011892/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011898/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011898/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011898/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 66,
+				"total": 67,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -15983,15 +15994,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6300,
-					"sale_price": 6300,
+					"full_price": 6400,
+					"sale_price": 6400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-05T11:00:07+09:00"
+				"last_opened_episode_date": "2023-03-08T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -16042,6 +16053,17 @@
 			"link": "https://ridibooks.com/books/2259011723"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -18248,7 +18270,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 239
+					"count": 240
 				},
 				{
 					"rating": 5,
