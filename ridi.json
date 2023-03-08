@@ -721,11 +721,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 415
+					"count": 414
 				},
 				{
 					"rating": 5,
-					"count": 3804
+					"count": 3779
 				}
 			],
 			"ridiselect": false,
@@ -1029,16 +1029,16 @@
 				"title": "개 같은 나의 대공",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2719002246/small#1",
-					"large": "https://img.ridicdn.net/cover/2719002246/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2719002246/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2719002247/small#1",
+					"large": "https://img.ridicdn.net/cover/2719002247/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2719002247/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 142,
+				"total": 143,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1066,15 +1066,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13900,
-					"sale_price": 13900,
+					"full_price": 14000,
+					"sale_price": 14000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-07T18:00:05+09:00"
+				"last_opened_episode_date": "2023-03-08T18:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -1307,7 +1307,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2323
+					"count": 2324
 				}
 			],
 			"ridiselect": false,
@@ -1600,16 +1600,16 @@
 				"title": "그녀가 없는 세계에 남겨진 것들",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2093078347/small#1",
-					"large": "https://img.ridicdn.net/cover/2093078347/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2093078347/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2093078354/small#1",
+					"large": "https://img.ridicdn.net/cover/2093078354/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2093078354/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1109,
 					"width": 754
 				},
 				"episode": 1,
-				"total": 60,
+				"total": 61,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1637,15 +1637,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 5700,
-					"sale_price": 5700,
+					"full_price": 5800,
+					"sale_price": 5800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-07T06:59:16+09:00"
+				"last_opened_episode_date": "2023-03-08T18:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -1680,11 +1680,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 127
+					"count": 147
 				},
 				{
 					"rating": 5,
-					"count": 1804
+					"count": 1849
 				}
 			],
 			"ridiselect": false,
@@ -1696,6 +1696,17 @@
 			"link": "https://ridibooks.com/books/2093078288"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -8693,16 +8704,16 @@
 				"title": "공작님을 가로챘습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2719002255/small#1",
-					"large": "https://img.ridicdn.net/cover/2719002255/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2719002255/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2719002256/small#1",
+					"large": "https://img.ridicdn.net/cover/2719002256/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2719002256/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 132,
+				"total": 133,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8730,15 +8741,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12900,
-					"sale_price": 12900,
+					"full_price": 13000,
+					"sale_price": 13000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-07T18:00:05+09:00"
+				"last_opened_episode_date": "2023-03-08T18:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -9908,7 +9919,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3437
+					"count": 3436
 				}
 			],
 			"ridiselect": false,
@@ -10384,16 +10395,16 @@
 				"title": "그녀가 죽어야 하는 다섯 가지 이유",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3885014015/small#1",
-					"large": "https://img.ridicdn.net/cover/3885014015/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3885014015/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3885014016/small#1",
+					"large": "https://img.ridicdn.net/cover/3885014016/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3885014016/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 67,
+				"total": 68,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10421,15 +10432,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6400,
-					"sale_price": 6400,
+					"full_price": 6500,
+					"sale_price": 6500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-06T18:00:06+09:00"
+				"last_opened_episode_date": "2023-03-08T18:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -10480,6 +10491,17 @@
 			"link": "https://ridibooks.com/books/3885013668"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -11254,17 +11276,6 @@
 			"link": "https://ridibooks.com/books/3049031725"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -12181,17 +12192,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -12827,16 +12827,16 @@
 				"title": "도망칠 수 없는",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2719002260/small#1",
-					"large": "https://img.ridicdn.net/cover/2719002260/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2719002260/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2719002261/small#1",
+					"large": "https://img.ridicdn.net/cover/2719002261/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2719002261/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 102,
+				"total": 103,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -12864,15 +12864,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9900,
-					"sale_price": 9900,
+					"full_price": 10000,
+					"sale_price": 10000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-07T18:00:06+09:00"
+				"last_opened_episode_date": "2023-03-08T18:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -12911,7 +12911,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2503
+					"count": 2502
 				}
 			],
 			"ridiselect": false,
