@@ -143,7 +143,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 6783
+					"count": 6782
 				}
 			],
 			"ridiselect": false,
@@ -646,16 +646,16 @@
 				"title": "나를 사랑하지 않은 죄",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011926/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011926/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011926/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011932/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011932/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011932/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 106,
+				"total": 107,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -683,8 +683,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10300,
-					"sale_price": 10300,
+					"full_price": 10400,
+					"sale_price": 10400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -702,7 +702,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-03-08T19:10:07+09:00"
+				"last_opened_episode_date": "2023-03-09T19:10:09+09:00"
 			},
 			"categories": [
 				{
@@ -1245,16 +1245,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120063534/small#1",
-					"large": "https://img.ridicdn.net/cover/120063534/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120063534/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120063551/small#1",
+					"large": "https://img.ridicdn.net/cover/120063551/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120063551/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 149,
+				"total": 150,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1282,8 +1282,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 14600,
-					"sale_price": 14600,
+					"full_price": 14700,
+					"sale_price": 14700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -1301,7 +1301,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-03-08T19:00:07+09:00"
+				"last_opened_episode_date": "2023-03-09T19:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -1535,7 +1535,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1344
+					"count": 1364
 				}
 			],
 			"ridiselect": false,
@@ -3231,16 +3231,16 @@
 				"title": "나의 상냥한 빌런에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369005971/small#1",
-					"large": "https://img.ridicdn.net/cover/2369005971/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369005971/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369005972/small#1",
+					"large": "https://img.ridicdn.net/cover/2369005972/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369005972/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 140,
+				"total": 141,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3268,15 +3268,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13600,
-					"sale_price": 13600,
+					"full_price": 13700,
+					"sale_price": 13700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-08T19:00:23+09:00"
+				"last_opened_episode_date": "2023-03-09T19:01:00+09:00"
 			},
 			"categories": [
 				{
@@ -4097,7 +4097,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2336
+					"count": 2338
 				}
 			],
 			"ridiselect": false,
@@ -4276,11 +4276,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 170
+					"count": 171
 				},
 				{
 					"rating": 5,
-					"count": 2316
+					"count": 2341
 				}
 			],
 			"ridiselect": false,
@@ -5560,16 +5560,16 @@
 				"title": "나를 사랑하지 않은 죄(15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011927/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011927/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011927/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011933/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011933/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011933/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 106,
+				"total": 107,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5597,15 +5597,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10300,
-					"sale_price": 10300,
+					"full_price": 10400,
+					"sale_price": 10400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-08T19:10:07+09:00"
+				"last_opened_episode_date": "2023-03-09T19:10:08+09:00"
 			},
 			"categories": [
 				{
@@ -9491,7 +9491,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2671
+					"count": 2672
 				}
 			],
 			"ridiselect": false,
@@ -12428,16 +12428,16 @@
 				"title": "너드남의 흑화를 막아 보겠습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3822005744/small#1",
-					"large": "https://img.ridicdn.net/cover/3822005744/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3822005744/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3822005745/small#1",
+					"large": "https://img.ridicdn.net/cover/3822005745/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3822005745/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 142,
+				"total": 143,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -12465,15 +12465,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13900,
-					"sale_price": 13900,
+					"full_price": 14000,
+					"sale_price": 14000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-08T19:22:59+09:00"
+				"last_opened_episode_date": "2023-03-09T19:02:51+09:00"
 			},
 			"categories": [
 				{
