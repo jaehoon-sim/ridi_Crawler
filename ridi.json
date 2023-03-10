@@ -321,7 +321,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 10
+					"count": 11
 				},
 				{
 					"rating": 2,
@@ -2910,7 +2910,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1684
+					"count": 1703
 				}
 			],
 			"ridiselect": false,
@@ -4291,7 +4291,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2373
+					"count": 2374
 				}
 			],
 			"ridiselect": false,
@@ -4474,7 +4474,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2953
+					"count": 2952
 				}
 			],
 			"ridiselect": false,
@@ -7148,9 +7148,9 @@
 				"title": "시한부 흑막 안 구하고 떠납니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/945073538/small#1",
-					"large": "https://img.ridicdn.net/cover/945073538/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/945073538/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/945060519/small#1",
+					"large": "https://img.ridicdn.net/cover/945060519/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/945060519/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
@@ -7158,7 +7158,7 @@
 				},
 				"episode": 1,
 				"total": 445,
-				"completion": false,
+				"completion": true,
 				"publishing_schedule": {
 					"periodical": true
 				},
@@ -7228,7 +7228,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 1836
+					"count": 1837
 				},
 				{
 					"rating": 5,
@@ -7426,7 +7426,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2849
+					"count": 2848
 				}
 			],
 			"ridiselect": false,
@@ -9444,16 +9444,16 @@
 				"title": "EX급이 이렇게 약해도 되나요?",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/961069522/small#1",
-					"large": "https://img.ridicdn.net/cover/961069522/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/961069522/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/961069532/small#1",
+					"large": "https://img.ridicdn.net/cover/961069532/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/961069532/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 123,
+				"total": 124,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9481,8 +9481,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12000,
-					"sale_price": 12000,
+					"full_price": 12100,
+					"sale_price": 12100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -9500,7 +9500,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-03-09T17:00:08+09:00"
+				"last_opened_episode_date": "2023-03-10T17:00:07+09:00"
 			},
 			"categories": [
 				{
