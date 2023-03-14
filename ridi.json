@@ -333,7 +333,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 421
+					"count": 422
 				},
 				{
 					"rating": 5,
@@ -725,7 +725,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2994
+					"count": 2993
 				}
 			],
 			"ridiselect": false,
@@ -1105,7 +1105,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 1
+					"count": 2
 				},
 				{
 					"rating": 4,
@@ -1113,7 +1113,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1769
+					"count": 1794
 				}
 			],
 			"ridiselect": false,
@@ -2848,7 +2848,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3117
+					"count": 3118
 				}
 			],
 			"ridiselect": false,
@@ -3408,7 +3408,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1621
+					"count": 1665
 				}
 			],
 			"ridiselect": false,
@@ -10274,7 +10274,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2741
+					"count": 2740
 				}
 			],
 			"ridiselect": false,
@@ -18540,16 +18540,16 @@
 				"title": "낯선 공작에게 내 불행을 팔았다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2107114275/small#1",
-					"large": "https://img.ridicdn.net/cover/2107114275/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2107114275/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2107115427/small#1",
+					"large": "https://img.ridicdn.net/cover/2107115427/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2107115427/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1150,
 					"width": 800
 				},
 				"episode": 1,
-				"total": 77,
+				"total": 78,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -18577,15 +18577,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7400,
-					"sale_price": 7400,
+					"full_price": 7500,
+					"sale_price": 7500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-09T15:41:14+09:00"
+				"last_opened_episode_date": "2023-03-14T17:05:39+09:00"
 			},
 			"categories": [
 				{
@@ -18636,6 +18636,17 @@
 			"link": "https://ridibooks.com/books/2107112748"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
