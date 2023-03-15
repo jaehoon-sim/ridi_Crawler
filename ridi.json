@@ -131,7 +131,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 25
+					"count": 24
 				},
 				{
 					"rating": 3,
@@ -139,7 +139,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 820
+					"count": 821
 				},
 				{
 					"rating": 5,
@@ -1029,16 +1029,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120063572/small#1",
-					"large": "https://img.ridicdn.net/cover/120063572/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120063572/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120063586/small#1",
+					"large": "https://img.ridicdn.net/cover/120063586/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120063586/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 154,
+				"total": 155,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1066,15 +1066,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 15100,
-					"sale_price": 15100,
+					"full_price": 15200,
+					"sale_price": 15200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-14T19:00:11+09:00"
+				"last_opened_episode_date": "2023-03-15T19:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -2775,16 +2775,16 @@
 				"title": "나의 상냥한 빌런에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369005978/small#1",
-					"large": "https://img.ridicdn.net/cover/2369005978/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369005978/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369005981/small#1",
+					"large": "https://img.ridicdn.net/cover/2369005981/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369005981/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 144,
+				"total": 145,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2812,15 +2812,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 14000,
-					"sale_price": 14000,
+					"full_price": 14100,
+					"sale_price": 14100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-14T19:00:07+09:00"
+				"last_opened_episode_date": "2023-03-15T19:01:16+09:00"
 			},
 			"categories": [
 				{
@@ -3049,11 +3049,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 165
+					"count": 166
 				},
 				{
 					"rating": 5,
-					"count": 2302
+					"count": 2332
 				}
 			],
 			"ridiselect": false,
@@ -4018,7 +4018,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2358
+					"count": 2341
 				}
 			],
 			"ridiselect": false,
@@ -7961,16 +7961,16 @@
 				"title": "너드남의 흑화를 막아 보겠습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3822005951/small#1",
-					"large": "https://img.ridicdn.net/cover/3822005951/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3822005951/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3822005954/small#1",
+					"large": "https://img.ridicdn.net/cover/3822005954/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3822005954/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 145,
+				"total": 146,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7998,15 +7998,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 14200,
-					"sale_price": 14200,
+					"full_price": 14300,
+					"sale_price": 14300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-14T19:00:07+09:00"
+				"last_opened_episode_date": "2023-03-15T19:00:07+09:00"
 			},
 			"categories": [
 				{
