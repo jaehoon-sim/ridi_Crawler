@@ -3053,7 +3053,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2253
+					"count": 2271
 				}
 			],
 			"ridiselect": false,
@@ -4578,7 +4578,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3402
+					"count": 3403
 				}
 			],
 			"ridiselect": false,
@@ -8726,16 +8726,16 @@
 				"title": "낯선 공작에게 내 불행을 팔았다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2107115427/small#1",
-					"large": "https://img.ridicdn.net/cover/2107115427/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2107115427/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2107115443/small#1",
+					"large": "https://img.ridicdn.net/cover/2107115443/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2107115443/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1150,
 					"width": 800
 				},
 				"episode": 1,
-				"total": 78,
+				"total": 79,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8763,15 +8763,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7500,
-					"sale_price": 7500,
+					"full_price": 7600,
+					"sale_price": 7600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-14T17:05:39+09:00"
+				"last_opened_episode_date": "2023-03-15T17:19:29+09:00"
 			},
 			"categories": [
 				{
@@ -9828,16 +9828,16 @@
 				"title": "EX급이 이렇게 약해도 되나요?",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/961069552/small#1",
-					"large": "https://img.ridicdn.net/cover/961069552/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/961069552/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/961069562/small#1",
+					"large": "https://img.ridicdn.net/cover/961069562/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/961069562/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 126,
+				"total": 127,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9865,15 +9865,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12300,
-					"sale_price": 12300,
+					"full_price": 12400,
+					"sale_price": 12400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-14T17:00:08+09:00"
+				"last_opened_episode_date": "2023-03-15T17:00:06+09:00"
 			},
 			"categories": [
 				{
