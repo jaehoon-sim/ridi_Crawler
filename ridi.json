@@ -447,16 +447,16 @@
 				"title": "나를 사랑하지 않은 죄",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011951/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011951/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011951/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011957/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011957/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011957/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 110,
+				"total": 111,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -484,15 +484,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10700,
-					"sale_price": 10700,
+					"full_price": 10800,
+					"sale_price": 10800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-14T19:20:06+09:00"
+				"last_opened_episode_date": "2023-03-15T18:35:07+09:00"
 			},
 			"categories": [
 				{
@@ -6431,16 +6431,16 @@
 				"title": "나를 사랑하지 않은 죄(15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011952/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011952/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011952/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011958/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011958/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011958/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 110,
+				"total": 111,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6468,15 +6468,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10700,
-					"sale_price": 10700,
+					"full_price": 10800,
+					"sale_price": 10800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-14T19:20:06+09:00"
+				"last_opened_episode_date": "2023-03-15T18:35:06+09:00"
 			},
 			"categories": [
 				{
