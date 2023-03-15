@@ -2859,7 +2859,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3212
+					"count": 3213
 				}
 			],
 			"ridiselect": false,
@@ -3049,11 +3049,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 163
+					"count": 165
 				},
 				{
 					"rating": 5,
-					"count": 2230
+					"count": 2253
 				}
 			],
 			"ridiselect": false,
@@ -3157,16 +3157,16 @@
 				"title": "테라리움 어드벤처",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000711/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000711/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000711/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000712/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000712/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000712/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 698,
+				"total": 699,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3194,8 +3194,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 69500,
-					"sale_price": 69500,
+					"full_price": 69600,
+					"sale_price": 69600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -3213,7 +3213,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-03-14T16:00:10+09:00"
+				"last_opened_episode_date": "2023-03-15T16:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -7013,16 +7013,16 @@
 				"title": "이러다가 토끼 백숙이 될지도 몰라",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049035855/small#1",
-					"large": "https://img.ridicdn.net/cover/3049035855/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049035855/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049035868/small#1",
+					"large": "https://img.ridicdn.net/cover/3049035868/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049035868/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1215,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 121,
+				"total": 122,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7050,15 +7050,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11800,
-					"sale_price": 11800,
+					"full_price": 11900,
+					"sale_price": 11900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-14T16:00:11+09:00"
+				"last_opened_episode_date": "2023-03-15T16:00:06+09:00"
 			},
 			"categories": [
 				{
