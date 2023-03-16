@@ -3176,16 +3176,16 @@
 				"title": "테라리움 어드벤처",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000712/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000712/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000712/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000713/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000713/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000713/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 699,
+				"total": 700,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3213,8 +3213,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 69600,
-					"sale_price": 69600,
+					"full_price": 69700,
+					"sale_price": 69700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -3232,7 +3232,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-03-15T16:00:07+09:00"
+				"last_opened_episode_date": "2023-03-16T16:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -8346,16 +8346,16 @@
 				"title": "이러다가 토끼 백숙이 될지도 몰라",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049035868/small#1",
-					"large": "https://img.ridicdn.net/cover/3049035868/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049035868/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049035872/small#1",
+					"large": "https://img.ridicdn.net/cover/3049035872/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049035872/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1215,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 122,
+				"total": 123,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8383,15 +8383,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11900,
-					"sale_price": 11900,
+					"full_price": 12000,
+					"sale_price": 12000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-15T16:00:06+09:00"
+				"last_opened_episode_date": "2023-03-16T16:00:06+09:00"
 			},
 			"categories": [
 				{
