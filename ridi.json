@@ -3512,16 +3512,16 @@
 				"title": "테라리움 어드벤처",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000713/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000713/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000713/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000714/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000714/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000714/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 700,
+				"total": 701,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3549,8 +3549,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 69700,
-					"sale_price": 69700,
+					"full_price": 69800,
+					"sale_price": 69800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -3568,7 +3568,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-03-16T16:00:07+09:00"
+				"last_opened_episode_date": "2023-03-17T16:00:10+09:00"
 			},
 			"categories": [
 				{
@@ -5537,7 +5537,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3050
+					"count": 3051
 				}
 			],
 			"ridiselect": false,
@@ -7390,16 +7390,16 @@
 				"title": "이러다가 토끼 백숙이 될지도 몰라",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049035872/small#1",
-					"large": "https://img.ridicdn.net/cover/3049035872/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049035872/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049036231/small#1",
+					"large": "https://img.ridicdn.net/cover/3049036231/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049036231/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1215,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 123,
+				"total": 124,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7427,15 +7427,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12000,
-					"sale_price": 12000,
+					"full_price": 12100,
+					"sale_price": 12100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-16T16:00:06+09:00"
+				"last_opened_episode_date": "2023-03-17T16:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -8360,16 +8360,16 @@
 				"title": "낯선 공작에게 내 불행을 팔았다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2107115791/small#1",
-					"large": "https://img.ridicdn.net/cover/2107115791/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2107115791/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2107115811/small#1",
+					"large": "https://img.ridicdn.net/cover/2107115811/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2107115811/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1150,
 					"width": 800
 				},
 				"episode": 1,
-				"total": 80,
+				"total": 81,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8397,15 +8397,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7700,
-					"sale_price": 7700,
+					"full_price": 7800,
+					"sale_price": 7800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-16T17:25:45+09:00"
+				"last_opened_episode_date": "2023-03-17T15:52:33+09:00"
 			},
 			"categories": [
 				{
@@ -11380,16 +11380,16 @@
 				"title": "괴물 황자를 길들여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/297056812/small#1",
-					"large": "https://img.ridicdn.net/cover/297056812/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/297056812/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/297056823/small#1",
+					"large": "https://img.ridicdn.net/cover/297056823/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/297056823/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1527,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 157,
+				"total": 158,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11417,15 +11417,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 15400,
-					"sale_price": 15400,
+					"full_price": 15500,
+					"sale_price": 15500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-16T16:00:12+09:00"
+				"last_opened_episode_date": "2023-03-17T16:00:08+09:00"
 			},
 			"categories": [
 				{
