@@ -135,15 +135,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 35
+					"count": 36
 				},
 				{
 					"rating": 4,
-					"count": 226
+					"count": 230
 				},
 				{
 					"rating": 5,
-					"count": 2822
+					"count": 2836
 				}
 			],
 			"ridiselect": false,
@@ -1080,7 +1080,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3012
+					"count": 3013
 				}
 			],
 			"ridiselect": false,
@@ -1259,11 +1259,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 2768
+					"count": 2769
 				},
 				{
 					"rating": 5,
-					"count": 47413
+					"count": 47415
 				}
 			],
 			"ridiselect": false,
@@ -1617,7 +1617,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 21
+					"count": 22
 				},
 				{
 					"rating": 3,
@@ -1625,11 +1625,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 525
+					"count": 524
 				},
 				{
 					"rating": 5,
-					"count": 3768
+					"count": 3769
 				}
 			],
 			"ridiselect": false,
@@ -2561,7 +2561,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2909
+					"count": 2908
 				}
 			],
 			"ridiselect": false,
@@ -3315,7 +3315,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3686
+					"count": 3685
 				}
 			],
 			"ridiselect": false,
@@ -7226,7 +7226,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3081
+					"count": 3082
 				}
 			],
 			"ridiselect": false,
@@ -8705,7 +8705,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 562
+					"count": 563
 				},
 				{
 					"rating": 5,
@@ -9807,7 +9807,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2829
+					"count": 2828
 				}
 			],
 			"ridiselect": false,
@@ -13164,7 +13164,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3236
+					"count": 3235
 				}
 			],
 			"ridiselect": false,
@@ -13640,16 +13640,16 @@
 				"title": "검은 요정이 당신을 부를 때",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011962/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011962/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011962/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011969/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011969/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011969/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 71,
+				"total": 72,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -13677,15 +13677,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6800,
-					"sale_price": 6800,
+					"full_price": 6900,
+					"sale_price": 6900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-17T11:00:08+09:00"
+				"last_opened_episode_date": "2023-03-19T11:00:10+09:00"
 			},
 			"categories": [
 				{
@@ -13736,6 +13736,17 @@
 			"link": "https://ridibooks.com/books/2259011723"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
