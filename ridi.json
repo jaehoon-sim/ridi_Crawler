@@ -139,11 +139,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 239
+					"count": 240
 				},
 				{
 					"rating": 5,
-					"count": 2925
+					"count": 2952
 				}
 			],
 			"ridiselect": false,
@@ -10649,16 +10649,16 @@
 				"title": "괴물 황자를 길들여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/297056824/small#1",
-					"large": "https://img.ridicdn.net/cover/297056824/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/297056824/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/297056863/small#1",
+					"large": "https://img.ridicdn.net/cover/297056863/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/297056863/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1527,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 159,
+				"total": 160,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10686,15 +10686,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 15600,
-					"sale_price": 15600,
+					"full_price": 15700,
+					"sale_price": 15700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-18T16:00:09+09:00"
+				"last_opened_episode_date": "2023-03-19T16:01:28+09:00"
 			},
 			"categories": [
 				{
@@ -18256,16 +18256,16 @@
 				"title": "야만이 그대를 속일지라도",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049036044/small#1",
-					"large": "https://img.ridicdn.net/cover/3049036044/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049036044/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049036046/small#1",
+					"large": "https://img.ridicdn.net/cover/3049036046/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049036046/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1754,
 					"width": 1239
 				},
 				"episode": 1,
-				"total": 134,
+				"total": 135,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -18293,15 +18293,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13100,
-					"sale_price": 13100,
+					"full_price": 13200,
+					"sale_price": 13200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-18T16:08:07+09:00"
+				"last_opened_episode_date": "2023-03-19T16:01:28+09:00"
 			},
 			"categories": [
 				{
