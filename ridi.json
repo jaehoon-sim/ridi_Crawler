@@ -335,11 +335,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 127
+					"count": 131
 				},
 				{
 					"rating": 5,
-					"count": 1988
+					"count": 2037
 				}
 			],
 			"ridiselect": false,
@@ -718,7 +718,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 6804
+					"count": 6803
 				}
 			],
 			"ridiselect": false,
@@ -1476,7 +1476,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3017
+					"count": 3018
 				}
 			],
 			"ridiselect": false,
@@ -2723,16 +2723,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239015613/small#1",
-					"large": "https://img.ridicdn.net/cover/1239015613/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239015613/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239015614/small#1",
+					"large": "https://img.ridicdn.net/cover/1239015614/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239015614/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 101,
+				"total": 102,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2761,15 +2761,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9800,
-					"sale_price": 9800,
+					"full_price": 9900,
+					"sale_price": 9900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-20T00:03:12+09:00"
+				"last_opened_episode_date": "2023-03-21T00:12:03+09:00"
 			},
 			"categories": [
 				{
@@ -4075,13 +4075,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 12,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-12T23:55:55+09:00",
-					"closing_date": "2023-03-20T23:59:59+09:00"
+					"opening_date": "2020-04-19T00:00:00+09:00",
+					"closing_date": "2038-12-31T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -6056,7 +6056,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 88
+					"count": 89
 				},
 				{
 					"rating": 5,
@@ -6539,16 +6539,16 @@
 				"title": "공작의 연인에게 죽음을",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2313022462/small#1",
-					"large": "https://img.ridicdn.net/cover/2313022462/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2313022462/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2313022463/small#1",
+					"large": "https://img.ridicdn.net/cover/2313022463/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2313022463/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1033,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 87,
+				"total": 88,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6577,15 +6577,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8400,
-					"sale_price": 8400,
+					"full_price": 8500,
+					"sale_price": 8500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-20T00:03:19+09:00"
+				"last_opened_episode_date": "2023-03-21T00:01:27+09:00"
 			},
 			"categories": [
 				{
@@ -8484,7 +8484,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 45
+					"count": 46
 				},
 				{
 					"rating": 2,
@@ -11035,16 +11035,16 @@
 				"title": "쓰레기를 치웠더니 흑막이 꼬여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1962109848/small#1",
-					"large": "https://img.ridicdn.net/cover/1962109848/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1962109848/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1962109849/small#1",
+					"large": "https://img.ridicdn.net/cover/1962109849/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1962109849/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1044,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 96,
+				"total": 97,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11073,15 +11073,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9300,
-					"sale_price": 9300,
+					"full_price": 9400,
+					"sale_price": 9400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-20T00:03:00+09:00"
+				"last_opened_episode_date": "2023-03-21T00:01:27+09:00"
 			},
 			"categories": [
 				{
