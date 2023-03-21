@@ -530,7 +530,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 162
+					"count": 163
 				},
 				{
 					"rating": 5,
@@ -920,11 +920,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 135
+					"count": 137
 				},
 				{
 					"rating": 5,
-					"count": 2129
+					"count": 2152
 				}
 			],
 			"ridiselect": false,
@@ -1034,16 +1034,16 @@
 				"title": "집착당하면 파멸합니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011945/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011945/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011945/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011946/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011946/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011946/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 233,
+				"total": 234,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1072,15 +1072,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 23000,
-					"sale_price": 23000,
+					"full_price": 23100,
+					"sale_price": 23100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-20T11:00:07+09:00"
+				"last_opened_episode_date": "2023-03-21T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -1692,7 +1692,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 7
+					"count": 8
 				},
 				{
 					"rating": 3,
@@ -2645,7 +2645,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 399
+					"count": 398
 				},
 				{
 					"rating": 3,
@@ -4165,7 +4165,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 45
+					"count": 44
 				},
 				{
 					"rating": 4,
@@ -5310,7 +5310,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2216
+					"count": 2217
 				}
 			],
 			"ridiselect": false,
@@ -5420,16 +5420,16 @@
 				"title": "라스트 아틀란티스",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213012653/small#1",
-					"large": "https://img.ridicdn.net/cover/2213012653/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213012653/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213012660/small#1",
+					"large": "https://img.ridicdn.net/cover/2213012660/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213012660/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1528,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 99,
+				"total": 100,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5458,15 +5458,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9600,
-					"sale_price": 9600,
+					"full_price": 9700,
+					"sale_price": 9700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-20T11:40:26+09:00"
+				"last_opened_episode_date": "2023-03-21T11:00:16+09:00"
 			},
 			"categories": [
 				{
@@ -5505,7 +5505,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2747
+					"count": 2746
 				}
 			],
 			"ridiselect": false,
@@ -6766,16 +6766,16 @@
 				"title": "쇼윈도 스캔들",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011970/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011970/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011970/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011972/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011972/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011972/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1094,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 95,
+				"total": 96,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6804,15 +6804,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9200,
-					"sale_price": 9200,
+					"full_price": 9300,
+					"sale_price": 9300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-20T11:00:07+09:00"
+				"last_opened_episode_date": "2023-03-21T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -6961,16 +6961,16 @@
 				"title": "물 만난 드래곤의 집착이 곤란하다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011971/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011971/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011971/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011974/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011974/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011974/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 115,
+				"total": 116,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6999,15 +6999,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11200,
-					"sale_price": 11200,
+					"full_price": 11300,
+					"sale_price": 11300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-20T11:00:08+09:00"
+				"last_opened_episode_date": "2023-03-21T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -7425,7 +7425,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1167
+					"count": 1168
 				}
 			],
 			"ridiselect": false,
