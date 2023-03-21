@@ -464,13 +464,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-13T23:55:55+09:00",
-					"closing_date": "2023-03-21T23:59:59+09:00"
+					"opening_date": "2023-01-31T00:00:00+09:00",
+					"closing_date": "2033-02-01T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -534,7 +534,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3021
+					"count": 3022
 				}
 			],
 			"ridiselect": false,
@@ -854,13 +854,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-18T23:55:55+09:00",
-					"closing_date": "2023-03-21T23:59:59+09:00"
+					"opening_date": "2023-03-16T00:00:00+09:00",
+					"closing_date": "2033-03-19T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -920,11 +920,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 169
+					"count": 178
 				},
 				{
 					"rating": 5,
-					"count": 2748
+					"count": 3067
 				}
 			],
 			"ridiselect": false,
@@ -1424,16 +1424,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239015614/small#1",
-					"large": "https://img.ridicdn.net/cover/1239015614/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239015614/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239015615/small#1",
+					"large": "https://img.ridicdn.net/cover/1239015615/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239015615/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 102,
+				"total": 103,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1462,15 +1462,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9900,
-					"sale_price": 9900,
+					"full_price": 10000,
+					"sale_price": 10000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-21T00:12:03+09:00"
+				"last_opened_episode_date": "2023-03-22T00:03:00+09:00"
 			},
 			"categories": [
 				{
@@ -2013,13 +2013,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-13T23:55:55+09:00",
-					"closing_date": "2023-03-21T23:59:59+09:00"
+					"opening_date": "2022-06-30T00:00:00+09:00",
+					"closing_date": "2032-07-01T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -4482,13 +4482,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-18T23:55:55+09:00",
-					"closing_date": "2023-03-21T23:59:59+09:00"
+					"opening_date": "2023-03-16T00:00:00+09:00",
+					"closing_date": "2033-03-19T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -5041,28 +5041,28 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211041542/small#1",
-					"large": "https://img.ridicdn.net/cover/211041542/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211041542/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211041543/small#1",
+					"large": "https://img.ridicdn.net/cover/211041543/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211041543/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 497,
+				"total": 498,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-13T23:55:55+09:00",
-					"closing_date": "2023-03-21T23:59:59+09:00"
+					"opening_date": "2021-10-29T00:00:00+09:00",
+					"closing_date": "2031-11-01T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -5079,15 +5079,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 49100,
-					"sale_price": 49100,
+					"full_price": 49200,
+					"sale_price": 49200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-18T00:00:34+09:00"
+				"last_opened_episode_date": "2023-03-22T00:03:00+09:00"
 			},
 			"categories": [
 				{
@@ -5138,6 +5138,17 @@
 			"link": "https://ridibooks.com/books/211033146"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -5435,13 +5446,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-13T23:55:55+09:00",
-					"closing_date": "2023-03-21T23:59:59+09:00"
+					"opening_date": "2023-01-20T00:00:00+09:00",
+					"closing_date": "2033-01-23T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -8872,13 +8883,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-13T23:55:55+09:00",
-					"closing_date": "2023-03-21T23:59:59+09:00"
+					"opening_date": "2022-12-28T00:00:00+09:00",
+					"closing_date": "2032-12-29T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -9454,13 +9465,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-13T23:55:55+09:00",
-					"closing_date": "2023-03-21T23:59:59+09:00"
+					"opening_date": "2022-11-24T00:00:00+09:00",
+					"closing_date": "2032-11-25T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -11221,7 +11232,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2676
+					"count": 2677
 				}
 			],
 			"ridiselect": false,
@@ -12656,13 +12667,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-13T23:55:55+09:00",
-					"closing_date": "2023-03-21T23:59:59+09:00"
+					"opening_date": "2023-02-02T00:00:00+09:00",
+					"closing_date": "2033-02-03T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -15411,13 +15422,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-13T23:55:55+09:00",
-					"closing_date": "2023-03-21T23:59:59+09:00"
+					"opening_date": "2023-02-06T00:00:00+09:00",
+					"closing_date": "2033-02-07T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
