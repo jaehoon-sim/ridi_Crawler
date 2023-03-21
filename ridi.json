@@ -808,16 +808,16 @@
 			"registration_date": "2023-03-19T06:58:00+09:00",
 			"publication_date": "2023-03-19T00:00:00+09:00",
 			"file": {
-				"size": 5031,
+				"size": 5030,
 				"format": "epub",
 				"page_count": null,
-				"character_count": 3717,
+				"character_count": 3699,
 				"comic": false,
 				"webtoon": false,
 				"variants": [
 					{
 						"quality": "recommended",
-						"size": 5031
+						"size": 5030
 					}
 				]
 			},
@@ -2657,7 +2657,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47457
+					"count": 47458
 				}
 			],
 			"ridiselect": false,
@@ -4425,16 +4425,16 @@
 			"registration_date": "2023-03-19T06:58:00+09:00",
 			"publication_date": "2023-03-19T00:00:00+09:00",
 			"file": {
-				"size": 5040,
+				"size": 5039,
 				"format": "epub",
 				"page_count": null,
-				"character_count": 3717,
+				"character_count": 3699,
 				"comic": false,
 				"webtoon": false,
 				"variants": [
 					{
 						"quality": "recommended",
-						"size": 5040
+						"size": 5039
 					}
 				]
 			},
@@ -8563,7 +8563,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3591
+					"count": 3592
 				}
 			],
 			"ridiselect": false,
@@ -11968,7 +11968,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2834
+					"count": 2832
 				}
 			],
 			"ridiselect": false,
