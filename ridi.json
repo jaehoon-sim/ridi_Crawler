@@ -916,15 +916,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 24
+					"count": 25
 				},
 				{
 					"rating": 4,
-					"count": 151
+					"count": 158
 				},
 				{
 					"rating": 5,
-					"count": 2360
+					"count": 2447
 				}
 			],
 			"ridiselect": false,
@@ -1509,7 +1509,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3284
+					"count": 3285
 				}
 			],
 			"ridiselect": false,
@@ -2473,7 +2473,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3134
+					"count": 3135
 				}
 			],
 			"ridiselect": false,
@@ -3047,7 +3047,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2229
+					"count": 2228
 				}
 			],
 			"ridiselect": false,
@@ -3794,7 +3794,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2293
+					"count": 2292
 				}
 			],
 			"ridiselect": false,
@@ -4173,7 +4173,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4035
+					"count": 4034
 				}
 			],
 			"ridiselect": false,
@@ -4747,7 +4747,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2947
+					"count": 2945
 				}
 			],
 			"ridiselect": false,
@@ -13998,7 +13998,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2824
+					"count": 2823
 				}
 			],
 			"ridiselect": false,
@@ -17074,16 +17074,16 @@
 				"title": "나 감금해 줄 남편 구함",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4939000184/small#1",
-					"large": "https://img.ridicdn.net/cover/4939000184/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4939000184/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4939000185/small#1",
+					"large": "https://img.ridicdn.net/cover/4939000185/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4939000185/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 184,
+				"total": 185,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -17112,15 +17112,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 18100,
-					"sale_price": 18100,
+					"full_price": 18200,
+					"sale_price": 18200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-17T16:51:24+09:00"
+				"last_opened_episode_date": "2023-03-21T20:48:19+09:00"
 			},
 			"categories": [
 				{
@@ -17171,6 +17171,17 @@
 			"link": "https://ridibooks.com/books/4939000001"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
