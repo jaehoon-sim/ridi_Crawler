@@ -729,7 +729,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3093
+					"count": 3094
 				}
 			],
 			"ridiselect": false,
@@ -1119,7 +1119,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1905
+					"count": 1908
 				}
 			],
 			"ridiselect": false,
@@ -1303,7 +1303,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2975
+					"count": 2973
 				}
 			],
 			"ridiselect": false,
@@ -1413,16 +1413,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211041544/small#1",
-					"large": "https://img.ridicdn.net/cover/211041544/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211041544/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211041545/small#1",
+					"large": "https://img.ridicdn.net/cover/211041545/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211041545/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 499,
+				"total": 500,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1451,15 +1451,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 49300,
-					"sale_price": 49300,
+					"full_price": 49400,
+					"sale_price": 49400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-23T00:02:19+09:00"
+				"last_opened_episode_date": "2023-03-24T00:02:18+09:00"
 			},
 			"categories": [
 				{
@@ -1818,13 +1818,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-20T23:55:55+09:00",
-					"closing_date": "2023-03-23T23:59:59+09:00"
+					"opening_date": "2023-03-17T00:00:00+09:00",
+					"closing_date": "2033-03-21T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -1880,15 +1880,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 11
+					"count": 13
 				},
 				{
 					"rating": 4,
-					"count": 178
+					"count": 180
 				},
 				{
 					"rating": 5,
-					"count": 2716
+					"count": 3033
 				}
 			],
 			"ridiselect": false,
@@ -2473,7 +2473,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3216
+					"count": 3217
 				}
 			],
 			"ridiselect": false,
@@ -2778,16 +2778,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239015616/small#1",
-					"large": "https://img.ridicdn.net/cover/1239015616/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239015616/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239015617/small#1",
+					"large": "https://img.ridicdn.net/cover/1239015617/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239015617/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 104,
+				"total": 105,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2816,15 +2816,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10100,
-					"sale_price": 10100,
+					"full_price": 10200,
+					"sale_price": 10200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-23T00:02:29+09:00"
+				"last_opened_episode_date": "2023-03-24T00:02:26+09:00"
 			},
 			"categories": [
 				{
@@ -9193,7 +9193,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 197
+					"count": 198
 				},
 				{
 					"rating": 5,
@@ -11062,7 +11062,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2780
+					"count": 2779
 				}
 			],
 			"ridiselect": false,
@@ -15596,7 +15596,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2793
+					"count": 2794
 				}
 			],
 			"ridiselect": false,
@@ -18560,7 +18560,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 9
+					"count": 10
 				},
 				{
 					"rating": 2,
@@ -18568,7 +18568,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 54
+					"count": 53
 				},
 				{
 					"rating": 4,
