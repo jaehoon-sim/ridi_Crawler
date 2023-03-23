@@ -136,7 +136,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 160
+					"count": 159
 				},
 				{
 					"rating": 4,
@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 6808
+					"count": 6809
 				}
 			],
 			"ridiselect": false,
@@ -339,7 +339,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3653
+					"count": 3654
 				}
 			],
 			"ridiselect": false,
@@ -534,7 +534,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3030
+					"count": 3031
 				}
 			],
 			"ridiselect": false,
@@ -721,7 +721,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 35
+					"count": 36
 				},
 				{
 					"rating": 4,
@@ -1303,7 +1303,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2984
+					"count": 2983
 				}
 			],
 			"ridiselect": false,
@@ -1884,11 +1884,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 161
+					"count": 162
 				},
 				{
 					"rating": 5,
-					"count": 2211
+					"count": 2231
 				}
 			],
 			"ridiselect": false,
@@ -3270,17 +3270,6 @@
 			"link": "https://ridibooks.com/books/4159000001"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -6733,7 +6722,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1015
+					"count": 1016
 				}
 			],
 			"ridiselect": false,
@@ -9524,16 +9513,16 @@
 				"title": "삼류 무협지에서 살아남기",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259011973/small#1",
-					"large": "https://img.ridicdn.net/cover/2259011973/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259011973/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259011992/small#1",
+					"large": "https://img.ridicdn.net/cover/2259011992/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259011992/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 288,
+				"total": 289,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9562,15 +9551,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 28500,
-					"sale_price": 28500,
+					"full_price": 28600,
+					"sale_price": 28600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-20T16:35:14+09:00"
+				"last_opened_episode_date": "2023-03-23T16:00:13+09:00"
 			},
 			"categories": [
 				{
@@ -9621,6 +9610,17 @@
 			"link": "https://ridibooks.com/books/2259007283"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -10539,7 +10539,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 7
+					"count": 8
 				},
 				{
 					"rating": 3,
@@ -13726,7 +13726,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2819
+					"count": 2820
 				}
 			],
 			"ridiselect": false,
@@ -14970,16 +14970,16 @@
 				"title": "나 감금해 줄 남편 구함",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4939000185/small#1",
-					"large": "https://img.ridicdn.net/cover/4939000185/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4939000185/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4939000186/small#1",
+					"large": "https://img.ridicdn.net/cover/4939000186/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4939000186/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 185,
+				"total": 186,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -15008,15 +15008,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 18200,
-					"sale_price": 18200,
+					"full_price": 18300,
+					"sale_price": 18300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-21T20:48:19+09:00"
+				"last_opened_episode_date": "2023-03-23T16:00:13+09:00"
 			},
 			"categories": [
 				{
@@ -15067,6 +15067,17 @@
 			"link": "https://ridibooks.com/books/4939000001"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -18491,16 +18502,16 @@
 				"title": "괴물 황자를 길들여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/297056863/small#1",
-					"large": "https://img.ridicdn.net/cover/297056863/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/297056863/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/297056998/small#1",
+					"large": "https://img.ridicdn.net/cover/297056998/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/297056998/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1527,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 160,
+				"total": 161,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -18529,15 +18540,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 15700,
-					"sale_price": 15700,
+					"full_price": 15800,
+					"sale_price": 15800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-19T16:01:28+09:00"
+				"last_opened_episode_date": "2023-03-23T16:00:12+09:00"
 			},
 			"categories": [
 				{
@@ -18588,6 +18599,17 @@
 			"link": "https://ridibooks.com/books/297049864"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
