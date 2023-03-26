@@ -258,13 +258,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-23T23:55:55+09:00",
-					"closing_date": "2023-03-26T23:59:59+09:00"
+					"opening_date": "2023-03-22T00:00:00+09:00",
+					"closing_date": "2033-03-24T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -320,15 +320,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 10
+					"count": 14
 				},
 				{
 					"rating": 4,
-					"count": 215
+					"count": 225
 				},
 				{
 					"rating": 5,
-					"count": 3199
+					"count": 3546
 				}
 			],
 			"ridiselect": false,
@@ -512,7 +512,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2966
+					"count": 2967
 				}
 			],
 			"ridiselect": false,
@@ -696,7 +696,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3128
+					"count": 3129
 				}
 			],
 			"ridiselect": false,
@@ -868,7 +868,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 22
+					"count": 23
 				},
 				{
 					"rating": 3,
@@ -876,7 +876,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 823
+					"count": 822
 				},
 				{
 					"rating": 5,
@@ -1052,7 +1052,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 10
+					"count": 9
 				},
 				{
 					"rating": 3,
@@ -1416,7 +1416,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 12
+					"count": 13
 				},
 				{
 					"rating": 2,
@@ -1432,7 +1432,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3661
+					"count": 3662
 				}
 			],
 			"ridiselect": false,
@@ -1984,7 +1984,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1984
+					"count": 2002
 				}
 			],
 			"ridiselect": false,
@@ -2657,16 +2657,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239015617/small#1",
-					"large": "https://img.ridicdn.net/cover/1239015617/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239015617/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239015618/small#1",
+					"large": "https://img.ridicdn.net/cover/1239015618/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239015618/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 105,
+				"total": 106,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2695,15 +2695,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10200,
-					"sale_price": 10200,
+					"full_price": 10300,
+					"sale_price": 10300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-24T00:02:26+09:00"
+				"last_opened_episode_date": "2023-03-27T00:01:55+09:00"
 			},
 			"categories": [
 				{
@@ -2754,6 +2754,17 @@
 			"link": "https://ridibooks.com/books/1239015403"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -3478,7 +3489,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2951
+					"count": 2947
 				}
 			],
 			"ridiselect": false,
@@ -8447,16 +8458,16 @@
 				"title": "쓰레기를 치웠더니 흑막이 꼬여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1962109869/small#1",
-					"large": "https://img.ridicdn.net/cover/1962109869/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1962109869/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1962109871/small#1",
+					"large": "https://img.ridicdn.net/cover/1962109871/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1962109871/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1044,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 103,
+				"total": 105,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8485,15 +8496,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10000,
-					"sale_price": 10000,
+					"full_price": 10200,
+					"sale_price": 10200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-26T00:00:14+09:00"
+				"last_opened_episode_date": "2023-03-27T00:01:20+09:00"
 			},
 			"categories": [
 				{
