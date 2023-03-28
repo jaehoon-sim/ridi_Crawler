@@ -1119,7 +1119,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3154
+					"count": 3155
 				}
 			],
 			"ridiselect": false,
@@ -1218,16 +1218,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239015619/small#1",
-					"large": "https://img.ridicdn.net/cover/1239015619/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239015619/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239015620/small#1",
+					"large": "https://img.ridicdn.net/cover/1239015620/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239015620/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 107,
+				"total": 108,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1256,15 +1256,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10400,
-					"sale_price": 10400,
+					"full_price": 10500,
+					"sale_price": 10500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-28T00:03:10+09:00"
+				"last_opened_episode_date": "2023-03-29T00:00:28+09:00"
 			},
 			"categories": [
 				{
@@ -2852,7 +2852,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2959
+					"count": 2958
 				}
 			],
 			"ridiselect": false,
@@ -3610,7 +3610,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3458
+					"count": 3457
 				}
 			],
 			"ridiselect": false,
@@ -3805,7 +3805,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2933
+					"count": 2932
 				}
 			],
 			"ridiselect": false,
@@ -4294,16 +4294,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211041546/small#1",
-					"large": "https://img.ridicdn.net/cover/211041546/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211041546/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211041547/small#1",
+					"large": "https://img.ridicdn.net/cover/211041547/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211041547/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 501,
+				"total": 502,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4332,15 +4332,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 49500,
-					"sale_price": 49500,
+					"full_price": 49600,
+					"sale_price": 49600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-25T00:01:20+09:00"
+				"last_opened_episode_date": "2023-03-29T00:00:28+09:00"
 			},
 			"categories": [
 				{
@@ -4391,6 +4391,17 @@
 			"link": "https://ridibooks.com/books/211033146"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -4579,7 +4590,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4395
+					"count": 4396
 				}
 			],
 			"ridiselect": false,
@@ -5095,13 +5106,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 24,
+					"interval_hours": 3,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2022-11-25T00:00:00+09:00",
-					"closing_date": "2032-11-27T23:59:59+09:00"
+					"opening_date": "2023-03-28T23:55:55+09:00",
+					"closing_date": "2023-03-31T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -11250,17 +11261,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -13032,13 +13032,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 3,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-25T23:55:55+09:00",
-					"closing_date": "2023-03-28T23:59:59+09:00"
+					"opening_date": "2022-11-28T00:00:00+09:00",
+					"closing_date": "2032-11-29T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -14515,13 +14515,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 3,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-25T23:55:55+09:00",
-					"closing_date": "2023-03-28T23:59:59+09:00"
+					"opening_date": "2022-06-24T00:00:00+09:00",
+					"closing_date": "2032-06-25T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -15833,13 +15833,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 3,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-03-25T23:55:55+09:00",
-					"closing_date": "2023-03-28T23:59:59+09:00"
+					"opening_date": "2022-11-08T00:00:00+09:00",
+					"closing_date": "2032-11-09T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
