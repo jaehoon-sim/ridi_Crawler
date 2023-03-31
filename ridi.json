@@ -2664,7 +2664,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 168
+					"count": 169
 				},
 				{
 					"rating": 5,
@@ -2863,7 +2863,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47595
+					"count": 47598
 				}
 			],
 			"ridiselect": false,
@@ -4591,7 +4591,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3326
+					"count": 3328
 				}
 			],
 			"ridiselect": false,
@@ -7222,16 +7222,16 @@
 				"title": "이러다가 토끼 백숙이 될지도 몰라",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049036370/small#1",
-					"large": "https://img.ridicdn.net/cover/3049036370/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049036370/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049036390/small#1",
+					"large": "https://img.ridicdn.net/cover/3049036390/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049036390/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1215,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 128,
+				"total": 129,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7260,15 +7260,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12500,
-					"sale_price": 12500,
+					"full_price": 12600,
+					"sale_price": 12600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-30T17:10:08+09:00"
+				"last_opened_episode_date": "2023-03-31T16:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -9694,16 +9694,16 @@
 				"title": "괴물 황자를 길들여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/297057166/small#1",
-					"large": "https://img.ridicdn.net/cover/297057166/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/297057166/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/297057167/small#1",
+					"large": "https://img.ridicdn.net/cover/297057167/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/297057167/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1527,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 165,
+				"total": 166,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9732,15 +9732,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 16200,
-					"sale_price": 16200,
+					"full_price": 16300,
+					"sale_price": 16300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-30T16:00:08+09:00"
+				"last_opened_episode_date": "2023-03-31T16:00:07+09:00"
 			},
 			"categories": [
 				{
