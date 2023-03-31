@@ -4966,7 +4966,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 226
+					"count": 227
 				},
 				{
 					"rating": 5,
@@ -11100,7 +11100,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3596
+					"count": 3597
 				}
 			],
 			"ridiselect": false,
@@ -16249,7 +16249,7 @@
 				"size": 328,
 				"format": "epub",
 				"page_count": null,
-				"character_count": 4256,
+				"character_count": 4352,
 				"comic": false,
 				"webtoon": false,
 				"variants": [
