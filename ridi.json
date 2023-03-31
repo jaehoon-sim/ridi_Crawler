@@ -937,17 +937,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -1814,16 +1803,16 @@
 				"title": "낯선 공작에게 내 불행을 팔았다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2107115943/small#1",
-					"large": "https://img.ridicdn.net/cover/2107115943/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2107115943/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2107116322/small#1",
+					"large": "https://img.ridicdn.net/cover/2107116322/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2107116322/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1150,
 					"width": 800
 				},
 				"episode": 1,
-				"total": 86,
+				"total": 87,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1852,15 +1841,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8300,
-					"sale_price": 8300,
+					"full_price": 8400,
+					"sale_price": 8400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-29T18:51:44+09:00"
+				"last_opened_episode_date": "2023-03-31T18:30:06+09:00"
 			},
 			"categories": [
 				{
@@ -1911,6 +1900,17 @@
 			"link": "https://ridibooks.com/books/2107112748"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -6332,7 +6332,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3981
+					"count": 3980
 				}
 			],
 			"ridiselect": false,
@@ -6929,17 +6929,6 @@
 			"link": "https://ridibooks.com/books/2259011049"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -12210,7 +12199,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 3
+					"count": 4
 				},
 				{
 					"rating": 2,
