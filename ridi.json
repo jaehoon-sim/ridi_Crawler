@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1567
+					"count": 1570
 				}
 			],
 			"ridiselect": false,
@@ -156,17 +156,6 @@
 			"link": "https://ridibooks.com/books/5170000001"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -731,17 +720,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -913,7 +891,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2209
+					"count": 2216
 				}
 			],
 			"ridiselect": false,
@@ -1833,7 +1811,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47613
+					"count": 47615
 				}
 			],
 			"ridiselect": false,
@@ -2116,16 +2094,16 @@
 				"title": "이런 식의 구애는 곤란합니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/372011779/small#1",
-					"large": "https://img.ridicdn.net/cover/372011779/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/372011779/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/372011780/small#1",
+					"large": "https://img.ridicdn.net/cover/372011780/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/372011780/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1300,
 					"width": 889
 				},
 				"episode": 1,
-				"total": 124,
+				"total": 125,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2154,15 +2132,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11900,
-					"sale_price": 11900,
+					"full_price": 12000,
+					"sale_price": 12000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-01T07:00:09+09:00"
+				"last_opened_episode_date": "2023-04-02T07:00:13+09:00"
 			},
 			"categories": [
 				{
@@ -2311,16 +2289,16 @@
 				"title": "첫눈에 반했어요, 흑막님!",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3846013105/small#1",
-					"large": "https://img.ridicdn.net/cover/3846013105/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3846013105/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3846013106/small#1",
+					"large": "https://img.ridicdn.net/cover/3846013106/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3846013106/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 859,
 					"width": 560
 				},
 				"episode": 1,
-				"total": 117,
+				"total": 118,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2349,15 +2327,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11400,
-					"sale_price": 11400,
+					"full_price": 11500,
+					"sale_price": 11500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-01T07:00:11+09:00"
+				"last_opened_episode_date": "2023-04-02T07:00:14+09:00"
 			},
 			"categories": [
 				{
@@ -2591,7 +2569,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3297
+					"count": 3296
 				}
 			],
 			"ridiselect": false,
@@ -2690,16 +2668,16 @@
 				"title": "지금부터 가이드 메이킹을 시작합니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4375018875/small#1",
-					"large": "https://img.ridicdn.net/cover/4375018875/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4375018875/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4375018876/small#1",
+					"large": "https://img.ridicdn.net/cover/4375018876/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4375018876/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 81,
+				"total": 82,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2728,15 +2706,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7800,
-					"sale_price": 7800,
+					"full_price": 7900,
+					"sale_price": 7900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-01T07:00:10+09:00"
+				"last_opened_episode_date": "2023-04-02T07:00:13+09:00"
 			},
 			"categories": [
 				{
@@ -3822,16 +3800,16 @@
 				"title": "부서진 세계의 구원자",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2378051119/small#1",
-					"large": "https://img.ridicdn.net/cover/2378051119/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2378051119/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2378051206/small#1",
+					"large": "https://img.ridicdn.net/cover/2378051206/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2378051206/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2450,
 					"width": 1600
 				},
 				"episode": 1,
-				"total": 616,
+				"total": 617,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3860,15 +3838,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 61100,
-					"sale_price": 61100,
+					"full_price": 61200,
+					"sale_price": 61200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-01T07:00:11+09:00"
+				"last_opened_episode_date": "2023-04-02T07:00:14+09:00"
 			},
 			"categories": [
 				{
@@ -4678,17 +4656,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -4775,16 +4742,16 @@
 				"title": "영주님과의 계약은 함정이었다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/777118823/small#1",
-					"large": "https://img.ridicdn.net/cover/777118823/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/777118823/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/777118839/small#1",
+					"large": "https://img.ridicdn.net/cover/777118839/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/777118839/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2400,
 					"width": 1600
 				},
 				"episode": 1,
-				"total": 132,
+				"total": 133,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4813,15 +4780,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12900,
-					"sale_price": 12900,
+					"full_price": 13000,
+					"sale_price": 13000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-01T07:00:09+09:00"
+				"last_opened_episode_date": "2023-04-02T07:00:13+09:00"
 			},
 			"categories": [
 				{
@@ -5338,16 +5305,16 @@
 				"title": "로판 덕후가 무협지에 빙의했다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4375019042/small#1",
-					"large": "https://img.ridicdn.net/cover/4375019042/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4375019042/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4375019043/small#1",
+					"large": "https://img.ridicdn.net/cover/4375019043/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4375019043/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 85,
+				"total": 86,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5376,15 +5343,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8200,
-					"sale_price": 8200,
+					"full_price": 8300,
+					"sale_price": 8300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-01T07:00:10+09:00"
+				"last_opened_episode_date": "2023-04-02T07:00:13+09:00"
 			},
 			"categories": [
 				{
@@ -7760,16 +7727,16 @@
 				"title": "원작 소설 여주가 탈주했다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4544006909/small#1",
-					"large": "https://img.ridicdn.net/cover/4544006909/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4544006909/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4544006910/small#1",
+					"large": "https://img.ridicdn.net/cover/4544006910/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4544006910/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 3141,
 					"width": 2059
 				},
 				"episode": 1,
-				"total": 108,
+				"total": 109,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7798,15 +7765,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10500,
-					"sale_price": 10500,
+					"full_price": 10600,
+					"sale_price": 10600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-01T07:00:09+09:00"
+				"last_opened_episode_date": "2023-04-02T07:00:13+09:00"
 			},
 			"categories": [
 				{
@@ -10064,7 +10031,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2742
+					"count": 2741
 				}
 			],
 			"ridiselect": false,
@@ -10453,17 +10420,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -10647,17 +10603,6 @@
 			"link": "https://ridibooks.com/books/3302008535"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -11094,17 +11039,17 @@
 				"title": "그 헌터네 빵집은 언제 오픈하나요?",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4375019086/small#1",
-					"large": "https://img.ridicdn.net/cover/4375019086/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4375019086/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4375017742/small#1",
+					"large": "https://img.ridicdn.net/cover/4375017742/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4375017742/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 119,
-				"completion": false,
+				"total": 120,
+				"completion": true,
 				"publishing_schedule": {
 					"periodical": true
 				},
@@ -11132,15 +11077,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11600,
-					"sale_price": 11600,
+					"full_price": 11700,
+					"sale_price": 11700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-01T07:00:11+09:00"
+				"last_opened_episode_date": "2023-04-02T07:00:14+09:00"
 			},
 			"categories": [
 				{
@@ -12415,16 +12360,16 @@
 				"title": "귀신의 저택에 취직했습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4403009603/small#1",
-					"large": "https://img.ridicdn.net/cover/4403009603/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4403009603/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4403009604/small#1",
+					"large": "https://img.ridicdn.net/cover/4403009604/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4403009604/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 131,
+				"total": 132,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -12453,15 +12398,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12800,
-					"sale_price": 12800,
+					"full_price": 12900,
+					"sale_price": 12900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-01T07:00:10+09:00"
+				"last_opened_episode_date": "2023-04-02T07:00:13+09:00"
 			},
 			"categories": [
 				{
@@ -13267,17 +13212,6 @@
 			"link": "https://ridibooks.com/books/777105628"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -16026,7 +15960,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2227
+					"count": 2228
 				}
 			],
 			"ridiselect": false,
