@@ -508,11 +508,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 166
+					"count": 167
 				},
 				{
 					"rating": 5,
-					"count": 1707
+					"count": 1725
 				}
 			],
 			"ridiselect": false,
@@ -2219,7 +2219,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 255
+					"count": 254
 				},
 				{
 					"rating": 5,
@@ -6167,7 +6167,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2737
+					"count": 2736
 				}
 			],
 			"ridiselect": false,
@@ -8021,7 +8021,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2750
+					"count": 2749
 				}
 			],
 			"ridiselect": false,
@@ -10383,16 +10383,16 @@
 				"title": "괴물 황자를 길들여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/297057167/small#1",
-					"large": "https://img.ridicdn.net/cover/297057167/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/297057167/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/297057357/small#1",
+					"large": "https://img.ridicdn.net/cover/297057357/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/297057357/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1527,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 166,
+				"total": 167,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10421,15 +10421,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 16300,
-					"sale_price": 16300,
+					"full_price": 16400,
+					"sale_price": 16400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-03-31T16:00:07+09:00"
+				"last_opened_episode_date": "2023-04-01T16:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -12363,7 +12363,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3418
+					"count": 3417
 				}
 			],
 			"ridiselect": false,
@@ -12769,7 +12769,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2755
+					"count": 2754
 				}
 			],
 			"ridiselect": false,
