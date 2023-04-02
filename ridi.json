@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1763
+					"count": 1780
 				}
 			],
 			"ridiselect": false,
@@ -883,15 +883,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 11
+					"count": 12
 				},
 				{
 					"rating": 4,
-					"count": 196
+					"count": 197
 				},
 				{
 					"rating": 5,
-					"count": 2552
+					"count": 2611
 				}
 			],
 			"ridiselect": false,
@@ -1811,7 +1811,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47622
+					"count": 47624
 				}
 			],
 			"ridiselect": false,
@@ -2948,7 +2948,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2932
+					"count": 2933
 				}
 			],
 			"ridiselect": false,
@@ -3132,7 +3132,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2964
+					"count": 2965
 				}
 			],
 			"ridiselect": false,
@@ -3995,16 +3995,16 @@
 				"title": "악역이 나를 탐내는 이유",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049036350/small#1",
-					"large": "https://img.ridicdn.net/cover/3049036350/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049036350/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049036351/small#1",
+					"large": "https://img.ridicdn.net/cover/3049036351/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049036351/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 74,
+				"total": 75,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4033,15 +4033,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7100,
-					"sale_price": 7100,
+					"full_price": 7200,
+					"sale_price": 7200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-01T18:01:27+09:00"
+				"last_opened_episode_date": "2023-04-02T18:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -6681,7 +6681,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 308
+					"count": 309
 				},
 				{
 					"rating": 4,
@@ -11429,16 +11429,16 @@
 				"title": "살인마는 갈색머리 영애를 노린다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049035847/small#1",
-					"large": "https://img.ridicdn.net/cover/3049035847/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049035847/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049035848/small#1",
+					"large": "https://img.ridicdn.net/cover/3049035848/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049035848/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1215,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 76,
+				"total": 77,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11467,15 +11467,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7100,
-					"sale_price": 7100,
+					"full_price": 7200,
+					"sale_price": 7200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-01T18:01:27+09:00"
+				"last_opened_episode_date": "2023-04-02T18:01:28+09:00"
 			},
 			"categories": [
 				{
