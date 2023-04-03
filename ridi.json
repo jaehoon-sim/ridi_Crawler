@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3421
+					"count": 3419
 				}
 			],
 			"ridiselect": false,
@@ -1487,7 +1487,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47640
+					"count": 47642
 				}
 			],
 			"ridiselect": false,
@@ -1858,15 +1858,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 13
+					"count": 15
 				},
 				{
 					"rating": 4,
-					"count": 197
+					"count": 205
 				},
 				{
 					"rating": 5,
-					"count": 2617
+					"count": 2862
 				}
 			],
 			"ridiselect": false,
@@ -2723,16 +2723,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239015629/small#1",
-					"large": "https://img.ridicdn.net/cover/1239015629/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239015629/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239016131/small#1",
+					"large": "https://img.ridicdn.net/cover/1239016131/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239016131/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 111,
+				"total": 112,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2761,15 +2761,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10800,
-					"sale_price": 10800,
+					"full_price": 10900,
+					"sale_price": 10900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-03T00:01:23+09:00"
+				"last_opened_episode_date": "2023-04-04T00:10:16+09:00"
 			},
 			"categories": [
 				{
@@ -3198,7 +3198,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2962
+					"count": 2961
 				}
 			],
 			"ridiselect": false,
@@ -5110,7 +5110,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1023
+					"count": 1024
 				}
 			],
 			"ridiselect": false,
@@ -10718,7 +10718,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2009
+					"count": 2010
 				}
 			],
 			"ridiselect": false,
@@ -13437,16 +13437,16 @@
 				"title": "쓰레기를 치웠더니 흑막이 꼬여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1962109877/small#1",
-					"large": "https://img.ridicdn.net/cover/1962109877/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1962109877/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1962109878/small#1",
+					"large": "https://img.ridicdn.net/cover/1962109878/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1962109878/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1044,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 111,
+				"total": 112,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -13475,15 +13475,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10800,
-					"sale_price": 10800,
+					"full_price": 10900,
+					"sale_price": 10900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-03T00:00:39+09:00"
+				"last_opened_episode_date": "2023-04-04T00:01:05+09:00"
 			},
 			"categories": [
 				{
