@@ -920,11 +920,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 80
+					"count": 109
 				},
 				{
 					"rating": 5,
-					"count": 1685
+					"count": 1726
 				}
 			],
 			"ridiselect": false,
@@ -7447,7 +7447,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 76
+					"count": 77
 				}
 			],
 			"ridiselect": false,
@@ -8705,16 +8705,16 @@
 				"title": "이러다가 토끼 백숙이 될지도 몰라",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049036403/small#1",
-					"large": "https://img.ridicdn.net/cover/3049036403/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049036403/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049036433/small#1",
+					"large": "https://img.ridicdn.net/cover/3049036433/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049036433/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1215,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 131,
+				"total": 132,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8743,15 +8743,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12800,
-					"sale_price": 12800,
+					"full_price": 12900,
+					"sale_price": 12900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-03T17:25:07+09:00"
+				"last_opened_episode_date": "2023-04-04T16:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -14044,7 +14044,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 50
+					"count": 51
 				},
 				{
 					"rating": 4,
@@ -14052,7 +14052,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1028
+					"count": 1027
 				}
 			],
 			"ridiselect": false,
