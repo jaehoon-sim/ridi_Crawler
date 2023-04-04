@@ -920,11 +920,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 164
+					"count": 165
 				},
 				{
 					"rating": 5,
-					"count": 2029
+					"count": 2106
 				}
 			],
 			"ridiselect": false,
@@ -1424,16 +1424,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239016131/small#1",
-					"large": "https://img.ridicdn.net/cover/1239016131/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239016131/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239016173/small#1",
+					"large": "https://img.ridicdn.net/cover/1239016173/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239016173/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 112,
+				"total": 113,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1462,15 +1462,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10900,
-					"sale_price": 10900,
+					"full_price": 11000,
+					"sale_price": 11000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-04T00:10:16+09:00"
+				"last_opened_episode_date": "2023-04-05T00:01:12+09:00"
 			},
 			"categories": [
 				{
@@ -1509,7 +1509,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3298
+					"count": 3297
 				}
 			],
 			"ridiselect": false,
@@ -2663,7 +2663,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 1282
+					"count": 1281
 				},
 				{
 					"rating": 2,
@@ -2679,7 +2679,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47662
+					"count": 47664
 				}
 			],
 			"ridiselect": false,
@@ -3070,17 +3070,6 @@
 			"link": "https://ridibooks.com/books/1962109613"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -3926,16 +3915,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211041882/small#1",
-					"large": "https://img.ridicdn.net/cover/211041882/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211041882/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211041883/small#1",
+					"large": "https://img.ridicdn.net/cover/211041883/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211041883/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 505,
+				"total": 506,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3964,15 +3953,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 49900,
-					"sale_price": 49900,
+					"full_price": 50000,
+					"sale_price": 50000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-01T00:03:58+09:00"
+				"last_opened_episode_date": "2023-04-05T00:01:08+09:00"
 			},
 			"categories": [
 				{
@@ -4023,6 +4012,17 @@
 			"link": "https://ridibooks.com/books/211033146"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -14236,7 +14236,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5001
+					"count": 5002
 				}
 			],
 			"ridiselect": false,
@@ -14788,7 +14788,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3345
+					"count": 3344
 				}
 			],
 			"ridiselect": false,
