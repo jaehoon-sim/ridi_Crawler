@@ -518,7 +518,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 6
+					"count": 7
 				},
 				{
 					"rating": 2,
@@ -6490,11 +6490,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 240
+					"count": 241
 				},
 				{
 					"rating": 5,
-					"count": 3401
+					"count": 3399
 				}
 			],
 			"ridiselect": false,
