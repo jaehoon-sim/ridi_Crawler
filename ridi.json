@@ -534,7 +534,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3060
+					"count": 3061
 				}
 			],
 			"ridiselect": false,
@@ -644,16 +644,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120063831/small#1",
-					"large": "https://img.ridicdn.net/cover/120063831/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120063831/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120063841/small#1",
+					"large": "https://img.ridicdn.net/cover/120063841/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120063841/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 169,
+				"total": 170,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -682,15 +682,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 16600,
-					"sale_price": 16600,
+					"full_price": 16700,
+					"sale_price": 16700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-04T19:00:08+09:00"
+				"last_opened_episode_date": "2023-04-05T19:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -1873,11 +1873,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 172
+					"count": 173
 				},
 				{
 					"rating": 5,
-					"count": 2332
+					"count": 2376
 				}
 			],
 			"ridiselect": false,
@@ -1987,16 +1987,16 @@
 				"title": "나의 상냥한 빌런에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369006013/small#1",
-					"large": "https://img.ridicdn.net/cover/2369006013/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369006013/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369006015/small#1",
+					"large": "https://img.ridicdn.net/cover/2369006015/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369006015/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 154,
+				"total": 155,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2025,15 +2025,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 15000,
-					"sale_price": 15000,
+					"full_price": 15100,
+					"sale_price": 15100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-04T19:01:12+09:00"
+				"last_opened_episode_date": "2023-04-05T19:00:31+09:00"
 			},
 			"categories": [
 				{
@@ -6108,7 +6108,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 1248
+					"count": 1249
 				},
 				{
 					"rating": 5,
@@ -10592,16 +10592,16 @@
 				"title": "너드남의 흑화를 막아 보겠습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3822005987/small#1",
-					"large": "https://img.ridicdn.net/cover/3822005987/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3822005987/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3822005993/small#1",
+					"large": "https://img.ridicdn.net/cover/3822005993/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3822005993/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 156,
+				"total": 157,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10630,15 +10630,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 15300,
-					"sale_price": 15300,
+					"full_price": 15400,
+					"sale_price": 15400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-04T19:01:07+09:00"
+				"last_opened_episode_date": "2023-04-05T19:10:35+09:00"
 			},
 			"categories": [
 				{
@@ -12568,7 +12568,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 7
+					"count": 8
 				},
 				{
 					"rating": 5,
