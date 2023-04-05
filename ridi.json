@@ -1888,7 +1888,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2241
+					"count": 2257
 				}
 			],
 			"ridiselect": false,
@@ -7938,7 +7938,7 @@
 			"registration_date": "2023-04-01T06:58:00+09:00",
 			"publication_date": "2023-04-01T00:00:00+09:00",
 			"file": {
-				"size": 18574,
+				"size": 18578,
 				"format": "webtoon",
 				"page_count": 66,
 				"character_count": null,
@@ -7947,7 +7947,7 @@
 				"variants": [
 					{
 						"quality": "recommended",
-						"size": 18574
+						"size": 18578
 					}
 				]
 			},
@@ -8444,7 +8444,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3369
+					"count": 3367
 				}
 			],
 			"ridiselect": false,
