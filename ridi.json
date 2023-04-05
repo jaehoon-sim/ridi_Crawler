@@ -339,7 +339,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3675
+					"count": 3676
 				}
 			],
 			"ridiselect": false,
@@ -1815,7 +1815,7 @@
 				"total": 71,
 				"completion": false,
 				"publishing_schedule": {
-					"periodical": false
+					"periodical": true
 				},
 				"wait_for_free": {
 					"interval_hours": 6,
