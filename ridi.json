@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 6857
+					"count": 6858
 				}
 			],
 			"ridiselect": false,
@@ -891,7 +891,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2826
+					"count": 2825
 				}
 			],
 			"ridiselect": false,
@@ -1592,16 +1592,16 @@
 				"title": "친구의 친구는 남인가요?",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4629000653/small#1",
-					"large": "https://img.ridicdn.net/cover/4629000653/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4629000653/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4629000655/small#1",
+					"large": "https://img.ridicdn.net/cover/4629000655/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4629000655/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1680,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 62,
+				"total": 63,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1630,15 +1630,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 5900,
-					"sale_price": 5900,
+					"full_price": 6000,
+					"sale_price": 6000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-07T07:00:24+09:00"
+				"last_opened_episode_date": "2023-04-08T10:36:59+09:00"
 			},
 			"categories": [
 				{
@@ -1677,7 +1677,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2934
+					"count": 2935
 				}
 			],
 			"ridiselect": false,
@@ -1689,6 +1689,17 @@
 			"link": "https://ridibooks.com/books/4629000524"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -2068,17 +2079,6 @@
 			"link": "https://ridibooks.com/books/2259009252"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -2636,7 +2636,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3297
+					"count": 3298
 				}
 			],
 			"ridiselect": false,
@@ -3188,7 +3188,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47698
+					"count": 47699
 				}
 			],
 			"ridiselect": false,
@@ -4180,7 +4180,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3208
+					"count": 3209
 				}
 			],
 			"ridiselect": false,
@@ -4560,7 +4560,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2938
+					"count": 2937
 				}
 			],
 			"ridiselect": false,
@@ -4783,17 +4783,6 @@
 			"link": "https://ridibooks.com/books/2213012137"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -5536,7 +5525,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 945
+					"count": 946
 				}
 			],
 			"ridiselect": false,
@@ -7502,17 +7491,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -7713,17 +7691,6 @@
 			"link": "https://ridibooks.com/books/2259011385"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -9000,16 +8967,16 @@
 				"title": "친구의 친구는 남인가요? (15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4629000654/small#1",
-					"large": "https://img.ridicdn.net/cover/4629000654/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4629000654/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4629000656/small#1",
+					"large": "https://img.ridicdn.net/cover/4629000656/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4629000656/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1680,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 61,
+				"total": 62,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": false
@@ -9038,15 +9005,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 5800,
-					"sale_price": 5800,
+					"full_price": 5900,
+					"sale_price": 5900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-07T07:00:24+09:00"
+				"last_opened_episode_date": "2023-04-08T10:37:50+09:00"
 			},
 			"categories": [
 				{
@@ -9097,6 +9064,17 @@
 			"link": "https://ridibooks.com/books/4629000525"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -11194,17 +11172,6 @@
 			"link": "https://ridibooks.com/books/2259011994"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -13893,7 +13860,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 8481
+					"count": 8482
 				}
 			],
 			"ridiselect": false,
