@@ -132,7 +132,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 0
+					"count": 1
 				},
 				{
 					"rating": 3,
@@ -140,11 +140,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 86
+					"count": 97
 				},
 				{
 					"rating": 5,
-					"count": 1408
+					"count": 1448
 				}
 			],
 			"ridiselect": false,
@@ -718,7 +718,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3187
+					"count": 3188
 				}
 			],
 			"ridiselect": false,
@@ -1671,7 +1671,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47735
+					"count": 47736
 				}
 			],
 			"ridiselect": false,
@@ -2808,7 +2808,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2911
+					"count": 2912
 				}
 			],
 			"ridiselect": false,
@@ -4319,7 +4319,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 32
+					"count": 33
 				}
 			],
 			"ridiselect": false,
@@ -6867,16 +6867,16 @@
 			"registration_date": "2023-04-01T06:58:00+09:00",
 			"publication_date": "2023-04-01T00:00:00+09:00",
 			"file": {
-				"size": 18578,
+				"size": 18917,
 				"format": "webtoon",
-				"page_count": 66,
+				"page_count": 69,
 				"character_count": null,
 				"comic": true,
 				"webtoon": true,
 				"variants": [
 					{
 						"quality": "recommended",
-						"size": 18578
+						"size": 18917
 					}
 				]
 			},
