@@ -1292,7 +1292,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3688
+					"count": 3689
 				}
 			],
 			"ridiselect": false,
@@ -5750,17 +5750,17 @@
 				"title": "바이올렛 블룸",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/5140000109/small#1",
-					"large": "https://img.ridicdn.net/cover/5140000109/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/5140000109/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/5140000001/small#1",
+					"large": "https://img.ridicdn.net/cover/5140000001/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/5140000001/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 108,
-				"completion": false,
+				"total": 110,
+				"completion": true,
 				"publishing_schedule": {
 					"periodical": true
 				},
@@ -5788,15 +5788,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10500,
-					"sale_price": 10500,
+					"full_price": 10700,
+					"sale_price": 10700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-10T07:00:08+09:00"
+				"last_opened_episode_date": "2023-04-10T16:37:01+09:00"
 			},
 			"categories": [
 				{
