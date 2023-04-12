@@ -1115,11 +1115,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 103
+					"count": 105
 				},
 				{
 					"rating": 5,
-					"count": 1956
+					"count": 1995
 				}
 			],
 			"ridiselect": false,
@@ -2009,16 +2009,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239016190/small#1",
-					"large": "https://img.ridicdn.net/cover/1239016190/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239016190/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239016191/small#1",
+					"large": "https://img.ridicdn.net/cover/1239016191/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239016191/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 118,
+				"total": 119,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2047,15 +2047,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11500,
-					"sale_price": 11500,
+					"full_price": 11600,
+					"sale_price": 11600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-12T00:01:08+09:00"
+				"last_opened_episode_date": "2023-04-13T00:01:39+09:00"
 			},
 			"categories": [
 				{
@@ -2277,7 +2277,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 1
+					"count": 2
 				},
 				{
 					"rating": 3,
@@ -3270,7 +3270,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47766
+					"count": 47768
 				}
 			],
 			"ridiselect": false,
@@ -3369,16 +3369,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211041887/small#1",
-					"large": "https://img.ridicdn.net/cover/211041887/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211041887/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211041888/small#1",
+					"large": "https://img.ridicdn.net/cover/211041888/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211041888/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 510,
+				"total": 511,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3407,15 +3407,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 50400,
-					"sale_price": 50400,
+					"full_price": 50500,
+					"sale_price": 50500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-12T00:00:53+09:00"
+				"last_opened_episode_date": "2023-04-13T00:01:26+09:00"
 			},
 			"categories": [
 				{
@@ -7296,7 +7296,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2904
+					"count": 2903
 				}
 			],
 			"ridiselect": false,
@@ -7670,7 +7670,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 7
+					"count": 8
 				},
 				{
 					"rating": 2,
@@ -7686,7 +7686,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3963
+					"count": 3962
 				}
 			],
 			"ridiselect": false,
@@ -9982,7 +9982,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2985
+					"count": 2986
 				}
 			],
 			"ridiselect": false,
@@ -17463,7 +17463,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2687
+					"count": 2688
 				}
 			],
 			"ridiselect": false,
