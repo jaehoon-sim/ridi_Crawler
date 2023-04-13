@@ -534,7 +534,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3199
+					"count": 3200
 				}
 			],
 			"ridiselect": false,
@@ -1505,11 +1505,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 55
+					"count": 57
 				},
 				{
 					"rating": 5,
-					"count": 1423
+					"count": 1433
 				}
 			],
 			"ridiselect": false,
@@ -3065,11 +3065,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 114
+					"count": 115
 				},
 				{
 					"rating": 5,
-					"count": 2130
+					"count": 2143
 				}
 			],
 			"ridiselect": false,
@@ -4137,16 +4137,16 @@
 				"title": "테라리움 어드벤처",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000723/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000723/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000723/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000724/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000724/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000724/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 710,
+				"total": 711,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4175,8 +4175,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 70700,
-					"sale_price": 70700,
+					"full_price": 70800,
+					"sale_price": 70800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -4194,7 +4194,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-04-12T16:00:10+09:00"
+				"last_opened_episode_date": "2023-04-13T16:00:09+09:00"
 			},
 			"categories": [
 				{
