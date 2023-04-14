@@ -534,7 +534,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3203
+					"count": 3204
 				}
 			],
 			"ridiselect": false,
@@ -2863,7 +2863,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1775
+					"count": 1795
 				}
 			],
 			"ridiselect": false,
@@ -3758,16 +3758,16 @@
 				"title": "테라리움 어드벤처",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000724/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000724/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000724/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000725/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000725/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000725/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 711,
+				"total": 712,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3796,8 +3796,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 70800,
-					"sale_price": 70800,
+					"full_price": 70900,
+					"sale_price": 70900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -3815,7 +3815,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-04-13T16:00:09+09:00"
+				"last_opened_episode_date": "2023-04-14T16:00:10+09:00"
 			},
 			"categories": [
 				{
@@ -4428,7 +4428,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 398
+					"count": 397
 				},
 				{
 					"rating": 3,
@@ -4436,11 +4436,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 2784
+					"count": 2785
 				},
 				{
 					"rating": 5,
-					"count": 47786
+					"count": 47787
 				}
 			],
 			"ridiselect": false,
@@ -8046,7 +8046,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 47
+					"count": 48
 				},
 				{
 					"rating": 4,
@@ -11424,16 +11424,16 @@
 				"title": "괴물 황자를 길들여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/297057662/small#1",
-					"large": "https://img.ridicdn.net/cover/297057662/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/297057662/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/297057663/small#1",
+					"large": "https://img.ridicdn.net/cover/297057663/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/297057663/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1527,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 173,
+				"total": 174,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11462,15 +11462,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 17000,
-					"sale_price": 17000,
+					"full_price": 17100,
+					"sale_price": 17100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-13T16:00:06+09:00"
+				"last_opened_episode_date": "2023-04-14T16:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -17073,16 +17073,16 @@
 				"title": "나 감금해 줄 남편 구함",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4939000195/small#1",
-					"large": "https://img.ridicdn.net/cover/4939000195/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4939000195/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4939000196/small#1",
+					"large": "https://img.ridicdn.net/cover/4939000196/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4939000196/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 195,
+				"total": 196,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -17111,15 +17111,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 19200,
-					"sale_price": 19200,
+					"full_price": 19300,
+					"sale_price": 19300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-13T16:00:07+09:00"
+				"last_opened_episode_date": "2023-04-14T16:00:08+09:00"
 			},
 			"categories": [
 				{
