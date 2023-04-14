@@ -2847,7 +2847,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 0
+					"count": 1
 				},
 				{
 					"rating": 2,
@@ -12635,7 +12635,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5717
+					"count": 5718
 				}
 			],
 			"ridiselect": false,
@@ -13745,11 +13745,11 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 188
+					"count": 187
 				},
 				{
 					"rating": 2,
-					"count": 107
+					"count": 108
 				},
 				{
 					"rating": 3,
