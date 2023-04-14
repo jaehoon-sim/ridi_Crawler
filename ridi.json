@@ -2855,15 +2855,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 9
+					"count": 10
 				},
 				{
 					"rating": 4,
-					"count": 71
+					"count": 75
 				},
 				{
 					"rating": 5,
-					"count": 2020
+					"count": 2190
 				}
 			],
 			"ridiselect": false,
@@ -4440,7 +4440,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47790
+					"count": 47791
 				}
 			],
 			"ridiselect": false,
@@ -4616,7 +4616,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 17
+					"count": 18
 				},
 				{
 					"rating": 4,
@@ -4624,7 +4624,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2735
+					"count": 2728
 				}
 			],
 			"ridiselect": false,
