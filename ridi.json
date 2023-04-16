@@ -821,13 +821,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-04-13T23:55:00+09:00",
-					"closing_date": "2023-04-16T23:59:59+09:00"
+					"opening_date": "2023-04-13T00:00:00+09:00",
+					"closing_date": "2033-04-14T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -875,23 +875,23 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 0
+					"count": 1
 				},
 				{
 					"rating": 2,
-					"count": 3
+					"count": 4
 				},
 				{
 					"rating": 3,
-					"count": 31
+					"count": 39
 				},
 				{
 					"rating": 4,
-					"count": 249
+					"count": 266
 				},
 				{
 					"rating": 5,
-					"count": 4625
+					"count": 4960
 				}
 			],
 			"ridiselect": false,
@@ -1811,7 +1811,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47831
+					"count": 47833
 				}
 			],
 			"ridiselect": false,
@@ -2462,16 +2462,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239016193/small#1",
-					"large": "https://img.ridicdn.net/cover/1239016193/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239016193/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239016194/small#1",
+					"large": "https://img.ridicdn.net/cover/1239016194/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239016194/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 121,
+				"total": 122,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2500,15 +2500,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11800,
-					"sale_price": 11800,
+					"full_price": 11900,
+					"sale_price": 11900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-14T07:00:19+09:00"
+				"last_opened_episode_date": "2023-04-17T00:02:15+09:00"
 			},
 			"categories": [
 				{
@@ -2559,6 +2559,17 @@
 			"link": "https://ridibooks.com/books/1239015403"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -12401,7 +12412,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3607
+					"count": 3608
 				}
 			],
 			"ridiselect": false,
@@ -15639,16 +15650,16 @@
 				"title": "쓰레기를 치웠더니 흑막이 꼬여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1962110614/small#1",
-					"large": "https://img.ridicdn.net/cover/1962110614/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1962110614/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1962110615/small#1",
+					"large": "https://img.ridicdn.net/cover/1962110615/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1962110615/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1044,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 120,
+				"total": 121,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -15677,15 +15688,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11700,
-					"sale_price": 11700,
+					"full_price": 11800,
+					"sale_price": 11800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-16T00:01:56+09:00"
+				"last_opened_episode_date": "2023-04-17T00:01:40+09:00"
 			},
 			"categories": [
 				{
