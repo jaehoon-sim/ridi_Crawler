@@ -894,15 +894,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 18
+					"count": 20
 				},
 				{
 					"rating": 4,
-					"count": 200
+					"count": 202
 				},
 				{
 					"rating": 5,
-					"count": 3757
+					"count": 3809
 				}
 			],
 			"ridiselect": false,
@@ -3870,7 +3870,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 422
+					"count": 423
 				},
 				{
 					"rating": 5,
@@ -6571,16 +6571,16 @@
 				"title": "악역이 나를 탐내는 이유",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049036613/small#1",
-					"large": "https://img.ridicdn.net/cover/3049036613/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049036613/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049036614/small#1",
+					"large": "https://img.ridicdn.net/cover/3049036614/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049036614/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 84,
+				"total": 85,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6609,15 +6609,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8100,
-					"sale_price": 8100,
+					"full_price": 8200,
+					"sale_price": 8200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-15T18:01:27+09:00"
+				"last_opened_episode_date": "2023-04-16T18:02:46+09:00"
 			},
 			"categories": [
 				{
@@ -7598,7 +7598,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2920
+					"count": 2921
 				}
 			],
 			"ridiselect": false,
@@ -7778,7 +7778,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 163
+					"count": 162
 				},
 				{
 					"rating": 5,
@@ -10585,17 +10585,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -12239,7 +12228,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2208
+					"count": 2209
 				}
 			],
 			"ridiselect": false,
@@ -14458,7 +14447,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2744
+					"count": 2745
 				}
 			],
 			"ridiselect": false,
@@ -15194,7 +15183,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2813
+					"count": 2814
 				}
 			],
 			"ridiselect": false,
