@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4863
+					"count": 4857
 				}
 			],
 			"ridiselect": false,
@@ -902,7 +902,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2950
+					"count": 2949
 				}
 			],
 			"ridiselect": false,
@@ -1270,7 +1270,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47850
+					"count": 47853
 				}
 			],
 			"ridiselect": false,
@@ -2701,16 +2701,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239016194/small#1",
-					"large": "https://img.ridicdn.net/cover/1239016194/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239016194/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239016195/small#1",
+					"large": "https://img.ridicdn.net/cover/1239016195/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239016195/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 122,
+				"total": 123,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2739,15 +2739,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11900,
-					"sale_price": 11900,
+					"full_price": 12000,
+					"sale_price": 12000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-17T00:02:15+09:00"
+				"last_opened_episode_date": "2023-04-18T00:13:31+09:00"
 			},
 			"categories": [
 				{
@@ -3675,13 +3675,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-04-12T23:55:00+09:00",
-					"closing_date": "2023-04-17T23:59:59+09:00"
+					"opening_date": "2021-06-25T00:00:00+09:00",
+					"closing_date": "2031-06-28T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -5629,7 +5629,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2781
+					"count": 2775
 				}
 			],
 			"ridiselect": false,
@@ -8834,7 +8834,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3377
+					"count": 3375
 				}
 			],
 			"ridiselect": false,
@@ -12219,11 +12219,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 367
+					"count": 368
 				},
 				{
 					"rating": 5,
-					"count": 4134
+					"count": 4133
 				}
 			],
 			"ridiselect": false,
@@ -13695,7 +13695,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3312
+					"count": 3313
 				}
 			],
 			"ridiselect": false,
