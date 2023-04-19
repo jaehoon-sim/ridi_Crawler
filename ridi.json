@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 6912
+					"count": 6915
 				}
 			],
 			"ridiselect": false,
@@ -4820,17 +4820,6 @@
 			"link": "https://ridibooks.com/books/2259007283"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -11075,7 +11064,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2915
+					"count": 2916
 				}
 			],
 			"ridiselect": false,
