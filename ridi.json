@@ -1303,7 +1303,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4206
+					"count": 4207
 				}
 			],
 			"ridiselect": false,
@@ -1803,16 +1803,16 @@
 				"title": "집착당하면 파멸합니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012228/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012228/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012228/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012282/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012282/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012282/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 255,
+				"total": 256,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1841,15 +1841,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 25200,
-					"sale_price": 25200,
+					"full_price": 25300,
+					"sale_price": 25300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-19T11:00:08+09:00"
+				"last_opened_episode_date": "2023-04-20T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -3450,11 +3450,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 103
+					"count": 104
 				},
 				{
 					"rating": 5,
-					"count": 2179
+					"count": 2197
 				}
 			],
 			"ridiselect": false,
@@ -3844,7 +3844,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 47877
+					"count": 47878
 				}
 			],
 			"ridiselect": false,
@@ -4211,7 +4211,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 47
+					"count": 48
 				},
 				{
 					"rating": 3,
@@ -4223,7 +4223,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 8500
+					"count": 8502
 				}
 			],
 			"ridiselect": false,
@@ -5860,16 +5860,16 @@
 				"title": "라스트 아틀란티스",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213012941/small#1",
-					"large": "https://img.ridicdn.net/cover/2213012941/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213012941/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213012959/small#1",
+					"large": "https://img.ridicdn.net/cover/2213012959/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213012959/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1528,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 121,
+				"total": 122,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5898,15 +5898,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11800,
-					"sale_price": 11800,
+					"full_price": 11900,
+					"sale_price": 11900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-19T11:00:07+09:00"
+				"last_opened_episode_date": "2023-04-20T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -6640,16 +6640,16 @@
 				"title": "물 만난 드래곤의 집착이 곤란하다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012291/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012291/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012291/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012299/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012299/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012299/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 133,
+				"total": 134,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6678,15 +6678,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13000,
-					"sale_price": 13000,
+					"full_price": 13100,
+					"sale_price": 13100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-19T11:00:07+09:00"
+				"last_opened_episode_date": "2023-04-20T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -8738,16 +8738,16 @@
 				"title": "쇼윈도 스캔들",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012287/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012287/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012287/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012293/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012293/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012293/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1094,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 117,
+				"total": 118,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8776,15 +8776,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11400,
-					"sale_price": 11400,
+					"full_price": 11500,
+					"sale_price": 11500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-19T11:00:07+09:00"
+				"last_opened_episode_date": "2023-04-20T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -10144,7 +10144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2923
+					"count": 2924
 				}
 			],
 			"ridiselect": false,
@@ -11380,16 +11380,16 @@
 				"title": "죽여 줘, 나를",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012255/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012255/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012255/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012256/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012256/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012256/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 85,
+				"total": 86,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11418,15 +11418,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8200,
-					"sale_price": 8200,
+					"full_price": 8300,
+					"sale_price": 8300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-19T11:00:08+09:00"
+				"last_opened_episode_date": "2023-04-20T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -12160,16 +12160,16 @@
 				"title": "좀비 카페 사장은 S급 힐러입니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012269/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012269/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012269/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012270/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012270/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012270/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 73,
+				"total": 74,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -12198,15 +12198,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7000,
-					"sale_price": 7000,
+					"full_price": 7100,
+					"sale_price": 7100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-19T11:00:07+09:00"
+				"last_opened_episode_date": "2023-04-20T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -16759,7 +16759,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 7
+					"count": 8
 				},
 				{
 					"rating": 3,
