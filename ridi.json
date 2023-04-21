@@ -714,7 +714,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 162
+					"count": 163
 				},
 				{
 					"rating": 5,
@@ -828,16 +828,16 @@
 				"title": "나를 사랑하지 않은 죄",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012317/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012317/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012317/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012324/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012324/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012324/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 136,
+				"total": 138,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -866,15 +866,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13300,
-					"sale_price": 13300,
+					"full_price": 13500,
+					"sale_price": 13500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-21T13:00:23+09:00"
+				"last_opened_episode_date": "2023-04-21T13:25:10+09:00"
 			},
 			"categories": [
 				{
@@ -7818,16 +7818,16 @@
 				"title": "나를 사랑하지 않은 죄(15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012322/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012322/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012322/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012326/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012326/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012326/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 136,
+				"total": 138,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7856,15 +7856,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13300,
-					"sale_price": 13300,
+					"full_price": 13500,
+					"sale_price": 13500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-21T13:00:20+09:00"
+				"last_opened_episode_date": "2023-04-21T13:25:11+09:00"
 			},
 			"categories": [
 				{
