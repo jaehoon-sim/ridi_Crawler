@@ -59,9 +59,9 @@
 				"title": "품격을 배반한다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4688000001/small#1",
-					"large": "https://img.ridicdn.net/cover/4688000001/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4688000001/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4688000136/small#1",
+					"large": "https://img.ridicdn.net/cover/4688000136/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4688000136/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
@@ -69,7 +69,7 @@
 				},
 				"episode": 1,
 				"total": 131,
-				"completion": true,
+				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
 				},
@@ -2473,7 +2473,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3779
+					"count": 3780
 				}
 			],
 			"ridiselect": false,
@@ -4212,7 +4212,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2824
+					"count": 2823
 				}
 			],
 			"ridiselect": false,
