@@ -3644,7 +3644,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2960
+					"count": 2959
 				}
 			],
 			"ridiselect": false,
@@ -6470,16 +6470,16 @@
 				"title": "엔딩을 위한 남주를 찾고 있습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211042546/small#1",
-					"large": "https://img.ridicdn.net/cover/211042546/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211042546/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211042550/small#1",
+					"large": "https://img.ridicdn.net/cover/211042550/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211042550/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1598,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 75,
+				"total": 76,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6508,15 +6508,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7100,
-					"sale_price": 7100,
+					"full_price": 7200,
+					"sale_price": 7200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-27T07:00:12+09:00"
+				"last_opened_episode_date": "2023-04-27T07:20:06+09:00"
 			},
 			"categories": [
 				{
