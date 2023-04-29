@@ -140,11 +140,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 169
+					"count": 170
 				},
 				{
 					"rating": 5,
-					"count": 1760
+					"count": 1768
 				}
 			],
 			"ridiselect": false,
@@ -534,7 +534,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2964
+					"count": 2963
 				}
 			],
 			"ridiselect": false,
@@ -1303,7 +1303,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3778
+					"count": 3779
 				}
 			],
 			"ridiselect": false,
@@ -1471,7 +1471,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 36
+					"count": 37
 				},
 				{
 					"rating": 2,
@@ -1487,7 +1487,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4212
+					"count": 4211
 				}
 			],
 			"ridiselect": false,
@@ -2061,7 +2061,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3010
+					"count": 3012
 				}
 			],
 			"ridiselect": false,
@@ -2245,7 +2245,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1857
+					"count": 1864
 				}
 			],
 			"ridiselect": false,
@@ -7642,16 +7642,16 @@
 				"title": "가이드학개론",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2313023312/small#1",
-					"large": "https://img.ridicdn.net/cover/2313023312/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2313023312/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2313023319/small#1",
+					"large": "https://img.ridicdn.net/cover/2313023319/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2313023319/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1033,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 83,
+				"total": 84,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7680,15 +7680,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8000,
-					"sale_price": 8000,
+					"full_price": 8100,
+					"sale_price": 8100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-28T12:00:08+09:00"
+				"last_opened_episode_date": "2023-04-29T12:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -8114,7 +8114,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2912
+					"count": 2913
 				}
 			],
 			"ridiselect": false,
