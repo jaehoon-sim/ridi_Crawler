@@ -902,7 +902,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2960
+					"count": 2959
 				}
 			],
 			"ridiselect": false,
@@ -1086,7 +1086,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48054
+					"count": 48055
 				}
 			],
 			"ridiselect": false,
@@ -2025,7 +2025,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2697
+					"count": 2696
 				}
 			],
 			"ridiselect": false,
@@ -2967,7 +2967,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3835
+					"count": 3836
 				}
 			],
 			"ridiselect": false,
@@ -3445,16 +3445,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239016230/small#1",
-					"large": "https://img.ridicdn.net/cover/1239016230/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239016230/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239016231/small#1",
+					"large": "https://img.ridicdn.net/cover/1239016231/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239016231/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 131,
+				"total": 132,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3483,15 +3483,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12800,
-					"sale_price": 12800,
+					"full_price": 12900,
+					"sale_price": 12900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-01T00:07:34+09:00"
+				"last_opened_episode_date": "2023-05-02T00:00:42+09:00"
 			},
 			"categories": [
 				{
@@ -4868,7 +4868,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2905
+					"count": 2907
 				}
 			],
 			"ridiselect": false,
