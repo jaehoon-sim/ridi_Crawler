@@ -17049,9 +17049,9 @@
 				"title": "첫눈에 반했어요, 흑막님!",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3846012775/small#1",
-					"large": "https://img.ridicdn.net/cover/3846012775/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3846012775/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3846013115/small#1",
+					"large": "https://img.ridicdn.net/cover/3846013115/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3846013115/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 859,
@@ -17059,7 +17059,7 @@
 				},
 				"episode": 1,
 				"total": 127,
-				"completion": true,
+				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
 				},
