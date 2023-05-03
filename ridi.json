@@ -2462,7 +2462,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48093
+					"count": 48094
 				}
 			],
 			"ridiselect": false,
@@ -2646,7 +2646,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2965
+					"count": 2966
 				}
 			],
 			"ridiselect": false,
@@ -5514,7 +5514,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2941
+					"count": 2940
 				}
 			],
 			"ridiselect": false,
@@ -7634,7 +7634,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2687
+					"count": 2686
 				}
 			],
 			"ridiselect": false,
@@ -8392,7 +8392,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 6
+					"count": 8
 				},
 				{
 					"rating": 4,
@@ -8400,7 +8400,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2861
+					"count": 2836
 				}
 			],
 			"ridiselect": false,
@@ -14061,7 +14061,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3302
+					"count": 3299
 				}
 			],
 			"ridiselect": false,
@@ -14745,16 +14745,16 @@
 				"title": "낯선 공작에게 내 불행을 팔았다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2107117115/small#1",
-					"large": "https://img.ridicdn.net/cover/2107117115/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2107117115/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2107117130/small#1",
+					"large": "https://img.ridicdn.net/cover/2107117130/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2107117130/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1150,
 					"width": 800
 				},
 				"episode": 1,
-				"total": 99,
+				"total": 100,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -14783,15 +14783,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9600,
-					"sale_price": 9600,
+					"full_price": 9700,
+					"sale_price": 9700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-02T19:27:39+09:00"
+				"last_opened_episode_date": "2023-05-03T18:23:01+09:00"
 			},
 			"categories": [
 				{
