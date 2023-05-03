@@ -729,7 +729,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2963
+					"count": 2962
 				}
 			],
 			"ridiselect": false,
@@ -2263,11 +2263,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 238
+					"count": 239
 				},
 				{
 					"rating": 5,
-					"count": 2481
+					"count": 2499
 				}
 			],
 			"ridiselect": false,
@@ -2642,7 +2642,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 195
+					"count": 196
 				},
 				{
 					"rating": 5,
@@ -17965,17 +17965,6 @@
 			"link": "https://ridibooks.com/books/961065672"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
