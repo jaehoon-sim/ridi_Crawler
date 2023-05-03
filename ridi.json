@@ -128,7 +128,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 77
+					"count": 76
 				},
 				{
 					"rating": 2,
@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 8720
+					"count": 8721
 				}
 			],
 			"ridiselect": false,
@@ -729,7 +729,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2966
+					"count": 2963
 				}
 			],
 			"ridiselect": false,
@@ -1131,17 +1131,6 @@
 			"link": "https://ridibooks.com/books/2259009252"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -2278,7 +2267,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2405
+					"count": 2427
 				}
 			],
 			"ridiselect": false,
@@ -2473,7 +2462,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48091
+					"count": 48093
 				}
 			],
 			"ridiselect": false,
@@ -4234,7 +4223,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2927
+					"count": 2928
 				}
 			],
 			"ridiselect": false,
@@ -6695,7 +6684,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2885
+					"count": 2886
 				}
 			],
 			"ridiselect": false,
@@ -6794,16 +6783,16 @@
 				"title": "라스트 아틀란티스",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213013024/small#1",
-					"large": "https://img.ridicdn.net/cover/2213013024/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213013024/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213013029/small#1",
+					"large": "https://img.ridicdn.net/cover/2213013029/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213013029/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1528,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 130,
+				"total": 131,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6832,15 +6821,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12700,
-					"sale_price": 12700,
+					"full_price": 12800,
+					"sale_price": 12800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-02T11:01:02+09:00"
+				"last_opened_episode_date": "2023-05-03T11:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -7173,16 +7162,16 @@
 				"title": "물 만난 드래곤의 집착이 곤란하다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012400/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012400/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012400/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012402/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012402/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012402/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 142,
+				"total": 143,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7211,15 +7200,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13900,
-					"sale_price": 13900,
+					"full_price": 14000,
+					"sale_price": 14000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-02T11:00:08+09:00"
+				"last_opened_episode_date": "2023-05-03T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -10112,7 +10101,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 4
+					"count": 5
 				},
 				{
 					"rating": 2,
@@ -10617,16 +10606,16 @@
 				"title": "검은 요정이 당신을 부를 때",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012365/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012365/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012365/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012384/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012384/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012384/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 83,
+				"total": 84,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10655,15 +10644,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8000,
-					"sale_price": 8000,
+					"full_price": 8100,
+					"sale_price": 8100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-04-30T11:00:09+09:00"
+				"last_opened_episode_date": "2023-05-03T11:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -10714,6 +10703,17 @@
 			"link": "https://ridibooks.com/books/2259011723"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -12100,16 +12100,16 @@
 				"title": "좀비 카페 사장은 S급 힐러입니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012358/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012358/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012358/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012359/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012359/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012359/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 82,
+				"total": 83,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -12138,15 +12138,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7900,
-					"sale_price": 7900,
+					"full_price": 8000,
+					"sale_price": 8000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-02T11:00:07+09:00"
+				"last_opened_episode_date": "2023-05-03T11:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -14050,7 +14050,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3309
+					"count": 3306
 				}
 			],
 			"ridiselect": false,
@@ -14528,16 +14528,16 @@
 				"title": "죽여 줘, 나를",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012355/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012355/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012355/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012356/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012356/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012356/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 94,
+				"total": 95,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -14566,15 +14566,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9100,
-					"sale_price": 9100,
+					"full_price": 9200,
+					"sale_price": 9200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-02T11:00:07+09:00"
+				"last_opened_episode_date": "2023-05-03T11:00:08+09:00"
 			},
 			"categories": [
 				{
