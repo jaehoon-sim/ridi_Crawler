@@ -254,16 +254,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120064536/small#1",
-					"large": "https://img.ridicdn.net/cover/120064536/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120064536/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120064561/small#1",
+					"large": "https://img.ridicdn.net/cover/120064561/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120064561/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 189,
+				"total": 190,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -292,15 +292,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 18600,
-					"sale_price": 18600,
+					"full_price": 18700,
+					"sale_price": 18700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-02T19:00:08+09:00"
+				"last_opened_episode_date": "2023-05-03T19:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -729,7 +729,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2963
+					"count": 2966
 				}
 			],
 			"ridiselect": false,
@@ -1402,16 +1402,16 @@
 				"title": "나의 상냥한 빌런에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369006068/small#1",
-					"large": "https://img.ridicdn.net/cover/2369006068/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369006068/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369006072/small#1",
+					"large": "https://img.ridicdn.net/cover/2369006072/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369006072/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 172,
+				"total": 173,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1440,15 +1440,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 16800,
-					"sale_price": 16800,
+					"full_price": 16900,
+					"sale_price": 16900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-02T19:00:58+09:00"
+				"last_opened_episode_date": "2023-05-03T19:00:22+09:00"
 			},
 			"categories": [
 				{
@@ -2263,11 +2263,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 239
+					"count": 240
 				},
 				{
 					"rating": 5,
-					"count": 2517
+					"count": 2536
 				}
 			],
 			"ridiselect": false,
@@ -5135,7 +5135,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2667
+					"count": 2644
 				}
 			],
 			"ridiselect": false,
@@ -5819,16 +5819,16 @@
 				"title": "도망친 시녀는 대마법사의 사랑을 받는다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2719002513/small#1",
-					"large": "https://img.ridicdn.net/cover/2719002513/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2719002513/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2719002514/small#1",
+					"large": "https://img.ridicdn.net/cover/2719002514/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2719002514/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 71,
+				"total": 72,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5857,15 +5857,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6800,
-					"sale_price": 6800,
+					"full_price": 6900,
+					"sale_price": 6900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-02T19:00:07+09:00"
+				"last_opened_episode_date": "2023-05-03T19:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -6099,7 +6099,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2854
+					"count": 2855
 				}
 			],
 			"ridiselect": false,
@@ -6684,7 +6684,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2886
+					"count": 2887
 				}
 			],
 			"ridiselect": false,
@@ -8400,7 +8400,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2836
+					"count": 2811
 				}
 			],
 			"ridiselect": false,
@@ -17047,11 +17047,11 @@
 				},
 				{
 					"rating": 3,
-					"count": 35
+					"count": 34
 				},
 				{
 					"rating": 4,
-					"count": 272
+					"count": 273
 				},
 				{
 					"rating": 5,
@@ -17791,7 +17791,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3324
+					"count": 3325
 				}
 			],
 			"ridiselect": false,
