@@ -1987,16 +1987,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211042421/small#1",
-					"large": "https://img.ridicdn.net/cover/211042421/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211042421/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211042422/small#1",
+					"large": "https://img.ridicdn.net/cover/211042422/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211042422/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 524,
+				"total": 525,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2025,15 +2025,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 51800,
-					"sale_price": 51800,
+					"full_price": 51900,
+					"sale_price": 51900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-05T00:00:42+09:00"
+				"last_opened_episode_date": "2023-05-06T00:00:24+09:00"
 			},
 			"categories": [
 				{
@@ -2392,13 +2392,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-05-02T23:55:00+09:00",
-					"closing_date": "2023-05-05T23:59:59+09:00"
+					"opening_date": "2023-05-02T00:00:00+09:00",
+					"closing_date": "2033-05-03T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -2454,15 +2454,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 5
+					"count": 7
 				},
 				{
 					"rating": 4,
-					"count": 128
+					"count": 131
 				},
 				{
 					"rating": 5,
-					"count": 2451
+					"count": 2797
 				}
 			],
 			"ridiselect": false,
@@ -2669,17 +2669,6 @@
 			"link": "https://ridibooks.com/books/1239015403"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -5143,7 +5132,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2932
+					"count": 2931
 				}
 			],
 			"ridiselect": false,
@@ -13337,7 +13326,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 1124
+					"count": 1125
 				},
 				{
 					"rating": 5,
