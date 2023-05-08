@@ -512,7 +512,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3229
+					"count": 3196
 				}
 			],
 			"ridiselect": false,
@@ -707,7 +707,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 8850
+					"count": 8851
 				}
 			],
 			"ridiselect": false,
@@ -1654,7 +1654,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 7023
+					"count": 7024
 				}
 			],
 			"ridiselect": false,
@@ -1955,16 +1955,16 @@
 				"title": "나의 상냥한 빌런에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369006076/small#1",
-					"large": "https://img.ridicdn.net/cover/2369006076/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369006076/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369006079/small#1",
+					"large": "https://img.ridicdn.net/cover/2369006079/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369006079/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 175,
+				"total": 176,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1993,15 +1993,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 17100,
-					"sale_price": 17100,
+					"full_price": 17200,
+					"sale_price": 17200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-05T19:00:05+09:00"
+				"last_opened_episode_date": "2023-05-08T19:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -2052,6 +2052,17 @@
 			"link": "https://ridibooks.com/books/2369005517"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -2771,11 +2782,11 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 2
+					"count": 3
 				},
 				{
 					"rating": 2,
-					"count": 2
+					"count": 1
 				},
 				{
 					"rating": 3,
@@ -3193,7 +3204,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4418
+					"count": 4419
 				}
 			],
 			"ridiselect": false,
@@ -4235,16 +4246,16 @@
 				"title": "도망친 시녀는 대마법사의 사랑을 받는다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2719002516/small#1",
-					"large": "https://img.ridicdn.net/cover/2719002516/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2719002516/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2719002517/small#1",
+					"large": "https://img.ridicdn.net/cover/2719002517/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2719002517/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 74,
+				"total": 75,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4273,15 +4284,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7100,
-					"sale_price": 7100,
+					"full_price": 7200,
+					"sale_price": 7200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-05T19:00:07+09:00"
+				"last_opened_episode_date": "2023-05-08T19:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -4332,6 +4343,17 @@
 			"link": "https://ridibooks.com/books/2719002421"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -5466,7 +5488,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 88
+					"count": 89
 				},
 				{
 					"rating": 2,
