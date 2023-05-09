@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2915
+					"count": 2914
 				}
 			],
 			"ridiselect": false,
@@ -534,7 +534,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2983
+					"count": 2982
 				}
 			],
 			"ridiselect": false,
@@ -828,16 +828,16 @@
 				"title": "죽여 줘, 나를",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012392/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012392/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012392/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012393/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012393/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012393/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 98,
+				"total": 99,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -866,15 +866,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9500,
-					"sale_price": 9500,
+					"full_price": 9600,
+					"sale_price": 9600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-08T11:00:07+09:00"
+				"last_opened_episode_date": "2023-05-09T11:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -1682,7 +1682,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48220
+					"count": 48222
 				}
 			],
 			"ridiselect": false,
@@ -2824,7 +2824,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 7029
+					"count": 7030
 				}
 			],
 			"ridiselect": false,
@@ -4386,7 +4386,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2582
+					"count": 2581
 				}
 			],
 			"ridiselect": false,
@@ -4993,7 +4993,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4419
+					"count": 4420
 				}
 			],
 			"ridiselect": false,
@@ -5098,16 +5098,16 @@
 				"title": "물 만난 드래곤의 집착이 곤란하다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012418/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012418/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012418/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012420/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012420/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012420/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 146,
+				"total": 147,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5136,8 +5136,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 14300,
-					"sale_price": 14300,
+					"full_price": 14400,
+					"sale_price": 14400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -5155,7 +5155,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-08T11:00:06+09:00"
+				"last_opened_episode_date": "2023-05-09T11:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -5690,16 +5690,16 @@
 				"title": "라스트 아틀란티스",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213013096/small#1",
-					"large": "https://img.ridicdn.net/cover/2213013096/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213013096/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213013110/small#1",
+					"large": "https://img.ridicdn.net/cover/2213013110/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213013110/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1528,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 134,
+				"total": 135,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5728,15 +5728,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13100,
-					"sale_price": 13100,
+					"full_price": 13200,
+					"sale_price": 13200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-08T11:00:07+09:00"
+				"last_opened_episode_date": "2023-05-09T11:02:36+09:00"
 			},
 			"categories": [
 				{
@@ -7475,7 +7475,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3144
+					"count": 3143
 				}
 			],
 			"ridiselect": false,
@@ -8634,7 +8634,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2671
+					"count": 2670
 				}
 			],
 			"ridiselect": false,
@@ -11740,7 +11740,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2931
+					"count": 2930
 				}
 			],
 			"ridiselect": false,
@@ -13424,7 +13424,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3274
+					"count": 3273
 				}
 			],
 			"ridiselect": false,
@@ -14353,7 +14353,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2755
+					"count": 2754
 				}
 			],
 			"ridiselect": false,
@@ -16243,7 +16243,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2232
+					"count": 2233
 				}
 			],
 			"ridiselect": false,
@@ -17307,16 +17307,16 @@
 				"title": "좀비 카페 사장은 S급 힐러입니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012403/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012403/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012403/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012404/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012404/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012404/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 86,
+				"total": 87,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -17345,15 +17345,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8300,
-					"sale_price": 8300,
+					"full_price": 8400,
+					"sale_price": 8400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-08T11:00:06+09:00"
+				"last_opened_episode_date": "2023-05-09T11:00:08+09:00"
 			},
 			"categories": [
 				{
