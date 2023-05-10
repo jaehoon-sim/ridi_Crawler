@@ -49,7 +49,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -88,7 +93,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -103,8 +108,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:13+09:00"
 			},
 			"categories": [
@@ -182,11 +198,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -244,7 +261,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -283,7 +305,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -298,8 +320,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T19:00:08+09:00"
 			},
 			"categories": [
@@ -377,11 +410,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -526,15 +560,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 9
+					"count": 11
 				},
 				{
 					"rating": 4,
-					"count": 47
+					"count": 51
 				},
 				{
 					"rating": 5,
-					"count": 1375
+					"count": 1420
 				}
 			],
 			"ridiselect": false,
@@ -634,7 +668,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -673,7 +712,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -688,8 +727,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:14+09:00"
 			},
 			"categories": [
@@ -767,11 +817,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -829,7 +880,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -868,7 +924,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -883,8 +939,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T18:00:08+09:00"
 			},
 			"categories": [
@@ -962,11 +1029,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -1024,7 +1092,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -1063,7 +1136,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -1078,8 +1151,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:12+09:00"
 			},
 			"categories": [
@@ -1157,11 +1241,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -1403,7 +1488,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -1442,7 +1532,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -1457,8 +1547,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-05T07:00:18+09:00"
 			},
 			"categories": [
@@ -1525,11 +1626,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -1782,7 +1884,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -1821,7 +1928,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -1836,8 +1943,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:25+09:00"
 			},
 			"categories": [
@@ -1915,11 +2033,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -2002,13 +2121,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-04-30T23:55:00+09:00",
-					"closing_date": "2023-05-10T23:59:59+09:00"
+					"opening_date": "2018-08-20T11:00:00+09:00",
+					"closing_date": "2030-12-31T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -2161,7 +2280,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -2171,16 +2295,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239016239/small#1",
-					"large": "https://img.ridicdn.net/cover/1239016239/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239016239/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239016240/small#1",
+					"large": "https://img.ridicdn.net/cover/1239016240/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239016240/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 138,
+				"total": 139,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2200,7 +2324,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -2209,15 +2333,26 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13500,
-					"sale_price": 13500,
+					"full_price": 13600,
+					"sale_price": 13600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
-				"last_opened_episode_date": "2023-05-10T00:01:49+09:00"
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
+				"last_opened_episode_date": "2023-05-11T00:07:44+09:00"
 			},
 			"categories": [
 				{
@@ -2294,11 +2429,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -2451,7 +2587,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 7033
+					"count": 7034
 				}
 			],
 			"ridiselect": false,
@@ -2752,7 +2888,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -2791,7 +2932,7 @@
 				},
 				"free": {
 					"purchase": 5,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -2806,8 +2947,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:13+09:00"
 			},
 			"categories": [
@@ -2885,11 +3037,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_5.830c0ff78e35d7c8a6ec873b982ecbed.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "5화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -2947,7 +3100,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -2986,7 +3144,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -3001,8 +3159,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:13+09:00"
 			},
 			"categories": [
@@ -3080,11 +3249,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -3142,7 +3312,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -3181,7 +3356,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -3196,8 +3371,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:15+09:00"
 			},
 			"categories": [
@@ -3275,11 +3461,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -3337,7 +3524,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -3376,7 +3568,7 @@
 				},
 				"free": {
 					"purchase": 5,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -3391,8 +3583,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T18:00:13+09:00"
 			},
 			"categories": [
@@ -3470,11 +3673,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_5.830c0ff78e35d7c8a6ec873b982ecbed.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "5화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -3716,7 +3920,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -3755,7 +3964,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -3770,8 +3979,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T18:00:08+09:00"
 			},
 			"categories": [
@@ -3849,11 +4069,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -3911,7 +4132,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -3950,7 +4176,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -3965,8 +4191,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:15+09:00"
 			},
 			"categories": [
@@ -4044,11 +4281,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -4214,17 +4452,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -4301,7 +4528,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -4340,7 +4572,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -4355,8 +4587,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:14+09:00"
 			},
 			"categories": [
@@ -4434,11 +4677,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -4496,7 +4740,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -4535,7 +4784,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -4550,8 +4799,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:07+09:00"
 			},
 			"categories": [
@@ -4629,11 +4889,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -4691,7 +4952,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -4730,7 +4996,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -4745,8 +5011,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-06T07:00:09+09:00"
 			},
 			"categories": [
@@ -4813,11 +5090,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -5254,7 +5532,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -5293,7 +5576,7 @@
 				},
 				"free": {
 					"purchase": 4,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -5308,8 +5591,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:01:45+09:00"
 			},
 			"categories": [
@@ -5387,11 +5681,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_4.fc72b7b8ac4ec20e246d4e8ce90f87c3.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "4화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -5449,7 +5744,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -5488,7 +5788,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -5503,8 +5803,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:14+09:00"
 			},
 			"categories": [
@@ -5582,11 +5893,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -6402,7 +6714,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -6441,7 +6758,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -6456,8 +6773,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T11:00:08+09:00"
 			},
 			"categories": [
@@ -6535,11 +6863,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -6965,7 +7294,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -7004,7 +7338,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -7019,8 +7353,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T19:00:07+09:00"
 			},
 			"categories": [
@@ -7098,11 +7443,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -7355,7 +7701,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -7394,7 +7745,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -7409,8 +7760,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-03T07:00:08+09:00"
 			},
 			"categories": [
@@ -7477,11 +7839,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -8944,7 +9307,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2917
+					"count": 2918
 				}
 			],
 			"ridiselect": false,
@@ -9033,7 +9396,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -9072,7 +9440,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -9087,8 +9455,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2021-09-16T11:04:14+09:00"
 			},
 			"categories": [
@@ -9155,11 +9534,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -9585,7 +9965,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -9624,7 +10009,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -9639,8 +10024,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:15+09:00"
 			},
 			"categories": [
@@ -9718,11 +10114,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -9964,7 +10361,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -10003,7 +10405,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -10018,8 +10420,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:13+09:00"
 			},
 			"categories": [
@@ -10105,11 +10518,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -10262,7 +10676,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5743
+					"count": 5744
 				}
 			],
 			"ridiselect": false,
@@ -10730,7 +11144,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -10769,7 +11188,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -10784,8 +11203,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-02T07:00:18+09:00"
 			},
 			"categories": [
@@ -10852,11 +11282,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -10914,7 +11345,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -10953,7 +11389,7 @@
 				},
 				"free": {
 					"purchase": 5,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -10968,8 +11404,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:09+09:00"
 			},
 			"categories": [
@@ -11055,11 +11502,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_5.830c0ff78e35d7c8a6ec873b982ecbed.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "5화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -11156,7 +11604,7 @@
 				},
 				"free": {
 					"purchase": 4,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -11171,8 +11619,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:24+09:00"
 			},
 			"categories": [
@@ -11250,11 +11709,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_4.fc72b7b8ac4ec20e246d4e8ce90f87c3.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "4화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -12029,7 +12489,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -12068,7 +12533,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -12083,8 +12548,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-09T18:00:09+09:00"
 			},
 			"categories": [
@@ -12151,11 +12627,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -12765,7 +13242,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -12804,7 +13286,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -12819,8 +13301,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:07+09:00"
 			},
 			"categories": [
@@ -12898,11 +13391,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -13328,7 +13822,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -13367,7 +13866,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -13382,8 +13881,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:25+09:00"
 			},
 			"categories": [
@@ -13461,11 +13971,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -13523,7 +14034,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -13562,7 +14078,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -13577,8 +14093,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:14+09:00"
 			},
 			"categories": [
@@ -13664,11 +14191,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -13910,7 +14438,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -13949,7 +14482,7 @@
 				},
 				"free": {
 					"purchase": 5,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -13964,8 +14497,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2021-01-15T16:00:36+09:00"
 			},
 			"categories": [
@@ -14032,11 +14576,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_5.830c0ff78e35d7c8a6ec873b982ecbed.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "5화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -14094,7 +14639,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -14133,7 +14683,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -14148,8 +14698,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T11:00:08+09:00"
 			},
 			"categories": [
@@ -14227,11 +14788,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -14668,7 +15230,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -14707,7 +15274,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -14722,8 +15289,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T17:00:08+09:00"
 			},
 			"categories": [
@@ -14801,11 +15379,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -15429,7 +16008,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -15468,7 +16052,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -15483,8 +16067,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2020-10-30T07:01:37+09:00"
 			},
 			"categories": [
@@ -15551,11 +16146,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -15613,7 +16209,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -15652,7 +16253,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -15667,8 +16268,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-07T16:00:08+09:00"
 			},
 			"categories": [
@@ -15735,11 +16347,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -15797,7 +16410,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -15836,7 +16454,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -15851,8 +16469,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2021-05-01T07:02:37+09:00"
 			},
 			"categories": [
@@ -15919,11 +16548,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -16165,7 +16795,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -16204,7 +16839,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -16219,8 +16854,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T11:00:08+09:00"
 			},
 			"categories": [
@@ -16298,11 +16944,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -16544,7 +17191,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -16583,7 +17235,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -16598,8 +17250,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T18:00:08+09:00"
 			},
 			"categories": [
@@ -16677,11 +17340,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -17107,7 +17771,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -17146,7 +17815,7 @@
 				},
 				"free": {
 					"purchase": 5,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -17161,8 +17830,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2022-01-18T07:00:41+09:00"
 			},
 			"categories": [
@@ -17229,11 +17909,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_5.830c0ff78e35d7c8a6ec873b982ecbed.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "5화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -17291,7 +17972,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -17330,7 +18016,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -17345,8 +18031,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-03-10T00:00:54+09:00"
 			},
 			"categories": [
@@ -17413,11 +18110,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -17475,7 +18173,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -17514,7 +18217,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -17529,8 +18232,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2022-09-02T11:00:28+09:00"
 			},
 			"categories": [
@@ -17597,11 +18311,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -17659,7 +18374,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -17698,7 +18418,7 @@
 				},
 				"free": {
 					"purchase": 5,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -17713,8 +18433,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T18:00:08+09:00"
 			},
 			"categories": [
@@ -17792,11 +18523,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_5.830c0ff78e35d7c8a6ec873b982ecbed.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "5화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -17854,7 +18586,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -17893,7 +18630,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -17908,8 +18645,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-04-28T18:00:08+09:00"
 			},
 			"categories": [
@@ -17976,11 +18724,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -18038,7 +18787,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -18077,7 +18831,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -18092,8 +18846,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T17:00:08+09:00"
 			},
 			"categories": [
@@ -18171,11 +18936,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -18233,7 +18999,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -18272,7 +19043,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -18287,8 +19058,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:08+09:00"
 			},
 			"categories": [
@@ -18366,11 +19148,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -18428,7 +19211,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -18467,7 +19255,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -18482,8 +19270,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T18:00:10+09:00"
 			},
 			"categories": [
@@ -18561,11 +19360,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -18623,7 +19423,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -18662,7 +19467,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -18677,8 +19482,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-01-31T07:00:17+09:00"
 			},
 			"categories": [
@@ -18745,11 +19561,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -18807,7 +19624,12 @@
 				"full_price": 0,
 				"sale_price": 0
 			},
-			"rental": null,
+			"rental": {
+				"sale_price": 0,
+				"days": 3,
+				"pointback": null,
+				"full_price": 0
+			},
 			"trial": false,
 			"style": {
 				"layout": "webtoon-webnovel"
@@ -18846,7 +19668,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 0
+					"rental": 20
 				},
 				"unit": "화",
 				"purchase": {
@@ -18861,8 +19683,19 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": null,
-				"rental_all": null,
+				"rental": {
+					"max_price": 0,
+					"min_price": 0,
+					"min_price_non_zero": 0
+				},
+				"rental_all": {
+					"full_price": 0,
+					"sale_price": 0,
+					"days": null,
+					"discount_rate": null,
+					"max_discount_rate": null,
+					"min_discount_rate": null
+				},
 				"last_opened_episode_date": "2023-05-10T07:00:13+09:00"
 			},
 			"categories": [
@@ -18940,11 +19773,12 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "3화 무료",
+				"badge_text": "20화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
