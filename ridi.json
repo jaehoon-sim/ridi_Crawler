@@ -1192,7 +1192,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2283
+					"count": 2284
 				}
 			],
 			"ridiselect": false,
@@ -2388,7 +2388,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 421
+					"count": 422
 				},
 				{
 					"rating": 4,
@@ -2789,11 +2789,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 96
+					"count": 97
 				},
 				{
 					"rating": 5,
-					"count": 1920
+					"count": 1941
 				}
 			],
 			"ridiselect": false,
@@ -2980,7 +2980,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 1083
+					"count": 1082
 				},
 				{
 					"rating": 4,
@@ -2988,7 +2988,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48258
+					"count": 48261
 				}
 			],
 			"ridiselect": false,
@@ -4460,7 +4460,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2576
+					"count": 2575
 				}
 			],
 			"ridiselect": false,
@@ -6658,7 +6658,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 7038
+					"count": 7039
 				}
 			],
 			"ridiselect": false,
@@ -6762,16 +6762,16 @@
 				"title": "라스트 아틀란티스",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213013134/small#1",
-					"large": "https://img.ridicdn.net/cover/2213013134/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213013134/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213013141/small#1",
+					"large": "https://img.ridicdn.net/cover/2213013141/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213013141/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1528,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 137,
+				"total": 138,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6800,8 +6800,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13400,
-					"sale_price": 13400,
+					"full_price": 13500,
+					"sale_price": 13500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -6819,7 +6819,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-11T11:00:09+09:00"
+				"last_opened_episode_date": "2023-05-12T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -10772,16 +10772,16 @@
 				"title": "죽여 줘, 나를",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012395/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012395/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012395/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012468/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012468/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012468/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 101,
+				"total": 102,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10810,8 +10810,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9800,
-					"sale_price": 9800,
+					"full_price": 9900,
+					"sale_price": 9900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -10829,7 +10829,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-11T11:00:09+09:00"
+				"last_opened_episode_date": "2023-05-12T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -11672,7 +11672,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2033
+					"count": 2034
 				}
 			],
 			"ridiselect": false,
@@ -12180,16 +12180,16 @@
 				"title": "검은 요정이 당신을 부를 때",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012470/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012470/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012470/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012471/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012471/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012471/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 87,
+				"total": 88,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -12218,8 +12218,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8400,
-					"sale_price": 8400,
+					"full_price": 8500,
+					"sale_price": 8500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -12237,7 +12237,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-10T11:00:08+09:00"
+				"last_opened_episode_date": "2023-05-12T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -12288,6 +12288,17 @@
 			"link": "https://ridibooks.com/books/2259011723"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
