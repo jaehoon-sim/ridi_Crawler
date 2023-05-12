@@ -136,7 +136,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 198
+					"count": 197
 				},
 				{
 					"rating": 4,
@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2790
+					"count": 2791
 				}
 			],
 			"ridiselect": false,
@@ -556,7 +556,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3260
+					"count": 3259
 				}
 			],
 			"ridiselect": false,
@@ -1515,16 +1515,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211042855/small#1",
-					"large": "https://img.ridicdn.net/cover/211042855/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211042855/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211042856/small#1",
+					"large": "https://img.ridicdn.net/cover/211042856/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211042856/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 528,
+				"total": 529,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1553,15 +1553,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 52200,
-					"sale_price": 52200,
+					"full_price": 52300,
+					"sale_price": 52300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-12T00:01:29+09:00"
+				"last_opened_episode_date": "2023-05-13T00:00:20+09:00"
 			},
 			"categories": [
 				{
@@ -2723,13 +2723,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-05-09T23:55:00+09:00",
-					"closing_date": "2023-05-12T23:59:59+09:00"
+					"opening_date": "2023-05-09T00:00:00+09:00",
+					"closing_date": "2033-05-10T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -2777,7 +2777,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 3
+					"count": 4
 				},
 				{
 					"rating": 2,
@@ -2785,15 +2785,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 13
+					"count": 15
 				},
 				{
 					"rating": 4,
-					"count": 123
+					"count": 138
 				},
 				{
 					"rating": 5,
-					"count": 2435
+					"count": 2727
 				}
 			],
 			"ridiselect": false,
@@ -3200,17 +3200,6 @@
 			"link": "https://ridibooks.com/books/1239015403"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -9073,7 +9062,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 1708
+					"count": 1709
 				},
 				{
 					"rating": 5,
@@ -10375,13 +10364,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-05-09T23:55:00+09:00",
-					"closing_date": "2023-05-12T23:59:59+09:00"
+					"opening_date": "2023-05-09T00:00:00+09:00",
+					"closing_date": "2033-05-10T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -14172,16 +14161,16 @@
 				"title": "쓰레기를 치웠더니 흑막이 꼬여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1962110844/small#1",
-					"large": "https://img.ridicdn.net/cover/1962110844/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1962110844/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1962110845/small#1",
+					"large": "https://img.ridicdn.net/cover/1962110845/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1962110845/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1044,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 138,
+				"total": 139,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -14210,15 +14199,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13500,
-					"sale_price": 13500,
+					"full_price": 13600,
+					"sale_price": 13600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-12T00:01:24+09:00"
+				"last_opened_episode_date": "2023-05-13T00:00:18+09:00"
 			},
 			"categories": [
 				{
@@ -16438,7 +16427,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2047
+					"count": 2048
 				}
 			],
 			"ridiselect": false,
