@@ -140,11 +140,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 80
+					"count": 86
 				},
 				{
 					"rating": 5,
-					"count": 1626
+					"count": 1644
 				}
 			],
 			"ridiselect": false,
@@ -567,7 +567,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3260
+					"count": 3261
 				}
 			],
 			"ridiselect": false,
@@ -1796,7 +1796,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 1940
+					"count": 1941
 				},
 				{
 					"rating": 5,
@@ -1997,17 +1997,6 @@
 			"link": "https://ridibooks.com/books/2057229489"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -2777,7 +2766,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2727
+					"count": 2728
 				}
 			],
 			"ridiselect": false,
@@ -4190,17 +4179,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -5405,17 +5383,6 @@
 			"link": "https://ridibooks.com/books/2057225635"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -7475,16 +7442,16 @@
 				"title": "악역이 나를 탐내는 이유",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049037997/small#1",
-					"large": "https://img.ridicdn.net/cover/3049037997/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049037997/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049037998/small#1",
+					"large": "https://img.ridicdn.net/cover/3049037998/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049037998/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 103,
+				"total": 104,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7513,15 +7480,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10000,
-					"sale_price": 10000,
+					"full_price": 10100,
+					"sale_price": 10100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-12T18:00:07+09:00"
+				"last_opened_episode_date": "2023-05-13T18:01:26+09:00"
 			},
 			"categories": [
 				{
@@ -8753,7 +8720,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 6552
+					"count": 6553
 				}
 			],
 			"ridiselect": false,
@@ -9134,17 +9101,6 @@
 			"link": "https://ridibooks.com/books/2057229488"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -11940,17 +11896,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -12732,17 +12677,6 @@
 			"link": "https://ridibooks.com/books/2057219256"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -14662,17 +14596,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -15563,16 +15486,16 @@
 				"title": "랭커들의 원픽이 되었다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049038121/small#1",
-					"large": "https://img.ridicdn.net/cover/3049038121/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049038121/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049038122/small#1",
+					"large": "https://img.ridicdn.net/cover/3049038122/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049038122/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1404,
 					"width": 992
 				},
 				"episode": 1,
-				"total": 239,
+				"total": 240,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -15601,8 +15524,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 23600,
-					"sale_price": 23600,
+					"full_price": 23700,
+					"sale_price": 23700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -15620,7 +15543,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-12T18:00:08+09:00"
+				"last_opened_episode_date": "2023-05-13T18:00:07+09:00"
 			},
 			"categories": [
 				{
