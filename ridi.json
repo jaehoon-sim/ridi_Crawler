@@ -356,7 +356,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3746
+					"count": 3743
 				}
 			],
 			"ridiselect": false,
@@ -757,7 +757,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2857
+					"count": 2858
 				}
 			],
 			"ridiselect": false,
@@ -1170,7 +1170,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 8937
+					"count": 8939
 				}
 			],
 			"ridiselect": false,
@@ -2160,11 +2160,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 85
+					"count": 86
 				},
 				{
 					"rating": 5,
-					"count": 2077
+					"count": 2073
 				}
 			],
 			"ridiselect": false,
@@ -4149,7 +4149,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 7044
+					"count": 7045
 				}
 			],
 			"ridiselect": false,
@@ -16522,16 +16522,16 @@
 				"title": "쓰레기를 치웠더니 흑막이 꼬여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1962110994/small#1",
-					"large": "https://img.ridicdn.net/cover/1962110994/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1962110994/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1962110995/small#1",
+					"large": "https://img.ridicdn.net/cover/1962110995/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1962110995/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1044,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 141,
+				"total": 142,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -16560,15 +16560,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13800,
-					"sale_price": 13800,
+					"full_price": 13900,
+					"sale_price": 13900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-15T00:01:24+09:00"
+				"last_opened_episode_date": "2023-05-16T00:01:36+09:00"
 			},
 			"categories": [
 				{
@@ -17126,17 +17126,17 @@
 				"title": "공작의 연인에게 죽음을",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2313024026/small#1",
-					"large": "https://img.ridicdn.net/cover/2313024026/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2313024026/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2313021683/small#1",
+					"large": "https://img.ridicdn.net/cover/2313021683/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2313021683/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1033,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 130,
-				"completion": false,
+				"total": 131,
+				"completion": true,
 				"publishing_schedule": {
 					"periodical": true
 				},
@@ -17164,8 +17164,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12700,
-					"sale_price": 12700,
+					"full_price": 12800,
+					"sale_price": 12800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -17183,7 +17183,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-15T00:01:49+09:00"
+				"last_opened_episode_date": "2023-05-16T00:04:47+09:00"
 			},
 			"categories": [
 				{
