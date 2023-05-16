@@ -352,11 +352,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 53
+					"count": 54
 				},
 				{
 					"rating": 5,
-					"count": 1915
+					"count": 1983
 				}
 			],
 			"ridiselect": false,
@@ -967,7 +967,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 75
+					"count": 74
 				},
 				{
 					"rating": 4,
@@ -1367,11 +1367,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 89
+					"count": 90
 				},
 				{
 					"rating": 5,
-					"count": 2056
+					"count": 2055
 				}
 			],
 			"ridiselect": false,
@@ -1582,7 +1582,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3266
+					"count": 3267
 				}
 			],
 			"ridiselect": false,
@@ -2609,7 +2609,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48322
+					"count": 48324
 				}
 			],
 			"ridiselect": false,
@@ -4382,16 +4382,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211042856/small#1",
-					"large": "https://img.ridicdn.net/cover/211042856/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211042856/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211042857/small#1",
+					"large": "https://img.ridicdn.net/cover/211042857/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211042857/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 529,
+				"total": 530,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4420,15 +4420,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 52300,
-					"sale_price": 52300,
+					"full_price": 52400,
+					"sale_price": 52400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-13T00:00:20+09:00"
+				"last_opened_episode_date": "2023-05-17T00:00:44+09:00"
 			},
 			"categories": [
 				{
@@ -4479,6 +4479,17 @@
 			"link": "https://ridibooks.com/books/211033146"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -5665,7 +5676,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2310
+					"count": 2309
 				}
 			],
 			"ridiselect": false,
@@ -5861,7 +5872,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3902
+					"count": 3903
 				}
 			],
 			"ridiselect": false,
@@ -6045,7 +6056,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 7045
+					"count": 7046
 				}
 			],
 			"ridiselect": false,
@@ -6225,11 +6236,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 196
+					"count": 197
 				},
 				{
 					"rating": 5,
-					"count": 3718
+					"count": 3717
 				}
 			],
 			"ridiselect": false,
@@ -8223,7 +8234,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 230
+					"count": 231
 				},
 				{
 					"rating": 5,
@@ -8423,7 +8434,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2697
+					"count": 2696
 				}
 			],
 			"ridiselect": false,
@@ -9792,7 +9803,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 53
+					"count": 54
 				},
 				{
 					"rating": 4,
@@ -11406,11 +11417,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 180
+					"count": 181
 				},
 				{
 					"rating": 5,
-					"count": 2618
+					"count": 2617
 				}
 			],
 			"ridiselect": false,
@@ -16849,17 +16860,6 @@
 			"link": "https://ridibooks.com/books/1962109613"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
