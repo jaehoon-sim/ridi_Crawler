@@ -1366,7 +1366,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 3
+					"count": 4
 				},
 				{
 					"rating": 2,
@@ -1374,15 +1374,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 6
+					"count": 8
 				},
 				{
 					"rating": 4,
-					"count": 46
+					"count": 50
 				},
 				{
 					"rating": 5,
-					"count": 1302
+					"count": 1329
 				}
 			],
 			"ridiselect": false,
@@ -2734,13 +2734,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-05-14T23:55:00+09:00",
-					"closing_date": "2023-05-17T23:59:59+09:00"
+					"opening_date": "2023-05-12T00:00:00+09:00",
+					"closing_date": "2033-05-15T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -2796,15 +2796,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 11
+					"count": 12
 				},
 				{
 					"rating": 4,
-					"count": 92
+					"count": 116
 				},
 				{
 					"rating": 5,
-					"count": 2663
+					"count": 2975
 				}
 			],
 			"ridiselect": false,
@@ -5413,16 +5413,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211042857/small#1",
-					"large": "https://img.ridicdn.net/cover/211042857/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211042857/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211042858/small#1",
+					"large": "https://img.ridicdn.net/cover/211042858/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211042858/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 530,
+				"total": 531,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5451,15 +5451,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 52400,
-					"sale_price": 52400,
+					"full_price": 52500,
+					"sale_price": 52500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-17T00:00:44+09:00"
+				"last_opened_episode_date": "2023-05-18T00:01:02+09:00"
 			},
 			"categories": [
 				{
@@ -6019,13 +6019,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 24,
+					"interval_hours": 6,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2022-09-30T00:00:00+09:00",
-					"closing_date": "2032-10-01T23:59:59+09:00"
+					"opening_date": "2023-05-17T23:55:00+09:00",
+					"closing_date": "2023-05-24T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
