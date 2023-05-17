@@ -556,7 +556,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 1
+					"count": 2
 				},
 				{
 					"rating": 3,
@@ -564,11 +564,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 62
+					"count": 65
 				},
 				{
 					"rating": 5,
-					"count": 1423
+					"count": 1437
 				}
 			],
 			"ridiselect": false,
@@ -5689,11 +5689,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 50
+					"count": 51
 				},
 				{
 					"rating": 5,
-					"count": 1471
+					"count": 1495
 				}
 			],
 			"ridiselect": false,
