@@ -564,11 +564,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 92
+					"count": 128
 				},
 				{
 					"rating": 5,
-					"count": 1500
+					"count": 1519
 				}
 			],
 			"ridiselect": false,
@@ -3221,7 +3221,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 8977
+					"count": 8978
 				}
 			],
 			"ridiselect": false,
@@ -5689,11 +5689,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 83
+					"count": 120
 				},
 				{
 					"rating": 5,
-					"count": 1538
+					"count": 1547
 				}
 			],
 			"ridiselect": false,
@@ -7351,7 +7351,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2945
+					"count": 2944
 				}
 			],
 			"ridiselect": false,
@@ -13776,7 +13776,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5214
+					"count": 5215
 				}
 			],
 			"ridiselect": false,
@@ -14294,16 +14294,16 @@
 				"title": "가이드학개론",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2313024028/small#1",
-					"large": "https://img.ridicdn.net/cover/2313024028/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2313024028/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2313024237/small#1",
+					"large": "https://img.ridicdn.net/cover/2313024237/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2313024237/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1033,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 88,
+				"total": 89,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -14332,8 +14332,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8500,
-					"sale_price": 8500,
+					"full_price": 8600,
+					"sale_price": 8600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -14351,7 +14351,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-13T12:00:08+09:00"
+				"last_opened_episode_date": "2023-05-18T12:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -14402,6 +14402,17 @@
 			"link": "https://ridibooks.com/books/2313021759"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -16187,7 +16198,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4745
+					"count": 4744
 				}
 			],
 			"ridiselect": false,
@@ -16952,7 +16963,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2035
+					"count": 2036
 				}
 			],
 			"ridiselect": false,
