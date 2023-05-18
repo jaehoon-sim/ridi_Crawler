@@ -276,16 +276,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120064931/small#1",
-					"large": "https://img.ridicdn.net/cover/120064931/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120064931/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120064932/small#1",
+					"large": "https://img.ridicdn.net/cover/120064932/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120064932/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 200,
+				"total": 201,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -314,8 +314,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 19700,
-					"sale_price": 19700,
+					"full_price": 19800,
+					"sale_price": 19800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -333,7 +333,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-17T19:00:07+09:00"
+				"last_opened_episode_date": "2023-05-18T19:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -556,7 +556,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 3
+					"count": 4
 				},
 				{
 					"rating": 3,
@@ -568,7 +568,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1647
+					"count": 1696
 				}
 			],
 			"ridiselect": false,
@@ -2306,16 +2306,16 @@
 				"title": "나의 상냥한 빌런에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369006100/small#1",
-					"large": "https://img.ridicdn.net/cover/2369006100/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369006100/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369006103/small#1",
+					"large": "https://img.ridicdn.net/cover/2369006103/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369006103/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 183,
+				"total": 184,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2344,15 +2344,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 17900,
-					"sale_price": 17900,
+					"full_price": 18000,
+					"sale_price": 18000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-17T19:00:06+09:00"
+				"last_opened_episode_date": "2023-05-18T19:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -3221,7 +3221,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 8979
+					"count": 8980
 				}
 			],
 			"ridiselect": false,
@@ -5681,19 +5681,19 @@
 				},
 				{
 					"rating": 2,
-					"count": 3
+					"count": 4
 				},
 				{
 					"rating": 3,
-					"count": 10
+					"count": 11
 				},
 				{
 					"rating": 4,
-					"count": 152
+					"count": 154
 				},
 				{
 					"rating": 5,
-					"count": 1627
+					"count": 1663
 				}
 			],
 			"ridiselect": false,
@@ -8709,7 +8709,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 315
+					"count": 316
 				},
 				{
 					"rating": 4,
@@ -8717,7 +8717,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 6560
+					"count": 6561
 				}
 			],
 			"ridiselect": false,
@@ -10632,16 +10632,16 @@
 				"title": "도망친 시녀는 대마법사의 사랑을 받는다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2719002553/small#1",
-					"large": "https://img.ridicdn.net/cover/2719002553/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2719002553/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2719002554/small#1",
+					"large": "https://img.ridicdn.net/cover/2719002554/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2719002554/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 83,
+				"total": 84,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10670,8 +10670,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8000,
-					"sale_price": 8000,
+					"full_price": 8100,
+					"sale_price": 8100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -10689,7 +10689,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-17T19:00:07+09:00"
+				"last_opened_episode_date": "2023-05-18T19:00:06+09:00"
 			},
 			"categories": [
 				{
