@@ -368,11 +368,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 249
+					"count": 248
 				},
 				{
 					"rating": 5,
-					"count": 3268
+					"count": 3270
 				}
 			],
 			"ridiselect": false,
@@ -564,11 +564,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 172
+					"count": 173
 				},
 				{
 					"rating": 5,
-					"count": 1826
+					"count": 1878
 				}
 			],
 			"ridiselect": false,
@@ -1704,16 +1704,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211042858/small#1",
-					"large": "https://img.ridicdn.net/cover/211042858/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211042858/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211042859/small#1",
+					"large": "https://img.ridicdn.net/cover/211042859/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211042859/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 531,
+				"total": 532,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1742,15 +1742,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 52500,
-					"sale_price": 52500,
+					"full_price": 52600,
+					"sale_price": 52600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-18T00:01:02+09:00"
+				"last_opened_episode_date": "2023-05-19T00:01:36+09:00"
 			},
 			"categories": [
 				{
@@ -1914,13 +1914,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 24,
+					"interval_hours": 1,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-05-08T00:00:00+09:00",
-					"closing_date": "2033-05-09T23:59:59+09:00"
+					"opening_date": "2023-05-18T23:55:00+09:00",
+					"closing_date": "2023-05-19T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -2387,11 +2387,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 181
+					"count": 182
 				},
 				{
 					"rating": 5,
-					"count": 3249
+					"count": 3248
 				}
 			],
 			"ridiselect": false,
@@ -3221,7 +3221,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 8980
+					"count": 8982
 				}
 			],
 			"ridiselect": false,
@@ -5216,13 +5216,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 24,
+					"interval_hours": 1,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2021-02-09T00:00:00+09:00",
-					"closing_date": "2031-02-09T23:59:59+09:00"
+					"opening_date": "2023-05-18T23:55:00+09:00",
+					"closing_date": "2023-05-19T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -5623,13 +5623,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-05-15T23:55:00+09:00",
-					"closing_date": "2023-05-18T23:59:59+09:00"
+					"opening_date": "2023-05-15T00:00:00+09:00",
+					"closing_date": "2033-05-16T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -5689,11 +5689,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 166
+					"count": 170
 				},
 				{
 					"rating": 5,
-					"count": 1969
+					"count": 2208
 				}
 			],
 			"ridiselect": false,
@@ -6638,13 +6638,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 24,
+					"interval_hours": 1,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-05-02T00:00:00+09:00",
-					"closing_date": "2033-05-03T23:59:59+09:00"
+					"opening_date": "2023-05-18T23:55:00+09:00",
+					"closing_date": "2023-05-19T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -7926,7 +7926,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 7047
+					"count": 7048
 				}
 			],
 			"ridiselect": false,
@@ -8713,7 +8713,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 1711
+					"count": 1712
 				},
 				{
 					"rating": 5,
@@ -10079,13 +10079,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 24,
+					"interval_hours": 1,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2022-12-22T00:00:00+09:00",
-					"closing_date": "2032-12-23T23:59:59+09:00"
+					"opening_date": "2023-05-18T23:55:00+09:00",
+					"closing_date": "2023-05-19T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -18971,13 +18971,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 24,
+					"interval_hours": 1,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-05-04T00:00:00+09:00",
-					"closing_date": "2033-05-05T23:59:59+09:00"
+					"opening_date": "2023-05-18T23:55:00+09:00",
+					"closing_date": "2023-05-19T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -19356,13 +19356,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-05-15T23:55:00+09:00",
-					"closing_date": "2023-05-18T23:59:59+09:00"
+					"opening_date": "2023-05-15T00:00:00+09:00",
+					"closing_date": "2033-05-16T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
