@@ -4051,7 +4051,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 1082
+					"count": 1083
 				},
 				{
 					"rating": 4,
@@ -6892,7 +6892,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2689
+					"count": 2688
 				}
 			],
 			"ridiselect": false,
@@ -10923,7 +10923,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2730
+					"count": 2728
 				}
 			],
 			"ridiselect": false,
@@ -13941,7 +13941,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3161
+					"count": 3162
 				}
 			],
 			"ridiselect": false,
@@ -15856,16 +15856,16 @@
 				"title": "낯선 공작에게 내 불행을 팔았다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2107118316/small#1",
-					"large": "https://img.ridicdn.net/cover/2107118316/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2107118316/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2107118335/small#1",
+					"large": "https://img.ridicdn.net/cover/2107118335/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2107118335/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1150,
 					"width": 800
 				},
 				"episode": 1,
-				"total": 110,
+				"total": 111,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -15894,8 +15894,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10700,
-					"sale_price": 10700,
+					"full_price": 10800,
+					"sale_price": 10800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -15913,7 +15913,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-18T18:01:05+09:00"
+				"last_opened_episode_date": "2023-05-19T17:30:33+09:00"
 			},
 			"categories": [
 				{
