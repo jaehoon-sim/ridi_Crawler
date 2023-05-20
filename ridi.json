@@ -352,11 +352,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 182
+					"count": 183
 				},
 				{
 					"rating": 5,
-					"count": 1608
+					"count": 1623
 				}
 			],
 			"ridiselect": false,
@@ -1404,7 +1404,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2863
+					"count": 2864
 				}
 			],
 			"ridiselect": false,
@@ -3352,11 +3352,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 208
+					"count": 207
 				},
 				{
 					"rating": 5,
-					"count": 2245
+					"count": 2247
 				}
 			],
 			"ridiselect": false,
@@ -3764,7 +3764,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48375
+					"count": 48376
 				}
 			],
 			"ridiselect": false,
@@ -5818,17 +5818,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -6592,7 +6581,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2903
+					"count": 2902
 				}
 			],
 			"ridiselect": false,
@@ -6604,17 +6593,6 @@
 			"link": "https://ridibooks.com/books/2259012488"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -6787,7 +6765,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 7056
+					"count": 7057
 				}
 			],
 			"ridiselect": false,
@@ -8630,17 +8608,6 @@
 			"link": "https://ridibooks.com/books/2259011723"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -11007,7 +10974,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3330
+					"count": 3331
 				}
 			],
 			"ridiselect": false,
@@ -11312,16 +11279,16 @@
 				"title": "죽여 줘, 나를",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012564/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012564/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012564/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012565/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012565/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012565/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 108,
+				"total": 109,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11350,8 +11317,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10500,
-					"sale_price": 10500,
+					"full_price": 10600,
+					"sale_price": 10600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -11369,7 +11336,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-19T11:00:19+09:00"
+				"last_opened_episode_date": "2023-05-20T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -11524,16 +11491,16 @@
 				"title": "낯선 공작에게 내 불행을 팔았다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2107118335/small#1",
-					"large": "https://img.ridicdn.net/cover/2107118335/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2107118335/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2107118339/small#1",
+					"large": "https://img.ridicdn.net/cover/2107118339/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2107118339/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1150,
 					"width": 800
 				},
 				"episode": 1,
-				"total": 111,
+				"total": 112,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11562,8 +11529,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10800,
-					"sale_price": 10800,
+					"full_price": 10900,
+					"sale_price": 10900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -11581,7 +11548,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-19T17:30:33+09:00"
+				"last_opened_episode_date": "2023-05-20T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -12212,7 +12179,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2936
+					"count": 2937
 				}
 			],
 			"ridiselect": false,
@@ -12718,16 +12685,16 @@
 				"title": "NPC 힐러로 전직했습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012585/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012585/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012585/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012691/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012691/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012691/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 65,
+				"total": 66,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -12756,15 +12723,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6200,
-					"sale_price": 6200,
+					"full_price": 6300,
+					"sale_price": 6300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-19T11:00:19+09:00"
+				"last_opened_episode_date": "2023-05-20T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -18005,16 +17972,16 @@
 				"title": "좀비 카페 사장은 S급 힐러입니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012572/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012572/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012572/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012573/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012573/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012573/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 96,
+				"total": 97,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -18043,8 +18010,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9300,
-					"sale_price": 9300,
+					"full_price": 9400,
+					"sale_price": 9400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -18062,7 +18029,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-19T11:00:19+09:00"
+				"last_opened_episode_date": "2023-05-20T11:00:07+09:00"
 			},
 			"categories": [
 				{
