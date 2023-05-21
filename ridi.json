@@ -568,7 +568,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2527
+					"count": 2553
 				}
 			],
 			"ridiselect": false,
@@ -3363,7 +3363,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 7062
+					"count": 7063
 				}
 			],
 			"ridiselect": false,
@@ -5821,16 +5821,16 @@
 				"title": "괴물 황자를 길들여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/297058694/small#1",
-					"large": "https://img.ridicdn.net/cover/297058694/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/297058694/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/297058722/small#1",
+					"large": "https://img.ridicdn.net/cover/297058722/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/297058722/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1527,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 195,
+				"total": 196,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5859,8 +5859,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 19200,
-					"sale_price": 19200,
+					"full_price": 19300,
+					"sale_price": 19300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -5878,7 +5878,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-20T16:00:09+09:00"
+				"last_opened_episode_date": "2023-05-21T16:04:07+09:00"
 			},
 			"categories": [
 				{
