@@ -520,11 +520,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 268
+					"count": 267
 				},
 				{
 					"rating": 5,
-					"count": 3435
+					"count": 3432
 				}
 			],
 			"ridiselect": false,
@@ -1359,16 +1359,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239016273/small#1",
-					"large": "https://img.ridicdn.net/cover/1239016273/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239016273/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239016284/small#1",
+					"large": "https://img.ridicdn.net/cover/1239016284/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239016284/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 149,
+				"total": 150,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1397,15 +1397,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 14600,
-					"sale_price": 14600,
+					"full_price": 14700,
+					"sale_price": 14700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-22T00:07:40+09:00"
+				"last_opened_episode_date": "2023-05-23T00:01:00+09:00"
 			},
 			"categories": [
 				{
@@ -1834,7 +1834,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 9031
+					"count": 9032
 				}
 			],
 			"ridiselect": false,
