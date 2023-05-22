@@ -329,7 +329,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3079
+					"count": 3080
 				}
 			],
 			"ridiselect": false,
@@ -1255,7 +1255,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 1288
+					"count": 1287
 				},
 				{
 					"rating": 2,
@@ -1271,7 +1271,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48405
+					"count": 48406
 				}
 			],
 			"ridiselect": false,
@@ -3644,16 +3644,16 @@
 				"title": "이건 대본에 없었잖아요, 공작님!",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012590/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012590/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012590/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012601/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012601/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012601/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 74,
+				"total": 75,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3682,15 +3682,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7100,
-					"sale_price": 7100,
+					"full_price": 7200,
+					"sale_price": 7200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-19T11:00:18+09:00"
+				"last_opened_episode_date": "2023-05-22T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -3741,6 +3741,17 @@
 			"link": "https://ridibooks.com/books/2259012488"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -5446,7 +5457,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3336
+					"count": 3337
 				}
 			],
 			"ridiselect": false,
@@ -7730,17 +7741,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -8648,7 +8648,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2640
+					"count": 2639
 				}
 			],
 			"ridiselect": false,
@@ -9798,17 +9798,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -10371,17 +10360,6 @@
 			"link": "https://ridibooks.com/books/2259012421"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -12734,19 +12712,8 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": {
-					"max_price": 0,
-					"min_price": 0,
-					"min_price_non_zero": 0
-				},
-				"rental_all": {
-					"full_price": 0,
-					"sale_price": 0,
-					"days": null,
-					"discount_rate": null,
-					"max_discount_rate": null,
-					"min_discount_rate": null
-				},
+				"rental": null,
+				"rental_all": null,
 				"last_opened_episode_date": "2023-05-21T07:00:14+09:00"
 			},
 			"categories": [
@@ -13621,16 +13588,16 @@
 				"title": "라스트 아틀란티스",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213013204/small#1",
-					"large": "https://img.ridicdn.net/cover/2213013204/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213013204/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213013212/small#1",
+					"large": "https://img.ridicdn.net/cover/2213013212/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213013212/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1528,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 143,
+				"total": 144,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -13659,15 +13626,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 14000,
-					"sale_price": 14000,
+					"full_price": 14100,
+					"sale_price": 14100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-19T11:04:39+09:00"
+				"last_opened_episode_date": "2023-05-22T11:00:39+09:00"
 			},
 			"categories": [
 				{
@@ -13718,6 +13685,17 @@
 			"link": "https://ridibooks.com/books/2213012137"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -17085,7 +17063,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 477
+					"count": 478
 				}
 			],
 			"ridiselect": false,
@@ -17184,16 +17162,16 @@
 				"title": "죽여 줘, 나를",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012566/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012566/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012566/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012626/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012626/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012626/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 110,
+				"total": 111,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -17222,15 +17200,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10700,
-					"sale_price": 10700,
+					"full_price": 10800,
+					"sale_price": 10800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-21T11:00:07+09:00"
+				"last_opened_episode_date": "2023-05-22T11:00:08+09:00"
 			},
 			"categories": [
 				{
