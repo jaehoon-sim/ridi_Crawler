@@ -1094,7 +1094,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 526
+					"count": 527
 				},
 				{
 					"rating": 5,
@@ -1285,7 +1285,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 18
+					"count": 17
 				},
 				{
 					"rating": 4,
@@ -1293,7 +1293,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2053
+					"count": 2054
 				}
 			],
 			"ridiselect": false,
@@ -10043,7 +10043,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2749
+					"count": 2751
 				}
 			],
 			"ridiselect": false,
@@ -11334,19 +11334,8 @@
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
-				"rental": {
-					"max_price": 0,
-					"min_price": 0,
-					"min_price_non_zero": 0
-				},
-				"rental_all": {
-					"full_price": 0,
-					"sale_price": 0,
-					"days": null,
-					"discount_rate": null,
-					"max_discount_rate": null,
-					"min_discount_rate": null
-				},
+				"rental": null,
+				"rental_all": null,
 				"last_opened_episode_date": "2023-05-20T12:00:07+09:00"
 			},
 			"categories": [
