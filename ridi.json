@@ -857,7 +857,7 @@
 				},
 				"free": {
 					"purchase": 3,
-					"rental": 20
+					"rental": 0
 				},
 				"unit": "화",
 				"purchase": {
@@ -940,12 +940,11 @@
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_2.b7469011d8fa72608e5cd6f6211475f5.png",
-					"https://active.ridibooks.com/badge/on_book_cover/badge_0.923143bf7ef9b6939b5bec775b2c2eec.png",
+					"https://active.ridibooks.com/badge/on_book_cover/badge_3.02be0aff729f18fa0d8130f69d5451b9.png",
 					"https://active.ridibooks.com/badge/on_book_cover/partial_free_series_unit.486de178810b913588a2fcff2a7fef0c.png",
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png"
 				],
-				"badge_text": "20화 무료",
+				"badge_text": "3화 무료",
 				"badge_background": {
 					"light": "#324155",
 					"dark": "#323C46"
@@ -1285,11 +1284,11 @@
 				},
 				{
 					"rating": 3,
-					"count": 17
+					"count": 18
 				},
 				{
 					"rating": 4,
-					"count": 95
+					"count": 94
 				},
 				{
 					"rating": 5,
@@ -11180,7 +11179,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2131
+					"count": 2129
 				}
 			],
 			"ridiselect": false,
@@ -18423,7 +18422,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2631
+					"count": 2630
 				}
 			],
 			"ridiselect": false,
