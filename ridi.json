@@ -7671,11 +7671,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 264
+					"count": 265
 				},
 				{
 					"rating": 5,
-					"count": 1699
+					"count": 1698
 				}
 			],
 			"ridiselect": false,
@@ -9199,7 +9199,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3343
+					"count": 3344
 				}
 			],
 			"ridiselect": false,
@@ -16628,16 +16628,16 @@
 				"title": "낯선 공작에게 내 불행을 팔았다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2107118354/small#1",
-					"large": "https://img.ridicdn.net/cover/2107118354/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2107118354/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2107118387/small#1",
+					"large": "https://img.ridicdn.net/cover/2107118387/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2107118387/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1150,
 					"width": 800
 				},
 				"episode": 1,
-				"total": 114,
+				"total": 115,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -16666,15 +16666,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11100,
-					"sale_price": 11100,
+					"full_price": 11200,
+					"sale_price": 11200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-23T20:00:40+09:00"
+				"last_opened_episode_date": "2023-05-25T14:46:20+09:00"
 			},
 			"categories": [
 				{
@@ -16725,6 +16725,17 @@
 			"link": "https://ridibooks.com/books/2107112748"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
