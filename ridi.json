@@ -1597,16 +1597,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211042862/small#1",
-					"large": "https://img.ridicdn.net/cover/211042862/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211042862/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211042863/small#1",
+					"large": "https://img.ridicdn.net/cover/211042863/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211042863/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 535,
+				"total": 536,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1635,15 +1635,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 52900,
-					"sale_price": 52900,
+					"full_price": 53000,
+					"sale_price": 53000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-25T00:02:03+09:00"
+				"last_opened_episode_date": "2023-05-26T00:01:46+09:00"
 			},
 			"categories": [
 				{
@@ -1682,7 +1682,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4224
+					"count": 4225
 				}
 			],
 			"ridiselect": false,
@@ -2002,13 +2002,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-05-22T23:55:00+09:00",
-					"closing_date": "2023-05-25T23:59:59+09:00"
+					"opening_date": "2023-05-22T00:00:00+09:00",
+					"closing_date": "2033-05-23T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -2064,15 +2064,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 8
+					"count": 9
 				},
 				{
 					"rating": 4,
-					"count": 174
+					"count": 179
 				},
 				{
 					"rating": 5,
-					"count": 2213
+					"count": 2467
 				}
 			],
 			"ridiselect": false,
@@ -2962,16 +2962,16 @@
 				"title": "역하렘 게임의 가짜 성녀",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1239016286/small#1",
-					"large": "https://img.ridicdn.net/cover/1239016286/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1239016286/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1239016287/small#1",
+					"large": "https://img.ridicdn.net/cover/1239016287/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1239016287/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 152,
+				"total": 153,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3000,15 +3000,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 14900,
-					"sale_price": 14900,
+					"full_price": 15000,
+					"sale_price": 15000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-25T00:02:19+09:00"
+				"last_opened_episode_date": "2023-05-26T00:01:49+09:00"
 			},
 			"categories": [
 				{
@@ -12802,7 +12802,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3086
+					"count": 3085
 				}
 			],
 			"ridiselect": false,
@@ -14226,13 +14226,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-05-22T23:55:00+09:00",
-					"closing_date": "2023-05-25T23:59:59+09:00"
+					"opening_date": "2023-05-22T00:00:00+09:00",
+					"closing_date": "2033-05-23T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
