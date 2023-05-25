@@ -1207,16 +1207,16 @@
 				"title": "말하는 대로 될지어다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3000008023/small#1",
-					"large": "https://img.ridicdn.net/cover/3000008023/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3000008023/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3000008024/small#1",
+					"large": "https://img.ridicdn.net/cover/3000008024/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3000008024/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 70,
+				"total": 71,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": false
@@ -1245,15 +1245,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6500,
-					"sale_price": 6500,
+					"full_price": 6600,
+					"sale_price": 6600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-25T07:00:12+09:00"
+				"last_opened_episode_date": "2023-05-26T08:00:04+09:00"
 			},
 			"categories": [
 				{
@@ -1292,7 +1292,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1063
+					"count": 1071
 				}
 			],
 			"ridiselect": false,
@@ -1304,6 +1304,17 @@
 			"link": "https://ridibooks.com/books/3000007873"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -8518,16 +8529,16 @@
 				"title": "흑묘 대공의 애착 메이드",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211043483/small#1",
-					"large": "https://img.ridicdn.net/cover/211043483/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211043483/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211043484/small#1",
+					"large": "https://img.ridicdn.net/cover/211043484/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211043484/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1624,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 63,
+				"total": 64,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8556,15 +8567,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6000,
-					"sale_price": 6000,
+					"full_price": 6100,
+					"sale_price": 6100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-25T08:00:07+09:00"
+				"last_opened_episode_date": "2023-05-26T08:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -10251,16 +10262,16 @@
 				"title": "말하는 대로 될지어다 (15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3000008033/small#1",
-					"large": "https://img.ridicdn.net/cover/3000008033/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3000008033/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3000008037/small#1",
+					"large": "https://img.ridicdn.net/cover/3000008037/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3000008037/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 67,
+				"total": 68,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": false
@@ -10289,15 +10300,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6200,
-					"sale_price": 6200,
+					"full_price": 6300,
+					"sale_price": 6300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-25T06:59:18+09:00"
+				"last_opened_episode_date": "2023-05-26T08:00:04+09:00"
 			},
 			"categories": [
 				{
@@ -10348,6 +10359,17 @@
 			"link": "https://ridibooks.com/books/3000007903"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
