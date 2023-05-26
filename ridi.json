@@ -718,7 +718,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3131
+					"count": 3132
 				}
 			],
 			"ridiselect": false,
@@ -1292,7 +1292,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1084
+					"count": 1115
 				}
 			],
 			"ridiselect": false,
@@ -2072,7 +2072,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4225
+					"count": 4226
 				}
 			],
 			"ridiselect": false,
@@ -3048,17 +3048,6 @@
 			"link": "https://ridibooks.com/books/2259012631"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -5161,17 +5150,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -6233,16 +6211,16 @@
 				"title": "이건 대본에 없었잖아요, 공작님!",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012604/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012604/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012604/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012605/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012605/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012605/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 78,
+				"total": 79,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6271,15 +6249,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7500,
-					"sale_price": 7500,
+					"full_price": 7600,
+					"sale_price": 7600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-25T11:00:06+09:00"
+				"last_opened_episode_date": "2023-05-26T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -6708,7 +6686,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3819
+					"count": 3820
 				}
 			],
 			"ridiselect": false,
@@ -7848,7 +7826,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2957
+					"count": 2958
 				}
 			],
 			"ridiselect": false,
@@ -9390,7 +9368,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 210
+					"count": 211
 				},
 				{
 					"rating": 5,
@@ -9785,17 +9763,6 @@
 			"link": "https://ridibooks.com/books/2259004923"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -11767,16 +11734,16 @@
 				"title": "NPC 힐러로 전직했습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012771/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012771/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012771/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012772/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012772/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012772/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 69,
+				"total": 70,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11805,15 +11772,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6600,
-					"sale_price": 6600,
+					"full_price": 6700,
+					"sale_price": 6700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-25T11:00:06+09:00"
+				"last_opened_episode_date": "2023-05-26T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -13302,16 +13269,16 @@
 				"title": "검은 요정이 당신을 부를 때",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012769/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012769/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012769/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012807/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012807/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012807/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 93,
+				"total": 94,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -13340,15 +13307,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9000,
-					"sale_price": 9000,
+					"full_price": 9100,
+					"sale_price": 9100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-24T11:00:07+09:00"
+				"last_opened_episode_date": "2023-05-26T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -13399,6 +13366,17 @@
 			"link": "https://ridibooks.com/books/2259011723"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -15227,7 +15205,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5219
+					"count": 5220
 				}
 			],
 			"ridiselect": false,
@@ -17459,17 +17437,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -17556,16 +17523,16 @@
 				"title": "죽여 줘, 나를",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012629/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012629/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012629/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012630/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012630/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012630/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 114,
+				"total": 115,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -17594,15 +17561,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11100,
-					"sale_price": 11100,
+					"full_price": 11200,
+					"sale_price": 11200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-25T11:00:05+09:00"
+				"last_opened_episode_date": "2023-05-26T11:00:07+09:00"
 			},
 			"categories": [
 				{
