@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2143
+					"count": 2152
 				}
 			],
 			"ridiselect": false,
@@ -2046,11 +2046,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 138
+					"count": 139
 				},
 				{
 					"rating": 5,
-					"count": 1526
+					"count": 1536
 				}
 			],
 			"ridiselect": false,
@@ -3555,7 +3555,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48454
+					"count": 48456
 				}
 			],
 			"ridiselect": false,
@@ -12830,7 +12830,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2252
+					"count": 2253
 				}
 			],
 			"ridiselect": false,
@@ -16285,16 +16285,16 @@
 				"title": "EX급이 이렇게 약해도 되나요?",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/961071814/small#1",
-					"large": "https://img.ridicdn.net/cover/961071814/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/961071814/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/961071827/small#1",
+					"large": "https://img.ridicdn.net/cover/961071827/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/961071827/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 181,
+				"total": 182,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -16323,15 +16323,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 17800,
-					"sale_price": 17800,
+					"full_price": 17900,
+					"sale_price": 17900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-26T17:00:08+09:00"
+				"last_opened_episode_date": "2023-05-27T17:01:29+09:00"
 			},
 			"categories": [
 				{
