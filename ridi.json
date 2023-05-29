@@ -891,7 +891,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48490
+					"count": 48492
 				}
 			],
 			"ridiselect": false,
@@ -2775,7 +2775,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3929
+					"count": 3930
 				}
 			],
 			"ridiselect": false,
@@ -3344,7 +3344,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2673
+					"count": 2672
 				}
 			],
 			"ridiselect": false,
@@ -3443,16 +3443,16 @@
 				"title": "나의 상냥한 빌런에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369006117/small#1",
-					"large": "https://img.ridicdn.net/cover/2369006117/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369006117/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369006120/small#1",
+					"large": "https://img.ridicdn.net/cover/2369006120/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369006120/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 190,
+				"total": 191,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3481,15 +3481,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 18600,
-					"sale_price": 18600,
+					"full_price": 18700,
+					"sale_price": 18700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-26T19:00:07+09:00"
+				"last_opened_episode_date": "2023-05-29T19:00:04+09:00"
 			},
 			"categories": [
 				{
@@ -3540,6 +3540,17 @@
 			"link": "https://ridibooks.com/books/2369005517"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -5360,16 +5371,16 @@
 				"title": "도망친 시녀는 대마법사의 사랑을 받는다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2719002681/small#1",
-					"large": "https://img.ridicdn.net/cover/2719002681/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2719002681/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2719002682/small#1",
+					"large": "https://img.ridicdn.net/cover/2719002682/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2719002682/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 91,
+				"total": 92,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5398,15 +5409,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8800,
-					"sale_price": 8800,
+					"full_price": 8900,
+					"sale_price": 8900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-26T19:00:06+09:00"
+				"last_opened_episode_date": "2023-05-29T19:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -5457,6 +5468,17 @@
 			"link": "https://ridibooks.com/books/2719002421"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
