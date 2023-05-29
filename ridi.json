@@ -1586,16 +1586,16 @@
 				"title": "말하는 대로 될지어다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3000008025/small#1",
-					"large": "https://img.ridicdn.net/cover/3000008025/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3000008025/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3000008026/small#1",
+					"large": "https://img.ridicdn.net/cover/3000008026/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3000008026/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 72,
+				"total": 73,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1624,15 +1624,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6700,
-					"sale_price": 6700,
+					"full_price": 6800,
+					"sale_price": 6800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-29T08:00:05+09:00"
+				"last_opened_episode_date": "2023-05-30T08:00:05+09:00"
 			},
 			"categories": [
 				{
@@ -3594,7 +3594,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3210
+					"count": 3211
 				}
 			],
 			"ridiselect": false,
@@ -7703,16 +7703,16 @@
 				"title": "흑묘 대공의 애착 메이드",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211043521/small#1",
-					"large": "https://img.ridicdn.net/cover/211043521/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211043521/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211043531/small#1",
+					"large": "https://img.ridicdn.net/cover/211043531/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211043531/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1624,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 65,
+				"total": 66,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7741,15 +7741,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6200,
-					"sale_price": 6200,
+					"full_price": 6300,
+					"sale_price": 6300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-29T08:00:08+09:00"
+				"last_opened_episode_date": "2023-05-30T08:00:12+09:00"
 			},
 			"categories": [
 				{
