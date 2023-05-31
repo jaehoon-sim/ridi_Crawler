@@ -518,7 +518,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 1
+					"count": 2
 				},
 				{
 					"rating": 2,
@@ -530,11 +530,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 81
+					"count": 84
 				},
 				{
 					"rating": 5,
-					"count": 1820
+					"count": 1887
 				}
 			],
 			"ridiselect": false,
@@ -2289,7 +2289,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2056
+					"count": 2052
 				}
 			],
 			"ridiselect": false,
@@ -2695,7 +2695,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4435
+					"count": 4434
 				}
 			],
 			"ridiselect": false,
@@ -4138,16 +4138,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211042865/small#1",
-					"large": "https://img.ridicdn.net/cover/211042865/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211042865/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211042866/small#1",
+					"large": "https://img.ridicdn.net/cover/211042866/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211042866/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 538,
+				"total": 539,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4176,15 +4176,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 53200,
-					"sale_price": 53200,
+					"full_price": 53300,
+					"sale_price": 53300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-31T00:00:36+09:00"
+				"last_opened_episode_date": "2023-06-01T00:06:28+09:00"
 			},
 			"categories": [
 				{
@@ -5957,11 +5957,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 266
+					"count": 267
 				},
 				{
 					"rating": 5,
-					"count": 1719
+					"count": 1720
 				}
 			],
 			"ridiselect": false,
