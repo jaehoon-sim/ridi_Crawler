@@ -1314,7 +1314,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1972
+					"count": 1994
 				}
 			],
 			"ridiselect": false,
@@ -2107,17 +2107,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -2289,7 +2278,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3253
+					"count": 3254
 				}
 			],
 			"ridiselect": false,
@@ -5113,16 +5102,16 @@
 				"title": "라스트 아틀란티스",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213013274/small#1",
-					"large": "https://img.ridicdn.net/cover/2213013274/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213013274/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213013296/small#1",
+					"large": "https://img.ridicdn.net/cover/2213013296/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213013296/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1528,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 151,
+				"total": 152,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5151,15 +5140,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 14800,
-					"sale_price": 14800,
+					"full_price": 14900,
+					"sale_price": 14900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-31T11:00:06+09:00"
+				"last_opened_episode_date": "2023-06-01T11:02:32+09:00"
 			},
 			"categories": [
 				{
@@ -6475,16 +6464,16 @@
 				"title": "장르가 랜덤이라 불행하다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012817/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012817/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012817/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012837/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012837/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012837/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 65,
+				"total": 66,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6513,15 +6502,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6100,
-					"sale_price": 6100,
+					"full_price": 6200,
+					"sale_price": 6200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-30T11:00:06+09:00"
+				"last_opened_episode_date": "2023-06-01T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -6572,6 +6561,17 @@
 			"link": "https://ridibooks.com/books/2259012631"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -7813,16 +7813,16 @@
 				"title": "이건 대본에 없었잖아요, 공작님!",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012782/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012782/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012782/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012783/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012783/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012783/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 82,
+				"total": 83,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7851,15 +7851,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7900,
-					"sale_price": 7900,
+					"full_price": 8000,
+					"sale_price": 8000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-31T11:00:06+09:00"
+				"last_opened_episode_date": "2023-06-01T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -9047,17 +9047,6 @@
 			"link": "https://ridibooks.com/books/2259011723"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -10375,7 +10364,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 15
+					"count": 16
 				}
 			],
 			"ridiselect": false,
@@ -11806,16 +11795,16 @@
 				"title": "죽여 줘, 나를",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012775/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012775/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012775/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012776/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012776/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012776/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 118,
+				"total": 119,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11844,15 +11833,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11500,
-					"sale_price": 11500,
+					"full_price": 11600,
+					"sale_price": 11600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-31T11:00:07+09:00"
+				"last_opened_episode_date": "2023-06-01T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -12575,16 +12564,16 @@
 				"title": "NPC 힐러로 전직했습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012831/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012831/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012831/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012834/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012834/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012834/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 73,
+				"total": 74,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -12613,15 +12602,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7000,
-					"sale_price": 7000,
+					"full_price": 7100,
+					"sale_price": 7100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-31T11:00:06+09:00"
+				"last_opened_episode_date": "2023-06-01T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -14651,16 +14640,16 @@
 				"title": "장르가 랜덤이라 불행하다(15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012821/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012821/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012821/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012839/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012839/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012839/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 64,
+				"total": 65,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -14689,15 +14678,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6100,
-					"sale_price": 6100,
+					"full_price": 6200,
+					"sale_price": 6200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-30T11:00:06+09:00"
+				"last_opened_episode_date": "2023-06-01T11:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -14748,6 +14737,17 @@
 			"link": "https://ridibooks.com/books/2259012695"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -18713,16 +18713,16 @@
 				"title": "좀비 카페 사장은 S급 힐러입니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012811/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012811/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012811/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012812/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012812/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012812/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 106,
+				"total": 107,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -18751,15 +18751,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10300,
-					"sale_price": 10300,
+					"full_price": 10400,
+					"sale_price": 10400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-05-31T11:00:06+09:00"
+				"last_opened_episode_date": "2023-06-01T11:00:07+09:00"
 			},
 			"categories": [
 				{
