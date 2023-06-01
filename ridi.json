@@ -339,7 +339,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3304
+					"count": 3305
 				}
 			],
 			"ridiselect": false,
@@ -924,7 +924,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2059
+					"count": 2058
 				}
 			],
 			"ridiselect": false,
@@ -1306,15 +1306,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 3
+					"count": 4
 				},
 				{
 					"rating": 4,
-					"count": 89
+					"count": 91
 				},
 				{
 					"rating": 5,
-					"count": 2037
+					"count": 2103
 				}
 			],
 			"ridiselect": false,
@@ -2090,11 +2090,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 356
+					"count": 357
 				},
 				{
 					"rating": 5,
-					"count": 3305
+					"count": 3304
 				}
 			],
 			"ridiselect": false,
@@ -2783,16 +2783,16 @@
 				"title": "테라리움 어드벤처",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000748/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000748/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000748/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000749/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000749/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000749/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 735,
+				"total": 736,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2821,8 +2821,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 73200,
-					"sale_price": 73200,
+					"full_price": 73300,
+					"sale_price": 73300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -2840,7 +2840,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-05-31T16:00:09+09:00"
+				"last_opened_episode_date": "2023-06-01T16:00:10+09:00"
 			},
 			"categories": [
 				{
@@ -2879,7 +2879,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4434
+					"count": 4437
 				}
 			],
 			"ridiselect": false,
@@ -3075,7 +3075,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2046
+					"count": 2045
 				}
 			],
 			"ridiselect": false,
@@ -3645,7 +3645,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 2811
+					"count": 2812
 				},
 				{
 					"rating": 5,
@@ -6549,7 +6549,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2415
+					"count": 2413
 				}
 			],
 			"ridiselect": false,
@@ -7326,7 +7326,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 40
+					"count": 39
 				},
 				{
 					"rating": 4,
@@ -7334,7 +7334,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1722
+					"count": 1723
 				}
 			],
 			"ridiselect": false,
@@ -7714,7 +7714,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3113
+					"count": 3111
 				}
 			],
 			"ridiselect": false,
@@ -9219,7 +9219,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3354
+					"count": 3353
 				}
 			],
 			"ridiselect": false,
@@ -12649,7 +12649,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3675
+					"count": 3674
 				}
 			],
 			"ridiselect": false,
@@ -18993,7 +18993,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2268
+					"count": 2267
 				}
 			],
 			"ridiselect": false,
