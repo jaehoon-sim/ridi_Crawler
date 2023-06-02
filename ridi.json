@@ -339,7 +339,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1597
+					"count": 1622
 				}
 			],
 			"ridiselect": false,
@@ -3154,16 +3154,16 @@
 				"title": "테라리움 어드벤처",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000749/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000749/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000749/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000750/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000750/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000750/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 736,
+				"total": 737,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3192,8 +3192,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 73300,
-					"sale_price": 73300,
+					"full_price": 73400,
+					"sale_price": 73400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -3211,7 +3211,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-01T16:00:10+09:00"
+				"last_opened_episode_date": "2023-06-02T16:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -4020,7 +4020,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48550
+					"count": 48551
 				}
 			],
 			"ridiselect": false,
@@ -6228,16 +6228,16 @@
 				"title": "괴물 황자를 길들여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/297059137/small#1",
-					"large": "https://img.ridicdn.net/cover/297059137/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/297059137/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/297059138/small#1",
+					"large": "https://img.ridicdn.net/cover/297059138/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/297059138/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1527,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 201,
+				"total": 202,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6266,15 +6266,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 19800,
-					"sale_price": 19800,
+					"full_price": 19900,
+					"sale_price": 19900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-01T16:00:06+09:00"
+				"last_opened_episode_date": "2023-06-02T16:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -10329,7 +10329,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 246
+					"count": 247
 				},
 				{
 					"rating": 2,
@@ -10345,7 +10345,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5763
+					"count": 5762
 				}
 			],
 			"ridiselect": false,
