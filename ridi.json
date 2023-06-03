@@ -1086,7 +1086,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4229
+					"count": 4230
 				}
 			],
 			"ridiselect": false,
@@ -1270,7 +1270,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2921
+					"count": 2922
 				}
 			],
 			"ridiselect": false,
@@ -2105,16 +2105,16 @@
 				"title": "말하는 대로 될지어다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3000008059/small#1",
-					"large": "https://img.ridicdn.net/cover/3000008059/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3000008059/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3000008060/small#1",
+					"large": "https://img.ridicdn.net/cover/3000008060/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3000008060/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 77,
+				"total": 78,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2143,15 +2143,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7200,
-					"sale_price": 7200,
+					"full_price": 7300,
+					"sale_price": 7300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-03T08:00:03+09:00"
+				"last_opened_episode_date": "2023-06-04T08:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -3064,16 +3064,16 @@
 				"title": "제독님과 해적 선장이 나를 귀찮게 한다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4403010441/small#1",
-					"large": "https://img.ridicdn.net/cover/4403010441/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4403010441/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4403010442/small#1",
+					"large": "https://img.ridicdn.net/cover/4403010442/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4403010442/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1100
 				},
 				"episode": 1,
-				"total": 66,
+				"total": 67,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3102,15 +3102,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6300,
-					"sale_price": 6300,
+					"full_price": 6400,
+					"sale_price": 6400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-03T08:00:04+09:00"
+				"last_opened_episode_date": "2023-06-04T08:00:06+09:00"
 			},
 			"categories": [
 				{
