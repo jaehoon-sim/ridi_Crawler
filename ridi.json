@@ -136,7 +136,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 35
+					"count": 36
 				},
 				{
 					"rating": 4,
@@ -1259,7 +1259,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2926
+					"count": 2927
 				}
 			],
 			"ridiselect": false,
@@ -1443,7 +1443,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3164
+					"count": 3165
 				}
 			],
 			"ridiselect": false,
@@ -1627,7 +1627,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48579
+					"count": 48580
 				}
 			],
 			"ridiselect": false,
@@ -7948,13 +7948,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 24,
+					"interval_hours": 1,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2022-09-30T00:00:00+09:00",
-					"closing_date": "2032-10-01T23:59:59+09:00"
+					"opening_date": "2023-06-04T23:55:00+09:00",
+					"closing_date": "2023-06-05T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -8378,7 +8378,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 47
+					"count": 48
 				},
 				{
 					"rating": 4,
@@ -10602,7 +10602,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4981
+					"count": 4982
 				}
 			],
 			"ridiselect": false,
@@ -12111,11 +12111,11 @@
 				},
 				{
 					"rating": 3,
-					"count": 18
+					"count": 19
 				},
 				{
 					"rating": 4,
-					"count": 139
+					"count": 138
 				},
 				{
 					"rating": 5,
@@ -13039,7 +13039,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2399
+					"count": 2400
 				}
 			],
 			"ridiselect": false,
