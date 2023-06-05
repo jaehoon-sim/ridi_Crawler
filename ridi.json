@@ -2951,16 +2951,16 @@
 				"title": "말하는 대로 될지어다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3000008113/small#1",
-					"large": "https://img.ridicdn.net/cover/3000008113/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3000008113/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3000008116/small#1",
+					"large": "https://img.ridicdn.net/cover/3000008116/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3000008116/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 79,
+				"total": 80,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2989,15 +2989,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7400,
-					"sale_price": 7400,
+					"full_price": 7500,
+					"sale_price": 7500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-05T08:00:04+09:00"
+				"last_opened_episode_date": "2023-06-06T08:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -3231,7 +3231,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2787
+					"count": 2786
 				}
 			],
 			"ridiselect": false,
@@ -6039,16 +6039,16 @@
 				"title": "제독님과 해적 선장이 나를 귀찮게 한다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4403010443/small#1",
-					"large": "https://img.ridicdn.net/cover/4403010443/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4403010443/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4403010444/small#1",
+					"large": "https://img.ridicdn.net/cover/4403010444/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4403010444/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1100
 				},
 				"episode": 1,
-				"total": 68,
+				"total": 69,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6077,15 +6077,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6500,
-					"sale_price": 6500,
+					"full_price": 6600,
+					"sale_price": 6600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-05T08:00:05+09:00"
+				"last_opened_episode_date": "2023-06-06T08:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -7471,7 +7471,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 174
+					"count": 175
 				},
 				{
 					"rating": 5,
@@ -9049,16 +9049,16 @@
 				"title": "흑묘 대공의 애착 메이드",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211043881/small#1",
-					"large": "https://img.ridicdn.net/cover/211043881/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211043881/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211044031/small#1",
+					"large": "https://img.ridicdn.net/cover/211044031/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211044031/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1624,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 70,
+				"total": 71,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9087,15 +9087,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6700,
-					"sale_price": 6700,
+					"full_price": 6800,
+					"sale_price": 6800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-05T08:00:07+09:00"
+				"last_opened_episode_date": "2023-06-06T08:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -12655,7 +12655,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2681
+					"count": 2682
 				}
 			],
 			"ridiselect": false,
