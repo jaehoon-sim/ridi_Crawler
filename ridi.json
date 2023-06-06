@@ -534,7 +534,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2064
+					"count": 2066
 				}
 			],
 			"ridiselect": false,
@@ -729,7 +729,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2871
+					"count": 2872
 				}
 			],
 			"ridiselect": false,
@@ -1306,7 +1306,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 36
+					"count": 35
 				},
 				{
 					"rating": 4,
@@ -2072,7 +2072,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2732
+					"count": 2731
 				}
 			],
 			"ridiselect": false,
@@ -2267,7 +2267,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48594
+					"count": 48595
 				}
 			],
 			"ridiselect": false,
@@ -3231,7 +3231,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2785
+					"count": 2784
 				}
 			],
 			"ridiselect": false,
@@ -4701,16 +4701,16 @@
 				"title": "라스트 아틀란티스",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213013328/small#1",
-					"large": "https://img.ridicdn.net/cover/2213013328/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213013328/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213013332/small#1",
+					"large": "https://img.ridicdn.net/cover/2213013332/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213013332/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1528,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 154,
+				"total": 155,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4739,15 +4739,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 15100,
-					"sale_price": 15100,
+					"full_price": 15200,
+					"sale_price": 15200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-05T11:06:26+09:00"
+				"last_opened_episode_date": "2023-06-06T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -5080,16 +5080,16 @@
 				"title": "장르가 랜덤이라 불행하다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013006/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013006/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013006/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013007/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013007/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013007/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 69,
+				"total": 70,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5118,15 +5118,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6500,
-					"sale_price": 6500,
+					"full_price": 6600,
+					"sale_price": 6600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-05T11:00:08+09:00"
+				"last_opened_episode_date": "2023-06-06T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -5939,7 +5939,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4447
+					"count": 4448
 				}
 			],
 			"ridiselect": false,
@@ -7195,16 +7195,16 @@
 				"title": "이건 대본에 없었잖아요, 공작님!",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012843/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012843/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012843/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012844/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012844/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012844/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 85,
+				"total": 86,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7233,15 +7233,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8200,
-					"sale_price": 8200,
+					"full_price": 8300,
+					"sale_price": 8300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-05T11:00:08+09:00"
+				"last_opened_episode_date": "2023-06-06T11:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -8137,16 +8137,16 @@
 				"title": "NPC 힐러로 전직했습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012999/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012999/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012999/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013012/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013012/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013012/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 79,
+				"total": 81,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8175,15 +8175,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7600,
-					"sale_price": 7600,
+					"full_price": 7800,
+					"sale_price": 7800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-05T11:00:11+09:00"
+				"last_opened_episode_date": "2023-06-06T11:00:12+09:00"
 			},
 			"categories": [
 				{
@@ -11919,7 +11919,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2950
+					"count": 2951
 				}
 			],
 			"ridiselect": false,
@@ -13987,7 +13987,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1724
+					"count": 1725
 				}
 			],
 			"ridiselect": false,
@@ -14762,7 +14762,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2713
+					"count": 2714
 				}
 			],
 			"ridiselect": false,
@@ -18236,16 +18236,16 @@
 				"title": "죽여 줘, 나를",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259012849/small#1",
-					"large": "https://img.ridicdn.net/cover/2259012849/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259012849/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259012850/small#1",
+					"large": "https://img.ridicdn.net/cover/2259012850/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259012850/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 121,
+				"total": 122,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -18274,15 +18274,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11800,
-					"sale_price": 11800,
+					"full_price": 11900,
+					"sale_price": 11900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-05T11:00:08+09:00"
+				"last_opened_episode_date": "2023-06-06T11:00:08+09:00"
 			},
 			"categories": [
 				{
