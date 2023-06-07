@@ -584,7 +584,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3176
+					"count": 3175
 				}
 			],
 			"ridiselect": false,
@@ -776,11 +776,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 100
+					"count": 101
 				},
 				{
 					"rating": 5,
-					"count": 1809
+					"count": 1863
 				}
 			],
 			"ridiselect": false,
@@ -2364,7 +2364,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 1293
+					"count": 1292
 				},
 				{
 					"rating": 2,
@@ -2380,7 +2380,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48616
+					"count": 48619
 				}
 			],
 			"ridiselect": false,
@@ -3081,16 +3081,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211043412/small#1",
-					"large": "https://img.ridicdn.net/cover/211043412/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211043412/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211043413/small#1",
+					"large": "https://img.ridicdn.net/cover/211043413/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211043413/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 542,
+				"total": 543,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3119,15 +3119,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 53600,
-					"sale_price": 53600,
+					"full_price": 53700,
+					"sale_price": 53700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-07T00:04:49+09:00"
+				"last_opened_episode_date": "2023-06-08T00:01:04+09:00"
 			},
 			"categories": [
 				{
@@ -10545,7 +10545,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2714
+					"count": 2715
 				}
 			],
 			"ridiselect": false,
@@ -11894,7 +11894,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3665
+					"count": 3664
 				}
 			],
 			"ridiselect": false,
