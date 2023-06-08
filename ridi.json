@@ -259,16 +259,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120065265/small#1",
-					"large": "https://img.ridicdn.net/cover/120065265/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120065265/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120065280/small#1",
+					"large": "https://img.ridicdn.net/cover/120065280/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120065280/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 215,
+				"total": 216,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -297,8 +297,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 21200,
-					"sale_price": 21200,
+					"full_price": 21300,
+					"sale_price": 21300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -316,7 +316,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-07T19:00:07+09:00"
+				"last_opened_episode_date": "2023-06-08T19:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -1692,16 +1692,16 @@
 				"title": "나의 상냥한 빌런에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369006138/small#1",
-					"large": "https://img.ridicdn.net/cover/2369006138/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369006138/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369006139/small#1",
+					"large": "https://img.ridicdn.net/cover/2369006139/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369006139/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 198,
+				"total": 199,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1730,8 +1730,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 19400,
-					"sale_price": 19400,
+					"full_price": 19500,
+					"sale_price": 19500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -1749,7 +1749,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-07T19:00:07+09:00"
+				"last_opened_episode_date": "2023-06-08T19:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -1980,11 +1980,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 111
+					"count": 112
 				},
 				{
 					"rating": 5,
-					"count": 2088
+					"count": 2118
 				}
 			],
 			"ridiselect": false,
@@ -4577,7 +4577,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2866
+					"count": 2865
 				}
 			],
 			"ridiselect": false,
@@ -4983,7 +4983,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2666
+					"count": 2665
 				}
 			],
 			"ridiselect": false,
