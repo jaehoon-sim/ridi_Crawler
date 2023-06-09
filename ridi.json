@@ -4359,7 +4359,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 10
+					"count": 11
 				},
 				{
 					"rating": 4,
@@ -4367,7 +4367,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2766
+					"count": 2765
 				}
 			],
 			"ridiselect": false,
@@ -4558,7 +4558,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 1946
+					"count": 1947
 				},
 				{
 					"rating": 5,
@@ -19065,16 +19065,16 @@
 				"title": "그녀는 복수하지 않기로 결정했다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213013334/small#1",
-					"large": "https://img.ridicdn.net/cover/2213013334/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213013334/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213013348/small#1",
+					"large": "https://img.ridicdn.net/cover/2213013348/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213013348/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1350,
 					"width": 900
 				},
 				"episode": 1,
-				"total": 294,
+				"total": 295,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -19103,15 +19103,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 29100,
-					"sale_price": 29100,
+					"full_price": 29200,
+					"sale_price": 29200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-07T18:42:37+09:00"
+				"last_opened_episode_date": "2023-06-09T18:20:13+09:00"
 			},
 			"categories": [
 				{
@@ -19162,6 +19162,17 @@
 			"link": "https://ridibooks.com/books/2213007786"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
