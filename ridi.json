@@ -539,7 +539,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 0
+					"count": 1
 				},
 				{
 					"rating": 3,
@@ -547,11 +547,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 44
+					"count": 45
 				},
 				{
 					"rating": 5,
-					"count": 1545
+					"count": 1564
 				}
 			],
 			"ridiselect": false,
@@ -2993,7 +2993,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 20
+					"count": 21
 				}
 			],
 			"ridiselect": false,
@@ -3564,7 +3564,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48642
+					"count": 48643
 				}
 			],
 			"ridiselect": false,
@@ -3875,16 +3875,16 @@
 				"title": "삼류 무협지에서 살아남기",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013062/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013062/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013062/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013067/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013067/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013067/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 314,
+				"total": 315,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3913,15 +3913,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 31100,
-					"sale_price": 31100,
+					"full_price": 31200,
+					"sale_price": 31200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-08T17:05:07+09:00"
+				"last_opened_episode_date": "2023-06-09T16:55:07+09:00"
 			},
 			"categories": [
 				{
@@ -10980,11 +10980,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 1714
+					"count": 1713
 				},
 				{
 					"rating": 5,
-					"count": 6586
+					"count": 6587
 				}
 			],
 			"ridiselect": false,
@@ -17340,16 +17340,16 @@
 				"title": "EX급이 이렇게 약해도 되나요?",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/961072427/small#1",
-					"large": "https://img.ridicdn.net/cover/961072427/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/961072427/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/961072441/small#1",
+					"large": "https://img.ridicdn.net/cover/961072441/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/961072441/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 186,
+				"total": 187,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -17378,15 +17378,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 18300,
-					"sale_price": 18300,
+					"full_price": 18400,
+					"sale_price": 18400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-08T17:00:07+09:00"
+				"last_opened_episode_date": "2023-06-09T17:00:08+09:00"
 			},
 			"categories": [
 				{
