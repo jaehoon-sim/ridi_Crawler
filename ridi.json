@@ -551,7 +551,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1532
+					"count": 1545
 				}
 			],
 			"ridiselect": false,
@@ -2701,16 +2701,16 @@
 				"title": "테라리움 어드벤처",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000753/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000753/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000753/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000754/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000754/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000754/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 740,
+				"total": 741,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2739,8 +2739,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 73700,
-					"sale_price": 73700,
+					"full_price": 73800,
+					"sale_price": 73800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -2758,7 +2758,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-08T16:00:09+09:00"
+				"last_opened_episode_date": "2023-06-09T16:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -3564,7 +3564,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48640
+					"count": 48642
 				}
 			],
 			"ridiselect": false,
@@ -7209,16 +7209,16 @@
 				"title": "괴물 황자를 길들여버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/297059470/small#1",
-					"large": "https://img.ridicdn.net/cover/297059470/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/297059470/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/297059471/small#1",
+					"large": "https://img.ridicdn.net/cover/297059471/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/297059471/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1527,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 205,
+				"total": 206,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7247,15 +7247,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 20200,
-					"sale_price": 20200,
+					"full_price": 20300,
+					"sale_price": 20300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-08T16:00:05+09:00"
+				"last_opened_episode_date": "2023-06-09T16:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -9784,9 +9784,9 @@
 				"title": "계약 결혼일 뿐이었다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4863000210/small#1",
-					"large": "https://img.ridicdn.net/cover/4863000210/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4863000210/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4863000003/small#1",
+					"large": "https://img.ridicdn.net/cover/4863000003/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4863000003/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
@@ -9794,7 +9794,7 @@
 				},
 				"episode": 1,
 				"total": 206,
-				"completion": false,
+				"completion": true,
 				"publishing_schedule": {
 					"periodical": true
 				},
