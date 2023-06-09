@@ -551,7 +551,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1463
+					"count": 1481
 				}
 			],
 			"ridiselect": false,
@@ -1577,7 +1577,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2865
+					"count": 2866
 				}
 			],
 			"ridiselect": false,
@@ -3369,7 +3369,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2977
+					"count": 2976
 				}
 			],
 			"ridiselect": false,
@@ -5353,7 +5353,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2663
+					"count": 2662
 				}
 			],
 			"ridiselect": false,
@@ -5664,16 +5664,16 @@
 				"title": "가이드학개론",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2313024287/small#1",
-					"large": "https://img.ridicdn.net/cover/2313024287/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2313024287/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2313024289/small#1",
+					"large": "https://img.ridicdn.net/cover/2313024289/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2313024289/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1033,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 98,
+				"total": 99,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5702,8 +5702,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9500,
-					"sale_price": 9500,
+					"full_price": 9600,
+					"sale_price": 9600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -5721,7 +5721,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-08T12:00:07+09:00"
+				"last_opened_episode_date": "2023-06-09T12:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -7489,7 +7489,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2605
+					"count": 2604
 				}
 			],
 			"ridiselect": false,
