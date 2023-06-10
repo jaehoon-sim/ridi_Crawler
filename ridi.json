@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3057
+					"count": 3058
 				}
 			],
 			"ridiselect": false,
@@ -254,16 +254,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120065290/small#1",
-					"large": "https://img.ridicdn.net/cover/120065290/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120065290/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120065291/small#1",
+					"large": "https://img.ridicdn.net/cover/120065291/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120065291/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 217,
+				"total": 218,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -292,15 +292,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 21400,
-					"sale_price": 21400,
+					"full_price": 21500,
+					"sale_price": 21500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-09T19:00:08+09:00"
+				"last_opened_episode_date": "2023-06-10T19:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -898,11 +898,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 57
+					"count": 58
 				},
 				{
 					"rating": 5,
-					"count": 1446
+					"count": 1469
 				}
 			],
 			"ridiselect": false,
@@ -2414,11 +2414,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 53
+					"count": 54
 				},
 				{
 					"rating": 5,
-					"count": 1934
+					"count": 1970
 				}
 			],
 			"ridiselect": false,
@@ -2614,17 +2614,6 @@
 			"link": "https://ridibooks.com/books/2369005517"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -8655,7 +8644,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2716
+					"count": 2717
 				}
 			],
 			"ridiselect": false,
@@ -14763,17 +14752,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -17019,17 +16997,6 @@
 			"link": "https://ridibooks.com/books/2369005516"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
