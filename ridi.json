@@ -519,7 +519,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 497
+					"count": 498
 				},
 				{
 					"rating": 5,
@@ -622,16 +622,16 @@
 				"title": "여름 궁전의 장난감",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3302011244/small#1",
-					"large": "https://img.ridicdn.net/cover/3302011244/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3302011244/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3302011245/small#1",
+					"large": "https://img.ridicdn.net/cover/3302011245/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3302011245/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 61,
+				"total": 62,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -660,15 +660,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 5800,
-					"sale_price": 5800,
+					"full_price": 5900,
+					"sale_price": 5900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-10T18:00:05+09:00"
+				"last_opened_episode_date": "2023-06-11T18:00:05+09:00"
 			},
 			"categories": [
 				{
@@ -703,11 +703,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 132
+					"count": 133
 				},
 				{
 					"rating": 5,
-					"count": 2028
+					"count": 2061
 				}
 			],
 			"ridiselect": false,
@@ -2201,7 +2201,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2870
+					"count": 2869
 				}
 			],
 			"ridiselect": false,
@@ -7062,7 +7062,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2929
+					"count": 2931
 				}
 			],
 			"ridiselect": false,
@@ -9012,16 +9012,16 @@
 				"title": "악역이 나를 탐내는 이유",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049038936/small#1",
-					"large": "https://img.ridicdn.net/cover/3049038936/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049038936/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049038937/small#1",
+					"large": "https://img.ridicdn.net/cover/3049038937/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049038937/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 124,
+				"total": 125,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9050,15 +9050,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12100,
-					"sale_price": 12100,
+					"full_price": 12200,
+					"sale_price": 12200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-10T18:01:28+09:00"
+				"last_opened_episode_date": "2023-06-11T18:04:08+09:00"
 			},
 			"categories": [
 				{
