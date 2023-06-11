@@ -140,7 +140,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 211
+					"count": 212
 				},
 				{
 					"rating": 5,
@@ -703,11 +703,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 106
+					"count": 113
 				},
 				{
 					"rating": 5,
-					"count": 1879
+					"count": 1905
 				}
 			],
 			"ridiselect": false,
@@ -902,7 +902,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2681
+					"count": 2682
 				}
 			],
 			"ridiselect": false,
@@ -3114,11 +3114,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 1948
+					"count": 1947
 				},
 				{
 					"rating": 5,
-					"count": 9130
+					"count": 9131
 				}
 			],
 			"ridiselect": false,
@@ -3894,17 +3894,6 @@
 			"link": "https://ridibooks.com/books/2313021759"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -7816,7 +7805,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 506
+					"count": 507
 				},
 				{
 					"rating": 5,
