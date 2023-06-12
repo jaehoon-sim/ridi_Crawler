@@ -132,7 +132,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 4
+					"count": 5
 				},
 				{
 					"rating": 3,
@@ -140,11 +140,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 52
+					"count": 53
 				},
 				{
 					"rating": 5,
-					"count": 1409
+					"count": 1426
 				}
 			],
 			"ridiselect": false,
@@ -3014,7 +3014,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2276
+					"count": 2277
 				}
 			],
 			"ridiselect": false,
@@ -3684,16 +3684,16 @@
 				"title": "말하는 대로 될지어다 1부",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3000008139/small#1",
-					"large": "https://img.ridicdn.net/cover/3000008139/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3000008139/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3000008154/small#1",
+					"large": "https://img.ridicdn.net/cover/3000008154/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3000008154/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 86,
+				"total": 87,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3722,15 +3722,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8100,
-					"sale_price": 8100,
+					"full_price": 8200,
+					"sale_price": 8200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-12T08:00:08+09:00"
+				"last_opened_episode_date": "2023-06-13T08:00:05+09:00"
 			},
 			"categories": [
 				{
@@ -5601,16 +5601,16 @@
 				"title": "제독님과 해적 선장이 나를 귀찮게 한다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4403010448/small#1",
-					"large": "https://img.ridicdn.net/cover/4403010448/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4403010448/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4403010460/small#1",
+					"large": "https://img.ridicdn.net/cover/4403010460/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4403010460/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1100
 				},
 				"episode": 1,
-				"total": 73,
+				"total": 74,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5639,15 +5639,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7000,
-					"sale_price": 7000,
+					"full_price": 7100,
+					"sale_price": 7100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-12T08:00:05+09:00"
+				"last_opened_episode_date": "2023-06-13T08:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -8375,7 +8375,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2718
+					"count": 2719
 				}
 			],
 			"ridiselect": false,
@@ -8474,16 +8474,16 @@
 				"title": "흑묘 대공의 애착 메이드",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211044254/small#1",
-					"large": "https://img.ridicdn.net/cover/211044254/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211044254/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211044275/small#1",
+					"large": "https://img.ridicdn.net/cover/211044275/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211044275/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1624,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 75,
+				"total": 76,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8512,15 +8512,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7200,
-					"sale_price": 7200,
+					"full_price": 7300,
+					"sale_price": 7300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-12T08:00:07+09:00"
+				"last_opened_episode_date": "2023-06-13T08:00:08+09:00"
 			},
 			"categories": [
 				{
