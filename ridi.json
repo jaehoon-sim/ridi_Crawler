@@ -15288,7 +15288,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 0
+					"count": 1
 				},
 				{
 					"rating": 2,
@@ -15304,7 +15304,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3055
+					"count": 3054
 				}
 			],
 			"ridiselect": false,
