@@ -128,7 +128,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 4
+					"count": 5
 				},
 				{
 					"rating": 2,
@@ -136,15 +136,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 8
+					"count": 9
 				},
 				{
 					"rating": 4,
-					"count": 109
+					"count": 112
 				},
 				{
 					"rating": 5,
-					"count": 1783
+					"count": 1834
 				}
 			],
 			"ridiselect": false,
@@ -339,7 +339,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3200
+					"count": 3201
 				}
 			],
 			"ridiselect": false,
@@ -2837,11 +2837,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 2822
+					"count": 2823
 				},
 				{
 					"rating": 5,
-					"count": 48684
+					"count": 48689
 				}
 			],
 			"ridiselect": false,
@@ -9703,7 +9703,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 120
+					"count": 121
 				},
 				{
 					"rating": 5,
@@ -12135,7 +12135,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5240
+					"count": 5239
 				}
 			],
 			"ridiselect": false,
@@ -14395,7 +14395,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3829
+					"count": 3830
 				}
 			],
 			"ridiselect": false,
