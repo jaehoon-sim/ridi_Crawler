@@ -271,16 +271,16 @@
 				"title": "전생에 나라를 팔았습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/120065388/small#1",
-					"large": "https://img.ridicdn.net/cover/120065388/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/120065388/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/120065403/small#1",
+					"large": "https://img.ridicdn.net/cover/120065403/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/120065403/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1400,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 220,
+				"total": 221,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -309,15 +309,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 21700,
-					"sale_price": 21700,
+					"full_price": 21800,
+					"sale_price": 21800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-14T19:00:07+09:00"
+				"last_opened_episode_date": "2023-06-15T19:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -1382,7 +1382,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2708
+					"count": 2705
 				}
 			],
 			"ridiselect": false,
@@ -1772,7 +1772,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2788
+					"count": 2789
 				}
 			],
 			"ridiselect": false,
@@ -1882,16 +1882,16 @@
 				"title": "나의 상냥한 빌런에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369006151/small#1",
-					"large": "https://img.ridicdn.net/cover/2369006151/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369006151/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369006153/small#1",
+					"large": "https://img.ridicdn.net/cover/2369006153/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369006153/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 203,
+				"total": 204,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1920,15 +1920,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 19900,
-					"sale_price": 19900,
+					"full_price": 20000,
+					"sale_price": 20000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-14T19:00:11+09:00"
+				"last_opened_episode_date": "2023-06-15T19:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -2767,7 +2767,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2618
+					"count": 2615
 				}
 			],
 			"ridiselect": false,
@@ -3536,7 +3536,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48706
+					"count": 48707
 				}
 			],
 			"ridiselect": false,
@@ -9474,7 +9474,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3346
+					"count": 3345
 				}
 			],
 			"ridiselect": false,
@@ -10198,16 +10198,16 @@
 				"title": "도망친 시녀는 대마법사의 사랑을 받는다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2719002792/small#1",
-					"large": "https://img.ridicdn.net/cover/2719002792/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2719002792/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2719002805/small#1",
+					"large": "https://img.ridicdn.net/cover/2719002805/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2719002805/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 95,
+				"total": 96,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10236,8 +10236,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9200,
-					"sale_price": 9200,
+					"full_price": 9300,
+					"sale_price": 9300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -10255,7 +10255,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-13T19:00:06+09:00"
+				"last_opened_episode_date": "2023-06-15T19:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -10306,6 +10306,17 @@
 			"link": "https://ridibooks.com/books/2719002421"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -16285,16 +16296,16 @@
 				"title": "너드남의 흑화를 막아 보겠습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3822006652/small#1",
-					"large": "https://img.ridicdn.net/cover/3822006652/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3822006652/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3822006654/small#1",
+					"large": "https://img.ridicdn.net/cover/3822006654/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3822006654/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 194,
+				"total": 195,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -16323,8 +16334,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 19100,
-					"sale_price": 19100,
+					"full_price": 19200,
+					"sale_price": 19200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -16342,7 +16353,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-14T19:17:41+09:00"
+				"last_opened_episode_date": "2023-06-15T19:00:08+09:00"
 			},
 			"categories": [
 				{
