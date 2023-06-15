@@ -1378,7 +1378,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 158
+					"count": 159
 				},
 				{
 					"rating": 5,
@@ -2682,16 +2682,16 @@
 				"title": "의도적 접근",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013053/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013053/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013053/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013054/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013054/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013054/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 74,
+				"total": 75,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2720,15 +2720,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7100,
-					"sale_price": 7100,
+					"full_price": 7200,
+					"sale_price": 7200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-14T11:00:07+09:00"
+				"last_opened_episode_date": "2023-06-15T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -3536,7 +3536,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48706
+					"count": 48705
 				}
 			],
 			"ridiselect": false,
@@ -5057,16 +5057,16 @@
 				"title": "라스트 아틀란티스",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213013402/small#1",
-					"large": "https://img.ridicdn.net/cover/2213013402/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213013402/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213013404/small#1",
+					"large": "https://img.ridicdn.net/cover/2213013404/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213013404/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1528,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 161,
+				"total": 162,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5095,15 +5095,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 15800,
-					"sale_price": 15800,
+					"full_price": 15900,
+					"sale_price": 15900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-14T11:00:08+09:00"
+				"last_opened_episode_date": "2023-06-15T11:08:44+09:00"
 			},
 			"categories": [
 				{
@@ -6713,16 +6713,16 @@
 				"title": "장르가 랜덤이라 불행하다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013089/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013089/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013089/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013097/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013097/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013097/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 76,
+				"total": 77,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6751,8 +6751,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7200,
-					"sale_price": 7200,
+					"full_price": 7300,
+					"sale_price": 7300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -6770,7 +6770,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-14T11:00:08+09:00"
+				"last_opened_episode_date": "2023-06-15T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -7338,16 +7338,16 @@
 				"title": "이건 대본에 없었잖아요, 공작님!",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013029/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013029/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013029/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013030/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013030/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013030/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 92,
+				"total": 93,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7376,8 +7376,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8900,
-					"sale_price": 8900,
+					"full_price": 9000,
+					"sale_price": 9000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -7395,7 +7395,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-14T11:00:08+09:00"
+				"last_opened_episode_date": "2023-06-15T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -11783,16 +11783,16 @@
 				"title": "NPC 힐러로 전직했습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013092/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013092/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013092/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013094/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013094/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013094/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 93,
+				"total": 95,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11821,8 +11821,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9000,
-					"sale_price": 9000,
+					"full_price": 9200,
+					"sale_price": 9200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -11840,7 +11840,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-14T11:00:10+09:00"
+				"last_opened_episode_date": "2023-06-15T11:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -12191,16 +12191,16 @@
 				"title": "의도적 접근(15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013059/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013059/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013059/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013060/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013060/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013060/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 73,
+				"total": 74,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -12229,15 +12229,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7000,
-					"sale_price": 7000,
+					"full_price": 7100,
+					"sale_price": 7100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-14T11:00:08+09:00"
+				"last_opened_episode_date": "2023-06-15T11:00:05+09:00"
 			},
 			"categories": [
 				{
