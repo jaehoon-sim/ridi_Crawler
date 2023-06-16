@@ -543,15 +543,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 13
+					"count": 14
 				},
 				{
 					"rating": 4,
-					"count": 77
+					"count": 78
 				},
 				{
 					"rating": 5,
-					"count": 1418
+					"count": 1437
 				}
 			],
 			"ridiselect": false,
@@ -747,7 +747,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 115
+					"count": 116
 				},
 				{
 					"rating": 5,
@@ -963,7 +963,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2074
+					"count": 2073
 				}
 			],
 			"ridiselect": false,
@@ -1159,7 +1159,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2865
+					"count": 2863
 				}
 			],
 			"ridiselect": false,
@@ -1549,7 +1549,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2698
+					"count": 2695
 				}
 			],
 			"ridiselect": false,
@@ -2868,16 +2868,16 @@
 				"title": "삼류 무협지에서 살아남기",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013110/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013110/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013110/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013128/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013128/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013128/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 317,
+				"total": 318,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2906,8 +2906,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 31400,
-					"sale_price": 31400,
+					"full_price": 31500,
+					"sale_price": 31500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -2925,7 +2925,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-15T17:15:43+09:00"
+				"last_opened_episode_date": "2023-06-16T17:10:07+09:00"
 			},
 			"categories": [
 				{
@@ -3160,7 +3160,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2613
+					"count": 2611
 				}
 			],
 			"ridiselect": false,
@@ -4752,7 +4752,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2550
+					"count": 2549
 				}
 			],
 			"ridiselect": false,
@@ -6753,7 +6753,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2661
+					"count": 2660
 				}
 			],
 			"ridiselect": false,
@@ -7160,7 +7160,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2916
+					"count": 2915
 				}
 			],
 			"ridiselect": false,
@@ -9614,7 +9614,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2600
+					"count": 2599
 				}
 			],
 			"ridiselect": false,
@@ -9810,7 +9810,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2936
+					"count": 2937
 				}
 			],
 			"ridiselect": false,
@@ -10205,7 +10205,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2740
+					"count": 2739
 				}
 			],
 			"ridiselect": false,
@@ -11237,7 +11237,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3067
+					"count": 3066
 				}
 			],
 			"ridiselect": false,
@@ -11650,7 +11650,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3657
+					"count": 3656
 				}
 			],
 			"ridiselect": false,
@@ -13448,7 +13448,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2713
+					"count": 2712
 				}
 			],
 			"ridiselect": false,
@@ -15816,7 +15816,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2818
+					"count": 2815
 				}
 			],
 			"ridiselect": false,
