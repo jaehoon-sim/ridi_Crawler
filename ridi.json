@@ -543,15 +543,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 18
+					"count": 19
 				},
 				{
 					"rating": 4,
-					"count": 87
+					"count": 89
 				},
 				{
 					"rating": 5,
-					"count": 1620
+					"count": 1667
 				}
 			],
 			"ridiselect": false,
@@ -1280,16 +1280,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211044290/small#1",
-					"large": "https://img.ridicdn.net/cover/211044290/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211044290/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211044291/small#1",
+					"large": "https://img.ridicdn.net/cover/211044291/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211044291/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 548,
+				"total": 549,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1318,15 +1318,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 54200,
-					"sale_price": 54200,
+					"full_price": 54300,
+					"sale_price": 54300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-16T00:02:50+09:00"
+				"last_opened_episode_date": "2023-06-17T00:00:20+09:00"
 			},
 			"categories": [
 				{
@@ -2764,7 +2764,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2724
+					"count": 2718
 				}
 			],
 			"ridiselect": false,
@@ -3171,7 +3171,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2603
+					"count": 2605
 				}
 			],
 			"ridiselect": false,
@@ -7367,7 +7367,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3830
+					"count": 3831
 				}
 			],
 			"ridiselect": false,
@@ -11452,7 +11452,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 318
+					"count": 319
 				},
 				{
 					"rating": 4,
@@ -13079,7 +13079,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2878
+					"count": 2877
 				}
 			],
 			"ridiselect": false,
