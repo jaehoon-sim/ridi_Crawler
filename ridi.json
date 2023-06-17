@@ -567,7 +567,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3229
+					"count": 3228
 				}
 			],
 			"ridiselect": false,
@@ -755,7 +755,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 21
+					"count": 22
 				},
 				{
 					"rating": 4,
@@ -763,7 +763,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1710
+					"count": 1714
 				}
 			],
 			"ridiselect": false,
@@ -1912,7 +1912,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2689
+					"count": 2690
 				}
 			],
 			"ridiselect": false,
@@ -2780,16 +2780,16 @@
 				"title": "말하는 대로 될지어다 1부",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3000008202/small#1",
-					"large": "https://img.ridicdn.net/cover/3000008202/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3000008202/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3000008203/small#1",
+					"large": "https://img.ridicdn.net/cover/3000008203/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3000008203/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 91,
+				"total": 92,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2818,8 +2818,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8600,
-					"sale_price": 8600,
+					"full_price": 8700,
+					"sale_price": 8700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -2837,7 +2837,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-17T08:00:05+09:00"
+				"last_opened_episode_date": "2023-06-18T08:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -7084,16 +7084,16 @@
 				"title": "제독님과 해적 선장이 나를 귀찮게 한다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4403010464/small#1",
-					"large": "https://img.ridicdn.net/cover/4403010464/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4403010464/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4403010465/small#1",
+					"large": "https://img.ridicdn.net/cover/4403010465/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4403010465/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1100
 				},
 				"episode": 1,
-				"total": 78,
+				"total": 79,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7122,8 +7122,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7500,
-					"sale_price": 7500,
+					"full_price": 7600,
+					"sale_price": 7600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -7141,7 +7141,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-17T08:00:05+09:00"
+				"last_opened_episode_date": "2023-06-18T08:00:05+09:00"
 			},
 			"categories": [
 				{
