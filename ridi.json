@@ -547,11 +547,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 52
+					"count": 53
 				},
 				{
 					"rating": 5,
-					"count": 1323
+					"count": 1352
 				}
 			],
 			"ridiselect": false,
@@ -1944,7 +1944,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2874
+					"count": 2873
 				}
 			],
 			"ridiselect": false,
@@ -2320,11 +2320,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 92
+					"count": 95
 				},
 				{
 					"rating": 5,
-					"count": 1849
+					"count": 1861
 				}
 			],
 			"ridiselect": false,
@@ -2926,7 +2926,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2605
+					"count": 2604
 				}
 			],
 			"ridiselect": false,
@@ -2938,17 +2938,6 @@
 			"link": "https://ridibooks.com/books/2259012854"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -3121,7 +3110,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2713
+					"count": 2712
 				}
 			],
 			"ridiselect": false,
@@ -3930,7 +3919,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 71
+					"count": 70
 				}
 			],
 			"ridiselect": false,
@@ -5467,17 +5456,6 @@
 			"link": "https://ridibooks.com/books/2213012137"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -7182,16 +7160,16 @@
 				"title": "장르가 랜덤이라 불행하다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013122/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013122/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013122/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013123/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013123/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013123/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 78,
+				"total": 79,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7220,8 +7198,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7400,
-					"sale_price": 7400,
+					"full_price": 7500,
+					"sale_price": 7500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -7239,7 +7217,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-16T11:00:07+09:00"
+				"last_opened_episode_date": "2023-06-17T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -9031,16 +9009,16 @@
 				"title": "이건 대본에 없었잖아요, 공작님!",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013031/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013031/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013031/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013032/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013032/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013032/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 94,
+				"total": 95,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9069,8 +9047,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9100,
-					"sale_price": 9100,
+					"full_price": 9200,
+					"sale_price": 9200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -9088,7 +9066,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-16T11:00:07+09:00"
+				"last_opened_episode_date": "2023-06-17T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -9551,7 +9529,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3947
+					"count": 3948
 				}
 			],
 			"ridiselect": false,
@@ -11880,17 +11858,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -13176,16 +13143,16 @@
 				"title": "NPC 힐러로 전직했습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013120/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013120/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013120/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013131/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013131/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013131/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 97,
+				"total": 99,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -13214,8 +13181,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9400,
-					"sale_price": 9400,
+					"full_price": 9600,
+					"sale_price": 9600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -13233,7 +13200,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-16T11:00:12+09:00"
+				"last_opened_episode_date": "2023-06-17T11:00:10+09:00"
 			},
 			"categories": [
 				{
@@ -17997,7 +17964,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2733
+					"count": 2734
 				}
 			],
 			"ridiselect": false,
