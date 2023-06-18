@@ -352,7 +352,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 253
+					"count": 254
 				},
 				{
 					"rating": 5,
@@ -567,7 +567,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3229
+					"count": 3230
 				}
 			],
 			"ridiselect": false,
@@ -759,11 +759,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 65
+					"count": 66
 				},
 				{
 					"rating": 5,
-					"count": 1733
+					"count": 1760
 				}
 			],
 			"ridiselect": false,
@@ -1115,7 +1115,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 41
+					"count": 42
 				},
 				{
 					"rating": 2,
@@ -4824,7 +4824,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2591
+					"count": 2592
 				}
 			],
 			"ridiselect": false,
@@ -6476,16 +6476,16 @@
 				"title": "장르가 랜덤이라 불행하다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013123/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013123/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013123/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013126/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013126/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013126/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 79,
+				"total": 80,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6514,8 +6514,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7500,
-					"sale_price": 7500,
+					"full_price": 7600,
+					"sale_price": 7600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -6533,7 +6533,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-17T11:00:07+09:00"
+				"last_opened_episode_date": "2023-06-18T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -6572,7 +6572,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2358
+					"count": 2359
 				}
 			],
 			"ridiselect": false,
@@ -8068,16 +8068,16 @@
 				"title": "이건 대본에 없었잖아요, 공작님!",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013032/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013032/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013032/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013033/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013033/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013033/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 95,
+				"total": 96,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8106,8 +8106,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9200,
-					"sale_price": 9200,
+					"full_price": 9300,
+					"sale_price": 9300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -8125,7 +8125,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-17T11:00:07+09:00"
+				"last_opened_episode_date": "2023-06-18T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -10201,7 +10201,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2722
+					"count": 2723
 				}
 			],
 			"ridiselect": false,
@@ -11656,16 +11656,16 @@
 				"title": "NPC 힐러로 전직했습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013131/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013131/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013131/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013133/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013133/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013133/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 99,
+				"total": 101,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11694,8 +11694,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9600,
-					"sale_price": 9600,
+					"full_price": 9800,
+					"sale_price": 9800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -11713,7 +11713,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-17T11:00:10+09:00"
+				"last_opened_episode_date": "2023-06-18T11:00:10+09:00"
 			},
 			"categories": [
 				{
@@ -13843,7 +13843,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2815
+					"count": 2816
 				}
 			],
 			"ridiselect": false,
@@ -14228,7 +14228,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 5244
+					"count": 5245
 				}
 			],
 			"ridiselect": false,
