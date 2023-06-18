@@ -372,7 +372,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3236
+					"count": 3237
 				}
 			],
 			"ridiselect": false,
@@ -2418,16 +2418,16 @@
 				"title": "말하는 대로 될지어다 1부",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3000008203/small#1",
-					"large": "https://img.ridicdn.net/cover/3000008203/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3000008203/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3000008204/small#1",
+					"large": "https://img.ridicdn.net/cover/3000008204/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3000008204/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 92,
+				"total": 93,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2456,8 +2456,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8700,
-					"sale_price": 8700,
+					"full_price": 8800,
+					"sale_price": 8800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -2475,7 +2475,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-18T08:00:08+09:00"
+				"last_opened_episode_date": "2023-06-19T08:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -6002,16 +6002,16 @@
 				"title": "제독님과 해적 선장이 나를 귀찮게 한다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4403010465/small#1",
-					"large": "https://img.ridicdn.net/cover/4403010465/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4403010465/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4403010466/small#1",
+					"large": "https://img.ridicdn.net/cover/4403010466/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4403010466/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1100
 				},
 				"episode": 1,
-				"total": 79,
+				"total": 80,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6040,8 +6040,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7600,
-					"sale_price": 7600,
+					"full_price": 7700,
+					"sale_price": 7700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -6059,7 +6059,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-18T08:00:05+09:00"
+				"last_opened_episode_date": "2023-06-19T08:00:04+09:00"
 			},
 			"categories": [
 				{
@@ -9569,16 +9569,16 @@
 				"title": "흑묘 대공의 애착 메이드",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211044418/small#1",
-					"large": "https://img.ridicdn.net/cover/211044418/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211044418/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211044450/small#1",
+					"large": "https://img.ridicdn.net/cover/211044450/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211044450/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1624,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 79,
+				"total": 80,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9607,8 +9607,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7600,
-					"sale_price": 7600,
+					"full_price": 7700,
+					"sale_price": 7700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -9626,7 +9626,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-16T08:00:08+09:00"
+				"last_opened_episode_date": "2023-06-19T08:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -9677,6 +9677,17 @@
 			"link": "https://ridibooks.com/books/211043229"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -10446,7 +10457,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2241
+					"count": 2240
 				}
 			],
 			"ridiselect": false,
