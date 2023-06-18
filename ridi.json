@@ -759,11 +759,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 72
+					"count": 76
 				},
 				{
 					"rating": 5,
-					"count": 1926
+					"count": 1976
 				}
 			],
 			"ridiselect": false,
@@ -8682,16 +8682,16 @@
 				"title": "집착 남주가 내 인형을 질투한다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2057231153/small#1",
-					"large": "https://img.ridicdn.net/cover/2057231153/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2057231153/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2057231154/small#1",
+					"large": "https://img.ridicdn.net/cover/2057231154/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2057231154/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 128,
+				"total": 129,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8720,8 +8720,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12500,
-					"sale_price": 12500,
+					"full_price": 12600,
+					"sale_price": 12600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -8739,7 +8739,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-17T18:01:28+09:00"
+				"last_opened_episode_date": "2023-06-18T18:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -9491,16 +9491,16 @@
 				"title": "악역이 나를 탐내는 이유",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049039295/small#1",
-					"large": "https://img.ridicdn.net/cover/3049039295/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049039295/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049039353/small#1",
+					"large": "https://img.ridicdn.net/cover/3049039353/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049039353/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 129,
+				"total": 130,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9529,8 +9529,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12600,
-					"sale_price": 12600,
+					"full_price": 12700,
+					"sale_price": 12700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -9548,7 +9548,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-17T18:01:28+09:00"
+				"last_opened_episode_date": "2023-06-18T18:01:27+09:00"
 			},
 			"categories": [
 				{
@@ -16817,16 +16817,16 @@
 				"title": "당신의 최선은 후회로 돌아오고",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049039301/small#1",
-					"large": "https://img.ridicdn.net/cover/3049039301/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049039301/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049039317/small#1",
+					"large": "https://img.ridicdn.net/cover/3049039317/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049039317/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1296,
 					"width": 864
 				},
 				"episode": 1,
-				"total": 84,
+				"total": 85,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -16855,8 +16855,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7900,
-					"sale_price": 7900,
+					"full_price": 8000,
+					"sale_price": 8000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -16874,7 +16874,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-17T18:00:09+09:00"
+				"last_opened_episode_date": "2023-06-18T18:01:27+09:00"
 			},
 			"categories": [
 				{
