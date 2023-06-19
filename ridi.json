@@ -1336,11 +1336,11 @@
 				},
 				{
 					"rating": 2,
-					"count": 10
+					"count": 11
 				},
 				{
 					"rating": 3,
-					"count": 39
+					"count": 38
 				},
 				{
 					"rating": 4,
@@ -2536,7 +2536,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2005
+					"count": 2006
 				}
 			],
 			"ridiselect": false,
