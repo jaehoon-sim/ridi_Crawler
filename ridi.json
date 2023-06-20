@@ -776,11 +776,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 35
+					"count": 37
 				},
 				{
 					"rating": 5,
-					"count": 1534
+					"count": 1549
 				}
 			],
 			"ridiselect": false,
@@ -4978,16 +4978,16 @@
 				"title": "테라리움 어드벤처",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000758/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000758/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000758/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000759/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000759/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000759/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 745,
+				"total": 746,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5016,8 +5016,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 74200,
-					"sale_price": 74200,
+					"full_price": 74300,
+					"sale_price": 74300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -5035,7 +5035,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-16T16:00:11+09:00"
+				"last_opened_episode_date": "2023-06-20T16:00:10+09:00"
 			},
 			"categories": [
 				{
@@ -5086,6 +5086,17 @@
 			"link": "https://ridibooks.com/books/4159000001"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -9226,16 +9237,16 @@
 				"title": "삼류 무협지에서 살아남기",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013128/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013128/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013128/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013147/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013147/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013147/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 318,
+				"total": 319,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9264,8 +9275,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 31500,
-					"sale_price": 31500,
+					"full_price": 31600,
+					"sale_price": 31600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -9283,7 +9294,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-16T17:10:07+09:00"
+				"last_opened_episode_date": "2023-06-20T16:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -9334,6 +9345,17 @@
 			"link": "https://ridibooks.com/books/2259007283"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -12535,7 +12557,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 41
+					"count": 42
 				},
 				{
 					"rating": 4,
@@ -14331,7 +14353,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 445
+					"count": 446
 				},
 				{
 					"rating": 5,
