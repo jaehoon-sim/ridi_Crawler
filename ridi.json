@@ -530,11 +530,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 118
+					"count": 117
 				},
 				{
 					"rating": 5,
-					"count": 3267
+					"count": 3268
 				}
 			],
 			"ridiselect": false,
@@ -721,15 +721,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 13
+					"count": 14
 				},
 				{
 					"rating": 4,
-					"count": 67
+					"count": 68
 				},
 				{
 					"rating": 5,
-					"count": 2008
+					"count": 2026
 				}
 			],
 			"ridiselect": false,
@@ -3327,16 +3327,16 @@
 				"title": "삼류 무협지에서 살아남기",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013168/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013168/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013168/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013406/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013406/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013406/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2196,
 					"width": 1440
 				},
 				"episode": 1,
-				"total": 320,
+				"total": 321,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3365,15 +3365,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 31700,
-					"sale_price": 31700,
+					"full_price": 31800,
+					"sale_price": 31800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-22T16:00:12+09:00"
+				"last_opened_episode_date": "2023-06-23T16:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -3527,16 +3527,16 @@
 				"title": "테라리움 어드벤처",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4159000761/small#1",
-					"large": "https://img.ridicdn.net/cover/4159000761/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4159000761/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4159000762/small#1",
+					"large": "https://img.ridicdn.net/cover/4159000762/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4159000762/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 748,
+				"total": 749,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3565,8 +3565,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 74500,
-					"sale_price": 74500,
+					"full_price": 74600,
+					"sale_price": 74600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -3584,7 +3584,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-06-22T16:00:09+09:00"
+				"last_opened_episode_date": "2023-06-23T16:00:07+09:00"
 			},
 			"categories": [
 				{
