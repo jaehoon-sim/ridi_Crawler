@@ -136,15 +136,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 5
+					"count": 6
 				},
 				{
 					"rating": 4,
-					"count": 65
+					"count": 70
 				},
 				{
 					"rating": 5,
-					"count": 1946
+					"count": 2016
 				}
 			],
 			"ridiselect": false,
@@ -718,7 +718,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3270
+					"count": 3271
 				}
 			],
 			"ridiselect": false,
@@ -1185,16 +1185,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211044295/small#1",
-					"large": "https://img.ridicdn.net/cover/211044295/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211044295/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211044296/small#1",
+					"large": "https://img.ridicdn.net/cover/211044296/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211044296/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 553,
+				"total": 554,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1223,15 +1223,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 54700,
-					"sale_price": 54700,
+					"full_price": 54800,
+					"sale_price": 54800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-24T00:00:33+09:00"
+				"last_opened_episode_date": "2023-06-25T00:00:13+09:00"
 			},
 			"categories": [
 				{
@@ -3907,7 +3907,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48783
+					"count": 48784
 				}
 			],
 			"ridiselect": false,
@@ -6889,15 +6889,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 40
+					"count": 41
 				},
 				{
 					"rating": 4,
-					"count": 259
+					"count": 260
 				},
 				{
 					"rating": 5,
-					"count": 2295
+					"count": 2294
 				}
 			],
 			"ridiselect": false,
@@ -10225,13 +10225,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-06-21T23:55:00+09:00",
-					"closing_date": "2023-06-24T23:59:59+09:00"
+					"opening_date": "2023-02-16T00:00:00+09:00",
+					"closing_date": "2033-02-17T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -12271,13 +12271,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-06-21T23:55:00+09:00",
-					"closing_date": "2023-06-24T23:59:59+09:00"
+					"opening_date": "2022-12-20T00:00:00+09:00",
+					"closing_date": "2032-12-21T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -15594,13 +15594,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-06-21T23:55:00+09:00",
-					"closing_date": "2023-06-24T23:59:59+09:00"
+					"opening_date": "2023-03-30T00:00:00+09:00",
+					"closing_date": "2033-03-31T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -16698,13 +16698,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-06-21T23:55:00+09:00",
-					"closing_date": "2023-06-24T23:59:59+09:00"
+					"opening_date": "2022-09-08T00:00:00+09:00",
+					"closing_date": "2032-09-11T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
