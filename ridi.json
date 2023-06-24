@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1600
+					"count": 1609
 				}
 			],
 			"ridiselect": false,
@@ -1476,7 +1476,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2873
+					"count": 2874
 				}
 			],
 			"ridiselect": false,
@@ -2637,17 +2637,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -3784,7 +3773,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 852
+					"count": 853
 				},
 				{
 					"rating": 5,
@@ -8751,17 +8740,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -10094,17 +10072,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -10651,7 +10618,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 1716
+					"count": 1717
 				},
 				{
 					"rating": 5,
@@ -12064,16 +12031,16 @@
 				"title": "장르가 랜덤이라 불행하다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013149/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013149/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013149/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013408/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013408/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013408/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 84,
+				"total": 85,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -12102,15 +12069,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8000,
-					"sale_price": 8000,
+					"full_price": 8100,
+					"sale_price": 8100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-22T11:00:06+09:00"
+				"last_opened_episode_date": "2023-06-24T11:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -12161,6 +12128,17 @@
 			"link": "https://ridibooks.com/books/2259012631"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -13720,16 +13698,16 @@
 				"title": "NPC 힐러로 전직했습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013403/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013403/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013403/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013414/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013414/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013414/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 109,
+				"total": 110,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -13758,15 +13736,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10600,
-					"sale_price": 10600,
+					"full_price": 10700,
+					"sale_price": 10700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-23T11:00:07+09:00"
+				"last_opened_episode_date": "2023-06-24T11:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -15864,17 +15842,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -16046,7 +16013,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2953
+					"count": 2954
 				}
 			],
 			"ridiselect": false,
