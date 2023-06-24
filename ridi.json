@@ -707,7 +707,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2871
+					"count": 2872
 				}
 			],
 			"ridiselect": false,
@@ -891,7 +891,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2827
+					"count": 2828
 				}
 			],
 			"ridiselect": false,
@@ -2201,7 +2201,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48785
+					"count": 48786
 				}
 			],
 			"ridiselect": false,
@@ -8271,16 +8271,16 @@
 				"title": "제독님과 해적 선장이 나를 귀찮게 한다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4403010470/small#1",
-					"large": "https://img.ridicdn.net/cover/4403010470/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4403010470/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4403010471/small#1",
+					"large": "https://img.ridicdn.net/cover/4403010471/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4403010471/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1100
 				},
 				"episode": 1,
-				"total": 84,
+				"total": 85,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8309,15 +8309,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8100,
-					"sale_price": 8100,
+					"full_price": 8200,
+					"sale_price": 8200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-24T08:00:04+09:00"
+				"last_opened_episode_date": "2023-06-25T08:00:04+09:00"
 			},
 			"categories": [
 				{
