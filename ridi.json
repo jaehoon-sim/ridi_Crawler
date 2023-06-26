@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2208
+					"count": 2223
 				}
 			],
 			"ridiselect": false,
@@ -339,7 +339,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3276
+					"count": 3277
 				}
 			],
 			"ridiselect": false,
@@ -2462,7 +2462,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2765
+					"count": 2762
 				}
 			],
 			"ridiselect": false,
@@ -4863,16 +4863,16 @@
 				"title": "말하는 대로 될지어다 1부",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3000008233/small#1",
-					"large": "https://img.ridicdn.net/cover/3000008233/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3000008233/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3000008235/small#1",
+					"large": "https://img.ridicdn.net/cover/3000008235/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3000008235/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 98,
+				"total": 99,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4901,15 +4901,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9300,
-					"sale_price": 9300,
+					"full_price": 9400,
+					"sale_price": 9400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T08:00:05+09:00"
+				"last_opened_episode_date": "2023-06-27T08:00:04+09:00"
 			},
 			"categories": [
 				{
@@ -7738,16 +7738,16 @@
 				"title": "제독님과 해적 선장이 나를 귀찮게 한다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4403010549/small#1",
-					"large": "https://img.ridicdn.net/cover/4403010549/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4403010549/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4403010550/small#1",
+					"large": "https://img.ridicdn.net/cover/4403010550/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4403010550/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1100
 				},
 				"episode": 1,
-				"total": 86,
+				"total": 87,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7776,15 +7776,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8300,
-					"sale_price": 8300,
+					"full_price": 8400,
+					"sale_price": 8400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T08:00:05+09:00"
+				"last_opened_episode_date": "2023-06-27T08:00:05+09:00"
 			},
 			"categories": [
 				{
@@ -10567,16 +10567,16 @@
 				"title": "흑묘 대공의 애착 메이드",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211044522/small#1",
-					"large": "https://img.ridicdn.net/cover/211044522/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211044522/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211044630/small#1",
+					"large": "https://img.ridicdn.net/cover/211044630/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211044630/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1624,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 85,
+				"total": 86,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10605,15 +10605,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8200,
-					"sale_price": 8200,
+					"full_price": 8300,
+					"sale_price": 8300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T08:00:07+09:00"
+				"last_opened_episode_date": "2023-06-27T08:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -13084,7 +13084,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 975
+					"count": 976
 				},
 				{
 					"rating": 5,
