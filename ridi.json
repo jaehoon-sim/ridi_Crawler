@@ -707,7 +707,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2773
+					"count": 2770
 				}
 			],
 			"ridiselect": false,
@@ -990,16 +990,16 @@
 				"title": "동백꽃",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211044297/small#1",
-					"large": "https://img.ridicdn.net/cover/211044297/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211044297/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211044298/small#1",
+					"large": "https://img.ridicdn.net/cover/211044298/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211044298/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 555,
+				"total": 556,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1028,15 +1028,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 54900,
-					"sale_price": 54900,
+					"full_price": 55000,
+					"sale_price": 55000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T00:01:13+09:00"
+				"last_opened_episode_date": "2023-06-27T00:00:36+09:00"
 			},
 			"categories": [
 				{
@@ -3909,7 +3909,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2611
+					"count": 2610
 				}
 			],
 			"ridiselect": false,
@@ -4104,7 +4104,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2358
+					"count": 2357
 				}
 			],
 			"ridiselect": false,
@@ -4494,7 +4494,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3223
+					"count": 3222
 				}
 			],
 			"ridiselect": false,
@@ -5173,16 +5173,16 @@
 				"title": "라마르크 언덕에서",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3885016710/small#1",
-					"large": "https://img.ridicdn.net/cover/3885016710/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3885016710/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3885016711/small#1",
+					"large": "https://img.ridicdn.net/cover/3885016711/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3885016711/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 66,
+				"total": 67,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5211,15 +5211,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6300,
-					"sale_price": 6300,
+					"full_price": 6400,
+					"sale_price": 6400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T00:01:11+09:00"
+				"last_opened_episode_date": "2023-06-27T00:00:34+09:00"
 			},
 			"categories": [
 				{
@@ -7741,7 +7741,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2008
+					"count": 2007
 				}
 			],
 			"ridiselect": false,
@@ -12797,7 +12797,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2762
+					"count": 2761
 				}
 			],
 			"ridiselect": false,
@@ -14475,7 +14475,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2953
+					"count": 2954
 				}
 			],
 			"ridiselect": false,
@@ -15376,7 +15376,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2637
+					"count": 2636
 				}
 			],
 			"ridiselect": false,
