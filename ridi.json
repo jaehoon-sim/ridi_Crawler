@@ -140,11 +140,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 85
+					"count": 86
 				},
 				{
 					"rating": 5,
-					"count": 2263
+					"count": 2279
 				}
 			],
 			"ridiselect": false,
@@ -729,7 +729,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2873
+					"count": 2874
 				}
 			],
 			"ridiselect": false,
@@ -1119,7 +1119,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2738
+					"count": 2739
 				}
 			],
 			"ridiselect": false,
@@ -1987,16 +1987,16 @@
 				"title": "의도적 접근",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013161/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013161/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013161/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013162/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013162/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013162/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 82,
+				"total": 83,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2025,15 +2025,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7900,
-					"sale_price": 7900,
+					"full_price": 8000,
+					"sale_price": 8000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T11:00:05+09:00"
+				"last_opened_episode_date": "2023-06-27T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -2458,7 +2458,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 105
+					"count": 106
 				},
 				{
 					"rating": 5,
@@ -3025,7 +3025,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2580
+					"count": 2581
 				}
 			],
 			"ridiselect": false,
@@ -3204,7 +3204,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 18
+					"count": 19
 				},
 				{
 					"rating": 2,
@@ -6766,16 +6766,16 @@
 				"title": "장르가 랜덤이라 불행하다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013410/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013410/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013410/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013420/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013420/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013420/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 87,
+				"total": 88,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6804,15 +6804,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8300,
-					"sale_price": 8300,
+					"full_price": 8400,
+					"sale_price": 8400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T11:00:05+09:00"
+				"last_opened_episode_date": "2023-06-27T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -7156,16 +7156,16 @@
 				"title": "의도적 접근(15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013165/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013165/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013165/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013166/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013166/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013166/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 81,
+				"total": 82,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7194,15 +7194,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7800,
-					"sale_price": 7800,
+					"full_price": 7900,
+					"sale_price": 7900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T11:00:06+09:00"
+				"last_opened_episode_date": "2023-06-27T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -8202,7 +8202,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3388
+					"count": 3389
 				}
 			],
 			"ridiselect": false,
@@ -9611,16 +9611,16 @@
 				"title": "이건 대본에 없었잖아요, 공작님!",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013155/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013155/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013155/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013156/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013156/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013156/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 102,
+				"total": 103,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9649,15 +9649,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9900,
-					"sale_price": 9900,
+					"full_price": 10000,
+					"sale_price": 10000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T11:00:08+09:00"
+				"last_opened_episode_date": "2023-06-27T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -10276,7 +10276,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2951
+					"count": 2952
 				}
 			],
 			"ridiselect": false,
@@ -16738,16 +16738,16 @@
 				"title": "죽여 줘, 나를",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013169/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013169/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013169/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013170/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013170/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013170/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 136,
+				"total": 137,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -16776,15 +16776,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13300,
-					"sale_price": 13300,
+					"full_price": 13400,
+					"sale_price": 13400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T11:00:06+09:00"
+				"last_opened_episode_date": "2023-06-27T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -16823,7 +16823,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3279
+					"count": 3280
 				}
 			],
 			"ridiselect": false,
