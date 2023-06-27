@@ -136,15 +136,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 8
+					"count": 9
 				},
 				{
 					"rating": 4,
-					"count": 91
+					"count": 92
 				},
 				{
 					"rating": 5,
-					"count": 2401
+					"count": 2416
 				}
 			],
 			"ridiselect": false,
@@ -449,16 +449,16 @@
 				"title": "망가져도 상관없었다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2057234163/small#1",
-					"large": "https://img.ridicdn.net/cover/2057234163/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2057234163/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2057234196/small#1",
+					"large": "https://img.ridicdn.net/cover/2057234196/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2057234196/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 92,
+				"total": 93,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -487,15 +487,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8700,
-					"sale_price": 8700,
+					"full_price": 8800,
+					"sale_price": 8800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T18:00:46+09:00"
+				"last_opened_episode_date": "2023-06-27T18:00:11+09:00"
 			},
 			"categories": [
 				{
@@ -839,16 +839,16 @@
 				"title": "여름 궁전의 장난감",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3302011836/small#1",
-					"large": "https://img.ridicdn.net/cover/3302011836/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3302011836/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3302011850/small#1",
+					"large": "https://img.ridicdn.net/cover/3302011850/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3302011850/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 73,
+				"total": 74,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -877,15 +877,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7000,
-					"sale_price": 7000,
+					"full_price": 7100,
+					"sale_price": 7100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T18:00:44+09:00"
+				"last_opened_episode_date": "2023-06-27T18:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -1034,16 +1034,16 @@
 				"title": "후궁은 황제를 사랑하지 않는다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2719002819/small#1",
-					"large": "https://img.ridicdn.net/cover/2719002819/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2719002819/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2719002856/small#1",
+					"large": "https://img.ridicdn.net/cover/2719002856/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2719002856/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 81,
+				"total": 82,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1072,15 +1072,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7800,
-					"sale_price": 7800,
+					"full_price": 7900,
+					"sale_price": 7900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T18:00:38+09:00"
+				"last_opened_episode_date": "2023-06-27T18:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -2454,7 +2454,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 20
+					"count": 21
 				},
 				{
 					"rating": 4,
@@ -2462,7 +2462,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2760
+					"count": 2756
 				}
 			],
 			"ridiselect": false,
@@ -2841,7 +2841,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2869
+					"count": 2867
 				}
 			],
 			"ridiselect": false,
@@ -3209,7 +3209,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2611
+					"count": 2608
 				}
 			],
 			"ridiselect": false,
@@ -4261,16 +4261,16 @@
 				"title": "러시안 룰렛",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2093081484/small#1",
-					"large": "https://img.ridicdn.net/cover/2093081484/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2093081484/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2093081507/small#1",
+					"large": "https://img.ridicdn.net/cover/2093081507/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2093081507/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1109,
 					"width": 754
 				},
 				"episode": 1,
-				"total": 100,
+				"total": 101,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4299,15 +4299,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9700,
-					"sale_price": 9700,
+					"full_price": 9800,
+					"sale_price": 9800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T18:00:46+09:00"
+				"last_opened_episode_date": "2023-06-27T18:00:11+09:00"
 			},
 			"categories": [
 				{
@@ -5643,16 +5643,16 @@
 				"title": "집착 남주가 내 인형을 질투한다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2057231769/small#1",
-					"large": "https://img.ridicdn.net/cover/2057231769/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2057231769/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2057231770/small#1",
+					"large": "https://img.ridicdn.net/cover/2057231770/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2057231770/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 135,
+				"total": 136,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5681,15 +5681,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13200,
-					"sale_price": 13200,
+					"full_price": 13300,
+					"sale_price": 13300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T18:00:35+09:00"
+				"last_opened_episode_date": "2023-06-27T18:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -8014,7 +8014,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 184
+					"count": 185
 				},
 				{
 					"rating": 5,
@@ -10859,17 +10859,6 @@
 			"link": "https://ridibooks.com/books/3885013668"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -13923,16 +13912,16 @@
 				"title": "전하, 이제 그만 놓아주세요",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213013539/small#1",
-					"large": "https://img.ridicdn.net/cover/2213013539/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213013539/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213013545/small#1",
+					"large": "https://img.ridicdn.net/cover/2213013545/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213013545/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 648
 				},
 				"episode": 1,
-				"total": 226,
+				"total": 227,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -13961,15 +13950,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 22300,
-					"sale_price": 22300,
+					"full_price": 22400,
+					"sale_price": 22400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-26T18:00:47+09:00"
+				"last_opened_episode_date": "2023-06-27T18:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -15428,16 +15417,16 @@
 				"title": "망가져도 상관없었다(15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2057234121/small#1",
-					"large": "https://img.ridicdn.net/cover/2057234121/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2057234121/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2057234197/small#1",
+					"large": "https://img.ridicdn.net/cover/2057234197/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2057234197/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 86,
+				"total": 87,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -15466,15 +15455,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8100,
-					"sale_price": 8100,
+					"full_price": 8200,
+					"sale_price": 8200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-23T18:00:12+09:00"
+				"last_opened_episode_date": "2023-06-27T18:00:11+09:00"
 			},
 			"categories": [
 				{
@@ -15525,6 +15514,17 @@
 			"link": "https://ridibooks.com/books/2057229488"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -18329,17 +18329,6 @@
 			"link": "https://ridibooks.com/books/2213007786"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
