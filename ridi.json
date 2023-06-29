@@ -725,11 +725,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 104
+					"count": 107
 				},
 				{
 					"rating": 5,
-					"count": 1709
+					"count": 1766
 				}
 			],
 			"ridiselect": false,
@@ -924,7 +924,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4253
+					"count": 4254
 				}
 			],
 			"ridiselect": false,
@@ -2278,7 +2278,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3261
+					"count": 3262
 				}
 			],
 			"ridiselect": false,
@@ -5698,16 +5698,16 @@
 				"title": "라마르크 언덕에서",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3885016713/small#1",
-					"large": "https://img.ridicdn.net/cover/3885016713/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3885016713/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3885017151/small#1",
+					"large": "https://img.ridicdn.net/cover/3885017151/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3885017151/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 69,
+				"total": 70,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5736,15 +5736,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6600,
-					"sale_price": 6600,
+					"full_price": 6700,
+					"sale_price": 6700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T00:01:54+09:00"
+				"last_opened_episode_date": "2023-06-30T00:01:39+09:00"
 			},
 			"categories": [
 				{
@@ -6571,7 +6571,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3047
+					"count": 3048
 				}
 			],
 			"ridiselect": false,
@@ -6747,7 +6747,7 @@
 				},
 				{
 					"rating": 3,
-					"count": 88
+					"count": 89
 				},
 				{
 					"rating": 4,
@@ -17597,16 +17597,16 @@
 				"title": "라마르크 언덕에서 (15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3885016708/small#1",
-					"large": "https://img.ridicdn.net/cover/3885016708/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3885016708/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3885017161/small#1",
+					"large": "https://img.ridicdn.net/cover/3885017161/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3885017161/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 65,
+				"total": 66,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -17635,15 +17635,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6200,
-					"sale_price": 6200,
+					"full_price": 6300,
+					"sale_price": 6300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T00:01:53+09:00"
+				"last_opened_episode_date": "2023-06-30T00:01:39+09:00"
 			},
 			"categories": [
 				{
