@@ -1505,11 +1505,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 107
+					"count": 110
 				},
 				{
 					"rating": 5,
-					"count": 1883
+					"count": 1908
 				}
 			],
 			"ridiselect": false,
@@ -3759,16 +3759,16 @@
 				"title": "말하는 대로 될지어다 1부",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3000008265/small#1",
-					"large": "https://img.ridicdn.net/cover/3000008265/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3000008265/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3000008297/small#1",
+					"large": "https://img.ridicdn.net/cover/3000008297/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3000008297/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 101,
+				"total": 102,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3797,15 +3797,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9600,
-					"sale_price": 9600,
+					"full_price": 9700,
+					"sale_price": 9700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T08:00:05+09:00"
+				"last_opened_episode_date": "2023-06-30T08:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -13497,16 +13497,16 @@
 				"title": "흑묘 대공의 애착 메이드",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211044655/small#1",
-					"large": "https://img.ridicdn.net/cover/211044655/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211044655/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211044660/small#1",
+					"large": "https://img.ridicdn.net/cover/211044660/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211044660/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1624,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 88,
+				"total": 89,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -13535,15 +13535,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8500,
-					"sale_price": 8500,
+					"full_price": 8600,
+					"sale_price": 8600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T08:00:09+09:00"
+				"last_opened_episode_date": "2023-06-30T08:00:08+09:00"
 			},
 			"categories": [
 				{
