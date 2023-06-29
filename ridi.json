@@ -725,11 +725,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 83
+					"count": 85
 				},
 				{
 					"rating": 5,
-					"count": 1407
+					"count": 1425
 				}
 			],
 			"ridiselect": false,
@@ -1303,7 +1303,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2860
+					"count": 2861
 				}
 			],
 			"ridiselect": false,
@@ -2657,7 +2657,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2740
+					"count": 2739
 				}
 			],
 			"ridiselect": false,
@@ -7318,7 +7318,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 7158
+					"count": 7159
 				}
 			],
 			"ridiselect": false,
@@ -17363,7 +17363,7 @@
 			"registration_date": "2022-10-27T06:58:00+09:00",
 			"publication_date": "2022-10-27T00:00:00+09:00",
 			"file": {
-				"size": 1016,
+				"size": 1227,
 				"format": "epub",
 				"page_count": null,
 				"character_count": 3398,
@@ -17372,7 +17372,7 @@
 				"variants": [
 					{
 						"quality": "recommended",
-						"size": 1016
+						"size": 1227
 					}
 				]
 			},
@@ -17976,16 +17976,16 @@
 				"title": "가이드학개론",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2313024540/small#1",
-					"large": "https://img.ridicdn.net/cover/2313024540/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2313024540/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2313024849/small#1",
+					"large": "https://img.ridicdn.net/cover/2313024849/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2313024849/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1033,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 104,
+				"total": 105,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -18014,15 +18014,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10100,
-					"sale_price": 10100,
+					"full_price": 10200,
+					"sale_price": 10200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-24T12:00:08+09:00"
+				"last_opened_episode_date": "2023-06-29T12:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -18073,6 +18073,17 @@
 			"link": "https://ridibooks.com/books/2313021759"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
