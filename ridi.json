@@ -717,7 +717,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 2
+					"count": 3
 				},
 				{
 					"rating": 3,
@@ -725,11 +725,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 102
+					"count": 104
 				},
 				{
 					"rating": 5,
-					"count": 1671
+					"count": 1709
 				}
 			],
 			"ridiselect": false,
