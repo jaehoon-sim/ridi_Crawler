@@ -339,7 +339,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3293
+					"count": 3294
 				}
 			],
 			"ridiselect": false,
@@ -1509,7 +1509,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1951
+					"count": 1959
 				}
 			],
 			"ridiselect": false,
@@ -2009,16 +2009,16 @@
 				"title": "의도적 접근",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013427/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013427/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013427/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013428/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013428/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013428/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 85,
+				"total": 86,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2047,15 +2047,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8200,
-					"sale_price": 8200,
+					"full_price": 8300,
+					"sale_price": 8300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T11:00:06+09:00"
+				"last_opened_episode_date": "2023-06-30T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -2484,7 +2484,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 4254
+					"count": 4255
 				}
 			],
 			"ridiselect": false,
@@ -5198,7 +5198,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 48848
+					"count": 48849
 				}
 			],
 			"ridiselect": false,
@@ -8002,16 +8002,16 @@
 				"title": "의도적 접근(15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013433/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013433/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013433/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013434/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013434/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013434/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 84,
+				"total": 85,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8040,15 +8040,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8100,
-					"sale_price": 8100,
+					"full_price": 8200,
+					"sale_price": 8200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T11:00:06+09:00"
+				"last_opened_episode_date": "2023-06-30T11:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -8876,17 +8876,6 @@
 			"link": "https://ridibooks.com/books/2259012631"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -10490,16 +10479,16 @@
 				"title": "이건 대본에 없었잖아요, 공작님!",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013158/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013158/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013158/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013159/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013159/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013159/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 105,
+				"total": 106,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10528,15 +10517,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10200,
-					"sale_price": 10200,
+					"full_price": 10300,
+					"sale_price": 10300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T11:00:06+09:00"
+				"last_opened_episode_date": "2023-06-30T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -11440,16 +11429,16 @@
 				"title": "NPC 힐러로 전직했습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013444/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013444/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013444/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013445/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013445/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013445/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 113,
+				"total": 114,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11478,15 +11467,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11000,
-					"sale_price": 11000,
+					"full_price": 11100,
+					"sale_price": 11100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T11:00:06+09:00"
+				"last_opened_episode_date": "2023-06-30T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -18364,16 +18353,16 @@
 				"title": "좀비 카페 사장은 S급 힐러입니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013423/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013423/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013423/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013424/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013424/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013424/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 127,
+				"total": 128,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -18402,15 +18391,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12400,
-					"sale_price": 12400,
+					"full_price": 12500,
+					"sale_price": 12500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T11:00:07+09:00"
+				"last_opened_episode_date": "2023-06-30T11:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -18743,16 +18732,16 @@
 				"title": "죽여 줘, 나를",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2259013172/small#1",
-					"large": "https://img.ridicdn.net/cover/2259013172/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2259013172/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2259013173/small#1",
+					"large": "https://img.ridicdn.net/cover/2259013173/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2259013173/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 139,
+				"total": 140,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -18781,15 +18770,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13600,
-					"sale_price": 13600,
+					"full_price": 13700,
+					"sale_price": 13700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T11:00:12+09:00"
+				"last_opened_episode_date": "2023-06-30T11:00:07+09:00"
 			},
 			"categories": [
 				{
