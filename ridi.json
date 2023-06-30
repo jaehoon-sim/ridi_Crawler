@@ -644,16 +644,16 @@
 				"title": "망가져도 상관없었다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2057234397/small#1",
-					"large": "https://img.ridicdn.net/cover/2057234397/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2057234397/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2057234420/small#1",
+					"large": "https://img.ridicdn.net/cover/2057234420/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2057234420/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 94,
+				"total": 95,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -682,15 +682,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8900,
-					"sale_price": 8900,
+					"full_price": 9000,
+					"sale_price": 9000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T18:01:24+09:00"
+				"last_opened_episode_date": "2023-06-30T18:00:10+09:00"
 			},
 			"categories": [
 				{
@@ -1034,16 +1034,16 @@
 				"title": "여름 궁전의 장난감",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3302011872/small#1",
-					"large": "https://img.ridicdn.net/cover/3302011872/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3302011872/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3302011908/small#1",
+					"large": "https://img.ridicdn.net/cover/3302011908/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3302011908/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 76,
+				"total": 77,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1072,15 +1072,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7300,
-					"sale_price": 7300,
+					"full_price": 7400,
+					"sale_price": 7400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T18:01:05+09:00"
+				"last_opened_episode_date": "2023-06-30T18:00:10+09:00"
 			},
 			"categories": [
 				{
@@ -1501,15 +1501,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 26
+					"count": 27
 				},
 				{
 					"rating": 4,
-					"count": 115
+					"count": 119
 				},
 				{
 					"rating": 5,
-					"count": 2030
+					"count": 2068
 				}
 			],
 			"ridiselect": false,
@@ -4907,16 +4907,16 @@
 				"title": "후궁은 황제를 사랑하지 않는다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2719002858/small#1",
-					"large": "https://img.ridicdn.net/cover/2719002858/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2719002858/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2719002859/small#1",
+					"large": "https://img.ridicdn.net/cover/2719002859/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2719002859/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 84,
+				"total": 85,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4945,15 +4945,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8100,
-					"sale_price": 8100,
+					"full_price": 8200,
+					"sale_price": 8200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T18:01:27+09:00"
+				"last_opened_episode_date": "2023-06-30T18:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -5286,16 +5286,16 @@
 				"title": "러시안 룰렛",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2093081530/small#1",
-					"large": "https://img.ridicdn.net/cover/2093081530/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2093081530/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2093081549/small#1",
+					"large": "https://img.ridicdn.net/cover/2093081549/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2093081549/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1109,
 					"width": 754
 				},
 				"episode": 1,
-				"total": 103,
+				"total": 104,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5324,15 +5324,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10000,
-					"sale_price": 10000,
+					"full_price": 10100,
+					"sale_price": 10100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T18:01:07+09:00"
+				"last_opened_episode_date": "2023-06-30T18:00:13+09:00"
 			},
 			"categories": [
 				{
@@ -6261,16 +6261,16 @@
 				"title": "집착 남주가 내 인형을 질투한다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2057231772/small#1",
-					"large": "https://img.ridicdn.net/cover/2057231772/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2057231772/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2057231773/small#1",
+					"large": "https://img.ridicdn.net/cover/2057231773/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2057231773/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 138,
+				"total": 139,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6299,15 +6299,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13500,
-					"sale_price": 13500,
+					"full_price": 13600,
+					"sale_price": 13600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T18:00:54+09:00"
+				"last_opened_episode_date": "2023-06-30T18:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -9710,16 +9710,16 @@
 				"title": "악역이 나를 탐내는 이유",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049039652/small#1",
-					"large": "https://img.ridicdn.net/cover/3049039652/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049039652/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049039878/small#1",
+					"large": "https://img.ridicdn.net/cover/3049039878/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049039878/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 137,
+				"total": 138,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9748,15 +9748,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13400,
-					"sale_price": 13400,
+					"full_price": 13500,
+					"sale_price": 13500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T18:01:27+09:00"
+				"last_opened_episode_date": "2023-06-30T18:00:12+09:00"
 			},
 			"categories": [
 				{
@@ -10663,16 +10663,16 @@
 				"title": "망가져도 상관없었다(15세 개정판)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2057234396/small#1",
-					"large": "https://img.ridicdn.net/cover/2057234396/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2057234396/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2057234424/small#1",
+					"large": "https://img.ridicdn.net/cover/2057234424/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2057234424/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 88,
+				"total": 90,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -10701,15 +10701,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8300,
-					"sale_price": 8300,
+					"full_price": 8500,
+					"sale_price": 8500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T18:01:23+09:00"
+				"last_opened_episode_date": "2023-06-30T18:00:14+09:00"
 			},
 			"categories": [
 				{
@@ -14055,16 +14055,16 @@
 				"title": "전하, 이제 그만 놓아주세요",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2213013564/small#1",
-					"large": "https://img.ridicdn.net/cover/2213013564/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2213013564/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2213013566/small#1",
+					"large": "https://img.ridicdn.net/cover/2213013566/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2213013566/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 972,
 					"width": 648
 				},
 				"episode": 1,
-				"total": 228,
+				"total": 229,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -14093,15 +14093,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 22500,
-					"sale_price": 22500,
+					"full_price": 22600,
+					"sale_price": 22600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T18:01:30+09:00"
+				"last_opened_episode_date": "2023-06-30T18:00:11+09:00"
 			},
 			"categories": [
 				{
@@ -16101,16 +16101,16 @@
 				"title": "남주의 트라우마를 치료해주었는데",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2404005470/small#1",
-					"large": "https://img.ridicdn.net/cover/2404005470/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2404005470/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2404005474/small#1",
+					"large": "https://img.ridicdn.net/cover/2404005474/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2404005474/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2900,
 					"width": 2000
 				},
 				"episode": 1,
-				"total": 123,
+				"total": 124,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -16139,15 +16139,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12000,
-					"sale_price": 12000,
+					"full_price": 12100,
+					"sale_price": 12100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-29T18:01:28+09:00"
+				"last_opened_episode_date": "2023-06-30T18:00:13+09:00"
 			},
 			"categories": [
 				{
@@ -18048,7 +18048,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2241
+					"count": 2240
 				}
 			],
 			"ridiselect": false,
