@@ -331,15 +331,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 7
+					"count": 9
 				},
 				{
 					"rating": 4,
-					"count": 198
+					"count": 199
 				},
 				{
 					"rating": 5,
-					"count": 1995
+					"count": 2036
 				}
 			],
 			"ridiselect": false,
@@ -637,13 +637,13 @@
 					"periodical": true
 				},
 				"wait_for_free": {
-					"interval_hours": 6,
+					"interval_hours": 24,
 					"rental_days": 3,
 					"rental_volume": 1,
 					"last_restricted_episodes": 10,
 					"next_available_date": null,
-					"opening_date": "2023-06-29T23:55:00+09:00",
-					"closing_date": "2023-07-02T23:59:59+09:00"
+					"opening_date": "2023-06-29T00:00:00+09:00",
+					"closing_date": "2033-06-30T23:59:59+09:00"
 				},
 				"scheduled_free": {
 					"active": false,
@@ -1259,7 +1259,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2829
+					"count": 2828
 				}
 			],
 			"ridiselect": false,
