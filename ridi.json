@@ -718,7 +718,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2237
+					"count": 2279
 				}
 			],
 			"ridiselect": false,
@@ -3103,16 +3103,16 @@
 				"title": "나의 상냥한 빌런에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2369006194/small#1",
-					"large": "https://img.ridicdn.net/cover/2369006194/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2369006194/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2369006197/small#1",
+					"large": "https://img.ridicdn.net/cover/2369006197/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2369006197/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1414,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 215,
+				"total": 216,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3141,15 +3141,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 21100,
-					"sale_price": 21100,
+					"full_price": 21200,
+					"sale_price": 21200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-30T19:00:09+09:00"
+				"last_opened_episode_date": "2023-07-03T19:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -3200,6 +3200,17 @@
 			"link": "https://ridibooks.com/books/2369005517"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -4141,7 +4152,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3035
+					"count": 3034
 				}
 			],
 			"ridiselect": false,
@@ -4641,16 +4652,16 @@
 				"title": "고결한 공작가에서 달아나겠습니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2719002847/small#1",
-					"large": "https://img.ridicdn.net/cover/2719002847/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2719002847/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2719002869/small#1",
+					"large": "https://img.ridicdn.net/cover/2719002869/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2719002869/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1530,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 71,
+				"total": 72,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4679,15 +4690,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6800,
-					"sale_price": 6800,
+					"full_price": 6900,
+					"sale_price": 6900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-30T19:00:08+09:00"
+				"last_opened_episode_date": "2023-07-03T19:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -4738,6 +4749,17 @@
 			"link": "https://ridibooks.com/books/2719002730"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -11034,16 +11056,16 @@
 				"title": "도망친 시녀는 대마법사의 사랑을 받는다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2719002874/small#1",
-					"large": "https://img.ridicdn.net/cover/2719002874/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2719002874/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2719002875/small#1",
+					"large": "https://img.ridicdn.net/cover/2719002875/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2719002875/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 104,
+				"total": 105,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11072,15 +11094,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10100,
-					"sale_price": 10100,
+					"full_price": 10200,
+					"sale_price": 10200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-06-30T19:00:09+09:00"
+				"last_opened_episode_date": "2023-07-03T19:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -11131,6 +11153,17 @@
 			"link": "https://ridibooks.com/books/2719002421"
 		},
 		"badges": [
+			{
+				"badge_type": "Up",
+				"badge_urls": [
+					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
+				],
+				"badge_text": "Up",
+				"badge_background": {
+					"light": "#1ECDCD",
+					"dark": "#0FB9BE"
+				}
+			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
