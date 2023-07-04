@@ -530,11 +530,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 70
+					"count": 71
 				},
 				{
 					"rating": 5,
-					"count": 1845
+					"count": 1883
 				}
 			],
 			"ridiselect": false,
@@ -1119,7 +1119,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2667
+					"count": 2668
 				}
 			],
 			"ridiselect": false,
@@ -5676,16 +5676,16 @@
 				"title": "라마르크 언덕에서",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3885017153/small#1",
-					"large": "https://img.ridicdn.net/cover/3885017153/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3885017153/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3885017154/small#1",
+					"large": "https://img.ridicdn.net/cover/3885017154/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3885017154/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 72,
+				"total": 73,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5714,15 +5714,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6900,
-					"sale_price": 6900,
+					"full_price": 7000,
+					"sale_price": 7000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-04T00:01:27+09:00"
+				"last_opened_episode_date": "2023-07-05T00:00:34+09:00"
 			},
 			"categories": [
 				{
