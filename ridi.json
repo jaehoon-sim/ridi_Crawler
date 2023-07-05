@@ -1843,19 +1843,19 @@
 				},
 				{
 					"rating": 2,
-					"count": 0
+					"count": 1
 				},
 				{
 					"rating": 3,
-					"count": 14
+					"count": 16
 				},
 				{
 					"rating": 4,
-					"count": 140
+					"count": 142
 				},
 				{
 					"rating": 5,
-					"count": 2354
+					"count": 2458
 				}
 			],
 			"ridiselect": false,
@@ -2245,7 +2245,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2801
+					"count": 2796
 				}
 			],
 			"ridiselect": false,
@@ -8014,7 +8014,7 @@
 			"ratings": [
 				{
 					"rating": 1,
-					"count": 12
+					"count": 13
 				},
 				{
 					"rating": 2,
@@ -8022,15 +8022,15 @@
 				},
 				{
 					"rating": 3,
-					"count": 43
+					"count": 44
 				},
 				{
 					"rating": 4,
-					"count": 176
+					"count": 175
 				},
 				{
 					"rating": 5,
-					"count": 2790
+					"count": 2785
 				}
 			],
 			"ridiselect": false,
