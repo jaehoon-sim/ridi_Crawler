@@ -725,11 +725,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 72
+					"count": 71
 				},
 				{
 					"rating": 5,
-					"count": 2071
+					"count": 2078
 				}
 			],
 			"ridiselect": false,
@@ -839,16 +839,16 @@
 				"title": "처음부터 잘못된 결혼이었다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3885017735/small#1",
-					"large": "https://img.ridicdn.net/cover/3885017735/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3885017735/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3885017737/small#1",
+					"large": "https://img.ridicdn.net/cover/3885017737/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3885017737/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 61,
+				"total": 62,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -877,15 +877,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 5800,
-					"sale_price": 5800,
+					"full_price": 5900,
+					"sale_price": 5900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-06T08:00:03+09:00"
+				"last_opened_episode_date": "2023-07-07T08:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -924,7 +924,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1250
+					"count": 1256
 				}
 			],
 			"ridiselect": false,
@@ -3275,7 +3275,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2713
+					"count": 2714
 				}
 			],
 			"ridiselect": false,
@@ -5164,16 +5164,16 @@
 				"title": "말하는 대로 될지어다 1부",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3000008445/small#1",
-					"large": "https://img.ridicdn.net/cover/3000008445/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3000008445/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3000008447/small#1",
+					"large": "https://img.ridicdn.net/cover/3000008447/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3000008447/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 106,
+				"total": 107,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5202,8 +5202,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10100,
-					"sale_price": 10100,
+					"full_price": 10200,
+					"sale_price": 10200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -5221,7 +5221,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-07-06T08:00:07+09:00"
+				"last_opened_episode_date": "2023-07-07T08:00:05+09:00"
 			},
 			"categories": [
 				{
@@ -13928,16 +13928,16 @@
 				"title": "흑묘 대공의 애착 메이드",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211044732/small#1",
-					"large": "https://img.ridicdn.net/cover/211044732/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211044732/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211044741/small#1",
+					"large": "https://img.ridicdn.net/cover/211044741/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211044741/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1624,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 93,
+				"total": 94,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -13966,15 +13966,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9000,
-					"sale_price": 9000,
+					"full_price": 9100,
+					"sale_price": 9100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-06T08:00:07+09:00"
+				"last_opened_episode_date": "2023-07-07T08:00:07+09:00"
 			},
 			"categories": [
 				{
