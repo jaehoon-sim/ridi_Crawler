@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1395
+					"count": 1398
 				}
 			],
 			"ridiselect": false,
@@ -156,17 +156,6 @@
 			"link": "https://ridibooks.com/books/2259013483"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -254,16 +243,16 @@
 				"title": "계약 결혼인데 각인했다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3302012121/small#1",
-					"large": "https://img.ridicdn.net/cover/3302012121/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3302012121/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3302012146/small#1",
+					"large": "https://img.ridicdn.net/cover/3302012146/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3302012146/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 139,
+				"total": 140,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -292,15 +281,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13600,
-					"sale_price": 13600,
+					"full_price": 13700,
+					"sale_price": 13700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-07T07:00:40+09:00"
+				"last_opened_episode_date": "2023-07-08T07:00:10+09:00"
 			},
 			"categories": [
 				{
@@ -547,17 +536,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -729,7 +707,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2932
+					"count": 2934
 				}
 			],
 			"ridiselect": false,
@@ -741,17 +719,6 @@
 			"link": "https://ridibooks.com/books/5059000204"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -1148,17 +1115,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -1539,17 +1495,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -1831,16 +1776,16 @@
 				"title": "남주들의 첫날밤을 수집합니다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/793017794/small#1",
-					"large": "https://img.ridicdn.net/cover/793017794/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/793017794/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/793017801/small#1",
+					"large": "https://img.ridicdn.net/cover/793017801/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/793017801/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 435,
+				"total": 436,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1869,15 +1814,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 43200,
-					"sale_price": 43200,
+					"full_price": 43300,
+					"sale_price": 43300,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-07T07:00:33+09:00"
+				"last_opened_episode_date": "2023-07-08T07:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -2308,17 +2253,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -2600,16 +2534,16 @@
 				"title": "친구의 친구는 남인가요?",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4629001327/small#1",
-					"large": "https://img.ridicdn.net/cover/4629001327/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4629001327/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4629001334/small#1",
+					"large": "https://img.ridicdn.net/cover/4629001334/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4629001334/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1680,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 134,
+				"total": 135,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -2638,15 +2572,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13100,
-					"sale_price": 13100,
+					"full_price": 13200,
+					"sale_price": 13200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-07T07:00:44+09:00"
+				"last_opened_episode_date": "2023-07-08T07:00:11+09:00"
 			},
 			"categories": [
 				{
@@ -2909,17 +2843,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -3105,17 +3028,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -3202,16 +3114,16 @@
 				"title": "나를 죽인 당신에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211044708/small#1",
-					"large": "https://img.ridicdn.net/cover/211044708/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211044708/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211044709/small#1",
+					"large": "https://img.ridicdn.net/cover/211044709/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211044709/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1624,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 87,
+				"total": 88,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3240,15 +3152,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8400,
-					"sale_price": 8400,
+					"full_price": 8500,
+					"sale_price": 8500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-07T07:00:19+09:00"
+				"last_opened_episode_date": "2023-07-08T07:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -3861,7 +3773,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1751
+					"count": 1767
 				}
 			],
 			"ridiselect": false,
@@ -4480,17 +4392,6 @@
 			"link": "https://ridibooks.com/books/5224000001"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -5285,17 +5186,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -5667,17 +5557,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "PartialFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/badge_margin_5_pixel.938edb416d5d091597f1efbd3ff8f87c.png",
@@ -5758,16 +5637,16 @@
 				"title": "레이디 클래스(삽화본)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/1483029779/small#1",
-					"large": "https://img.ridicdn.net/cover/1483029779/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/1483029779/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/1483029780/small#1",
+					"large": "https://img.ridicdn.net/cover/1483029780/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/1483029780/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1700,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 136,
+				"total": 137,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5796,8 +5675,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 13300,
-					"sale_price": 13300,
+					"full_price": 13400,
+					"sale_price": 13400,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -5815,7 +5694,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-07-07T07:00:17+09:00"
+				"last_opened_episode_date": "2023-07-08T07:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -6078,17 +5957,6 @@
 			"link": "https://ridibooks.com/books/4516000709"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -6366,16 +6234,16 @@
 				"title": "결백하지 못한 자들에게",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4375024246/small#1",
-					"large": "https://img.ridicdn.net/cover/4375024246/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4375024246/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4375024286/small#1",
+					"large": "https://img.ridicdn.net/cover/4375024286/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4375024286/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 118,
+				"total": 119,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -6404,8 +6272,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11500,
-					"sale_price": 11500,
+					"full_price": 11600,
+					"sale_price": 11600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -6423,7 +6291,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-07-07T07:00:39+09:00"
+				"last_opened_episode_date": "2023-07-08T07:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -6872,17 +6740,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -7170,16 +7027,16 @@
 				"title": "부서진 세계의 구원자",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/2378054742/small#1",
-					"large": "https://img.ridicdn.net/cover/2378054742/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/2378054742/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/2378054743/small#1",
+					"large": "https://img.ridicdn.net/cover/2378054743/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/2378054743/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2450,
 					"width": 1600
 				},
 				"episode": 1,
-				"total": 683,
+				"total": 684,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7208,15 +7065,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 67800,
-					"sale_price": 67800,
+					"full_price": 67900,
+					"sale_price": 67900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-07T07:00:41+09:00"
+				"last_opened_episode_date": "2023-07-08T07:00:09+09:00"
 			},
 			"categories": [
 				{
@@ -7365,16 +7222,16 @@
 				"title": "돌아오면 예쁘게 울어 줘",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4375023805/small#1",
-					"large": "https://img.ridicdn.net/cover/4375023805/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4375023805/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4375023806/small#1",
+					"large": "https://img.ridicdn.net/cover/4375023806/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4375023806/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 113,
+				"total": 114,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -7403,15 +7260,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11000,
-					"sale_price": 11000,
+					"full_price": 11100,
+					"sale_price": 11100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-07T07:00:39+09:00"
+				"last_opened_episode_date": "2023-07-08T07:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -8162,16 +8019,16 @@
 				"title": "피접: 붉은 속박",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3863000486/small#1",
-					"large": "https://img.ridicdn.net/cover/3863000486/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3863000486/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3863000487/small#1",
+					"large": "https://img.ridicdn.net/cover/3863000487/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3863000487/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1697,
 					"width": 1200
 				},
 				"episode": 1,
-				"total": 89,
+				"total": 90,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8200,15 +8057,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 8600,
-					"sale_price": 8600,
+					"full_price": 8700,
+					"sale_price": 8700,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-07T07:00:12+09:00"
+				"last_opened_episode_date": "2023-07-08T07:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -8725,16 +8582,16 @@
 				"title": "계약 결혼인데 각인했다 (15세 이용가)",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3302012122/small#1",
-					"large": "https://img.ridicdn.net/cover/3302012122/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3302012122/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3302012148/small#1",
+					"large": "https://img.ridicdn.net/cover/3302012148/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3302012148/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 131,
+				"total": 132,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8763,15 +8620,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 12800,
-					"sale_price": 12800,
+					"full_price": 12900,
+					"sale_price": 12900,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-07T07:00:40+09:00"
+				"last_opened_episode_date": "2023-07-08T07:00:14+09:00"
 			},
 			"categories": [
 				{
@@ -9202,17 +9059,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -9494,16 +9340,16 @@
 				"title": "늑대의 동정을 가져버렸다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4629001329/small#1",
-					"large": "https://img.ridicdn.net/cover/4629001329/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4629001329/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4629001330/small#1",
+					"large": "https://img.ridicdn.net/cover/4629001330/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4629001330/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1620,
 					"width": 1080
 				},
 				"episode": 1,
-				"total": 120,
+				"total": 121,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9532,15 +9378,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 11700,
-					"sale_price": 11700,
+					"full_price": 11800,
+					"sale_price": 11800,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-07T07:00:44+09:00"
+				"last_opened_episode_date": "2023-07-08T07:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -10386,17 +10232,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -11051,16 +10886,16 @@
 				"title": "나에게만 상냥한 당신",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3049039095/small#1",
-					"large": "https://img.ridicdn.net/cover/3049039095/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3049039095/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3049039096/small#1",
+					"large": "https://img.ridicdn.net/cover/3049039096/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3049039096/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 990,
 					"width": 700
 				},
 				"episode": 1,
-				"total": 108,
+				"total": 109,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11089,8 +10924,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10500,
-					"sale_price": 10500,
+					"full_price": 10600,
+					"sale_price": 10600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -11108,7 +10943,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-07-07T07:00:10+09:00"
+				"last_opened_episode_date": "2023-07-08T07:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -11855,16 +11690,16 @@
 				"title": "로판 덕후가 무협지에 빙의했다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4375024258/small#1",
-					"large": "https://img.ridicdn.net/cover/4375024258/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4375024258/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4375024259/small#1",
+					"large": "https://img.ridicdn.net/cover/4375024259/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4375024259/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 164,
+				"total": 165,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -11893,15 +11728,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 16100,
-					"sale_price": 16100,
+					"full_price": 16200,
+					"sale_price": 16200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-07T07:00:40+09:00"
+				"last_opened_episode_date": "2023-07-08T07:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -12343,17 +12178,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -12537,17 +12361,6 @@
 			"link": "https://ridibooks.com/books/4403009109"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -13387,16 +13200,16 @@
 				"title": "찬란한 저주의 밤",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4375023674/small#1",
-					"large": "https://img.ridicdn.net/cover/4375023674/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4375023674/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4375023675/small#1",
+					"large": "https://img.ridicdn.net/cover/4375023675/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4375023675/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1098,
 					"width": 720
 				},
 				"episode": 1,
-				"total": 97,
+				"total": 98,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -13425,8 +13238,8 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9400,
-					"sale_price": 9400,
+					"full_price": 9500,
+					"sale_price": 9500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
@@ -13444,7 +13257,7 @@
 					"max_discount_rate": null,
 					"min_discount_rate": null
 				},
-				"last_opened_episode_date": "2023-07-07T07:00:39+09:00"
+				"last_opened_episode_date": "2023-07-08T07:00:08+09:00"
 			},
 			"categories": [
 				{
@@ -14277,17 +14090,6 @@
 			"link": "https://ridibooks.com/books/5293000003"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -16923,17 +16725,6 @@
 		},
 		"badges": [
 			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
-			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
 					"https://active.ridibooks.com/badge/on_book_cover/waitfree.75df8f279d97b6d70041db9353d66053.png"
@@ -17870,17 +17661,6 @@
 			"link": "https://ridibooks.com/books/945074835"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
