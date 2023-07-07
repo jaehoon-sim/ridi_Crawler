@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1398
+					"count": 1405
 				}
 			],
 			"ridiselect": false,
@@ -707,7 +707,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2934
+					"count": 2935
 				}
 			],
 			"ridiselect": false,
@@ -3589,7 +3589,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3990
+					"count": 3991
 				}
 			],
 			"ridiselect": false,
@@ -3688,16 +3688,16 @@
 				"title": "처음부터 잘못된 결혼이었다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3885017737/small#1",
-					"large": "https://img.ridicdn.net/cover/3885017737/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3885017737/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3885017738/small#1",
+					"large": "https://img.ridicdn.net/cover/3885017738/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3885017738/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 62,
+				"total": 63,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -3726,15 +3726,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 5900,
-					"sale_price": 5900,
+					"full_price": 6000,
+					"sale_price": 6000,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-07T08:00:08+09:00"
+				"last_opened_episode_date": "2023-07-08T08:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -3773,7 +3773,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 1767
+					"count": 1789
 				}
 			],
 			"ridiselect": false,
@@ -4593,17 +4593,6 @@
 			"link": "https://ridibooks.com/books/3000007873"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
@@ -9939,16 +9928,16 @@
 				"title": "제독님과 해적 선장이 나를 귀찮게 한다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4403010556/small#1",
-					"large": "https://img.ridicdn.net/cover/4403010556/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4403010556/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4403010557/small#1",
+					"large": "https://img.ridicdn.net/cover/4403010557/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4403010557/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1100
 				},
 				"episode": 1,
-				"total": 93,
+				"total": 94,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9977,15 +9966,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9000,
-					"sale_price": 9000,
+					"full_price": 9100,
+					"sale_price": 9100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-07T08:00:06+09:00"
+				"last_opened_episode_date": "2023-07-08T08:00:04+09:00"
 			},
 			"categories": [
 				{
@@ -15598,17 +15587,6 @@
 			"link": "https://ridibooks.com/books/211043229"
 		},
 		"badges": [
-			{
-				"badge_type": "Up",
-				"badge_urls": [
-					"https://active.ridibooks.com/badge/on_book_cover/up.b21a0bba421547bb2543285c77f34e4b.png"
-				],
-				"badge_text": "Up",
-				"badge_background": {
-					"light": "#1ECDCD",
-					"dark": "#0FB9BE"
-				}
-			},
 			{
 				"badge_type": "WaitFree",
 				"badge_urls": [
