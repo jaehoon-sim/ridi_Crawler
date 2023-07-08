@@ -140,11 +140,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 62
+					"count": 63
 				},
 				{
 					"rating": 5,
-					"count": 1579
+					"count": 1637
 				}
 			],
 			"ridiselect": false,
@@ -2819,7 +2819,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2715
+					"count": 2714
 				}
 			],
 			"ridiselect": false,
@@ -3758,11 +3758,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 128
+					"count": 130
 				},
 				{
 					"rating": 5,
-					"count": 1897
+					"count": 1905
 				}
 			],
 			"ridiselect": false,
@@ -5250,16 +5250,16 @@
 				"title": "세상에 나쁜 군견은 없다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4629001333/small#1",
-					"large": "https://img.ridicdn.net/cover/4629001333/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4629001333/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4629001338/small#1",
+					"large": "https://img.ridicdn.net/cover/4629001338/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4629001338/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1620,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 64,
+				"total": 65,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -5288,15 +5288,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6100,
-					"sale_price": 6100,
+					"full_price": 6200,
+					"sale_price": 6200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-07T16:23:02+09:00"
+				"last_opened_episode_date": "2023-07-08T15:00:11+09:00"
 			},
 			"categories": [
 				{
@@ -7671,7 +7671,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 113
+					"count": 114
 				},
 				{
 					"rating": 5,
@@ -8461,7 +8461,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2922
+					"count": 2923
 				}
 			],
 			"ridiselect": false,
@@ -9622,7 +9622,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2725
+					"count": 2726
 				}
 			],
 			"ridiselect": false,
@@ -11345,7 +11345,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2821
+					"count": 2820
 				}
 			],
 			"ridiselect": false,
