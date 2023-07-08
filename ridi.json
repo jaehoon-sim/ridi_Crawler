@@ -1196,16 +1196,16 @@
 				"title": "처음부터 잘못된 결혼이었다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3885017738/small#1",
-					"large": "https://img.ridicdn.net/cover/3885017738/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3885017738/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3885017739/small#1",
+					"large": "https://img.ridicdn.net/cover/3885017739/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3885017739/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 63,
+				"total": 64,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -1234,15 +1234,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6000,
-					"sale_price": 6000,
+					"full_price": 6100,
+					"sale_price": 6100,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-08T08:00:06+09:00"
+				"last_opened_episode_date": "2023-07-09T08:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -9045,16 +9045,16 @@
 				"title": "제독님과 해적 선장이 나를 귀찮게 한다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4403010557/small#1",
-					"large": "https://img.ridicdn.net/cover/4403010557/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4403010557/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4403010558/small#1",
+					"large": "https://img.ridicdn.net/cover/4403010558/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4403010558/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1600,
 					"width": 1100
 				},
 				"episode": 1,
-				"total": 94,
+				"total": 95,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -9083,15 +9083,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9100,
-					"sale_price": 9100,
+					"full_price": 9200,
+					"sale_price": 9200,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-08T08:00:04+09:00"
+				"last_opened_episode_date": "2023-07-09T08:00:04+09:00"
 			},
 			"categories": [
 				{
