@@ -144,7 +144,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2779
+					"count": 2780
 				}
 			],
 			"ridiselect": false,
@@ -2674,7 +2674,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3097
+					"count": 3098
 				}
 			],
 			"ridiselect": false,
@@ -3053,7 +3053,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3269
+					"count": 3268
 				}
 			],
 			"ridiselect": false,
@@ -4116,16 +4116,16 @@
 				"title": "세상에 나쁜 군견은 없다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/4629001345/small#1",
-					"large": "https://img.ridicdn.net/cover/4629001345/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/4629001345/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/4629001350/small#1",
+					"large": "https://img.ridicdn.net/cover/4629001350/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/4629001350/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1620,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 68,
+				"total": 69,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4154,15 +4154,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6500,
-					"sale_price": 6500,
+					"full_price": 6600,
+					"sale_price": 6600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-11T15:00:07+09:00"
+				"last_opened_episode_date": "2023-07-12T15:00:06+09:00"
 			},
 			"categories": [
 				{
@@ -14821,7 +14821,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3410
+					"count": 3411
 				}
 			],
 			"ridiselect": false,
