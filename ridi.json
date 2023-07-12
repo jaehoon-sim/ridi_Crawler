@@ -140,11 +140,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 230
+					"count": 231
 				},
 				{
 					"rating": 5,
-					"count": 2786
+					"count": 2788
 				}
 			],
 			"ridiselect": false,
@@ -1476,7 +1476,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2854
+					"count": 2853
 				}
 			],
 			"ridiselect": false,
@@ -2663,7 +2663,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3098
+					"count": 3099
 				}
 			],
 			"ridiselect": false,
@@ -7277,7 +7277,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2998
+					"count": 2997
 				}
 			],
 			"ridiselect": false,
@@ -8134,16 +8134,16 @@
 				"title": "라마르크 언덕에서",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3885017159/small#1",
-					"large": "https://img.ridicdn.net/cover/3885017159/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3885017159/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3885017160/small#1",
+					"large": "https://img.ridicdn.net/cover/3885017160/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3885017160/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 78,
+				"total": 79,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8172,15 +8172,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 7500,
-					"sale_price": 7500,
+					"full_price": 7600,
+					"sale_price": 7600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-12T00:00:39+09:00"
+				"last_opened_episode_date": "2023-07-13T00:02:06+09:00"
 			},
 			"categories": [
 				{
@@ -9356,7 +9356,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2926
+					"count": 2927
 				}
 			],
 			"ridiselect": false,
@@ -12756,7 +12756,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 6620
+					"count": 6621
 				}
 			],
 			"ridiselect": false,
@@ -14788,7 +14788,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 3411
+					"count": 3412
 				}
 			],
 			"ridiselect": false,
