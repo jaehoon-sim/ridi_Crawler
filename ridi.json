@@ -140,7 +140,7 @@
 				},
 				{
 					"rating": 4,
-					"count": 231
+					"count": 232
 				},
 				{
 					"rating": 5,
@@ -725,11 +725,11 @@
 				},
 				{
 					"rating": 4,
-					"count": 26
+					"count": 28
 				},
 				{
 					"rating": 5,
-					"count": 1407
+					"count": 1435
 				}
 			],
 			"ridiselect": false,
@@ -4311,16 +4311,16 @@
 				"title": "말하는 대로 될지어다 1부",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3000008479/small#1",
-					"large": "https://img.ridicdn.net/cover/3000008479/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3000008479/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3000008481/small#1",
+					"large": "https://img.ridicdn.net/cover/3000008481/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3000008481/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 2100,
 					"width": 1500
 				},
 				"episode": 1,
-				"total": 110,
+				"total": 111,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -4349,15 +4349,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 10500,
-					"sale_price": 10500,
+					"full_price": 10600,
+					"sale_price": 10600,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-12T08:00:07+09:00"
+				"last_opened_episode_date": "2023-07-13T08:00:04+09:00"
 			},
 			"categories": [
 				{
@@ -6703,7 +6703,7 @@
 				},
 				{
 					"rating": 5,
-					"count": 2579
+					"count": 2580
 				}
 			],
 			"ridiselect": false,
@@ -7972,16 +7972,16 @@
 				"title": "처음부터 잘못된 결혼이었다",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/3885017757/small#1",
-					"large": "https://img.ridicdn.net/cover/3885017757/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/3885017757/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/3885017758/small#1",
+					"large": "https://img.ridicdn.net/cover/3885017758/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/3885017758/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1500,
 					"width": 1000
 				},
 				"episode": 1,
-				"total": 67,
+				"total": 68,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -8010,15 +8010,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 6400,
-					"sale_price": 6400,
+					"full_price": 6500,
+					"sale_price": 6500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-12T08:00:07+09:00"
+				"last_opened_episode_date": "2023-07-13T08:00:07+09:00"
 			},
 			"categories": [
 				{
@@ -14044,16 +14044,16 @@
 				"title": "흑묘 대공의 애착 메이드",
 				"header_image": null,
 				"cover": {
-					"small": "https://img.ridicdn.net/cover/211044876/small#1",
-					"large": "https://img.ridicdn.net/cover/211044876/large#1",
-					"xxlarge": "https://img.ridicdn.net/cover/211044876/xxlarge#1"
+					"small": "https://img.ridicdn.net/cover/211044914/small#1",
+					"large": "https://img.ridicdn.net/cover/211044914/large#1",
+					"xxlarge": "https://img.ridicdn.net/cover/211044914/xxlarge#1"
 				},
 				"original_cover_size": {
 					"height": 1624,
 					"width": 1120
 				},
 				"episode": 1,
-				"total": 97,
+				"total": 98,
 				"completion": false,
 				"publishing_schedule": {
 					"periodical": true
@@ -14082,15 +14082,15 @@
 					"min_price_non_zero": 100
 				},
 				"purchase_all": {
-					"full_price": 9400,
-					"sale_price": 9400,
+					"full_price": 9500,
+					"sale_price": 9500,
 					"discount_rate": null,
 					"max_discount_rate": 0,
 					"min_discount_rate": 0
 				},
 				"rental": null,
 				"rental_all": null,
-				"last_opened_episode_date": "2023-07-12T08:00:11+09:00"
+				"last_opened_episode_date": "2023-07-13T08:00:12+09:00"
 			},
 			"categories": [
 				{
@@ -16561,7 +16561,7 @@
 				},
 				{
 					"rating": 2,
-					"count": 96
+					"count": 97
 				},
 				{
 					"rating": 3,
